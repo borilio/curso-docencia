@@ -1,0 +1,50 @@
+{
+    "preset": "MiPresetSky",
+    "defaultThemeId": "typora",
+    "mostrarLigadurasFuentes": true,
+    "devMode": true,
+    "data": {
+        "copyright": "",
+        "logos": [
+            {
+                "img": "img/logo1.png",
+                "link": "",
+                "alt": "Logo1"
+            }
+        ]
+    },
+    "themes": [
+        {
+            "id": "github-light",
+            "name": "GitHub Claro",
+            "baseMode": "light",
+            "markdownThemeFile": "github-markdown-light.css",
+            "highlightThemeFile": "github.css"
+        },
+        {
+            "id": "github-dark",
+            "name": "GitHub Oscuro",
+            "baseMode": "dark",
+            "markdownThemeFile": "github-markdown-dark.css",
+            "highlightThemeFile": "github-dark.css"
+        },
+        {
+            "id": "typora",
+            "name": "Typora",
+            "baseMode": "dark",
+            "markdownThemeFile": "github-markdown-darky.css",
+            "highlightThemeFile": "base16/dracula.css"
+        }
+    ],
+    "enlacesExternos": {
+        "texto": "Aquí se mostrarán todos los enlaces externos que usaremos durante el curso, tales como ejercicios, calendarios, plataforma educativa, plataforma de mensajería, etc.",
+        "enlaces": [
+            {
+                "icon": "pi pi-graduation-cap",
+                "desc": "Plataforma virtual",
+                "descLarga": "Plataforma donde se encuentran todos los contenidos y ejercicios del curso",
+                "href": "https://www.formacion.cc/index.php?c=academiaepsilon"
+            }
+        ]
+    }
+}
