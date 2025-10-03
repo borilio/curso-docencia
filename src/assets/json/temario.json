@@ -226,7 +226,7 @@
       "habilitado": true,
       "temas": [
         {
-          "id": "MF1442_3-test",
+          "id": "MF1442-test",
           "orden": 1,
           "titulo": "MF1442_3 - Tests",
           "descripcion": "Todos los test de la unidad",
@@ -239,7 +239,7 @@
           "habilitado": true
         },
         {
-          "id": "MF1443_3-test",
+          "id": "MF1443-test",
           "orden": 2,
           "titulo": "MF1443_3 - Tests",
           "descripcion": "Todos los test de la unidad",
