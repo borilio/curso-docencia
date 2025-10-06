@@ -313,7 +313,7 @@
       "orden": 10,
       "titulo": "Cuestionarios",
       "mostrarTitulo": true,
-      "descripcion": "Aquí se mostrarán los ejercicios resueltos durante el curso",
+      "descripcion": "Desde aquí podrás acceder a las recopilaciones de test que incluyen todos los cuestionarios de cada módulo.",
       "icon": "pi pi-graduation-cap",
       "emoji": "🧑‍🏫",
       "color": "#1c754f", 
