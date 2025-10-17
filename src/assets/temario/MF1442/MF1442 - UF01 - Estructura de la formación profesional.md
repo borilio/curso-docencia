@@ -107,7 +107,7 @@ En España había cinco niveles, aunque la FP se centra en los tres primeros:
 
 > [!note]
 >
-> Los niveles 4 yPero  5 se corresponden con estudios universitarios y de posgrado.  
+> Los niveles 4 y 5 se corresponden con estudios universitarios y de posgrado.  
 
 En Europa, el **Marco Europeo de Cualificaciones (MEC)** tiene ocho niveles. España adaptó esa referencia mediante el **Marco Español de Cualificaciones (MECU)**.
 
