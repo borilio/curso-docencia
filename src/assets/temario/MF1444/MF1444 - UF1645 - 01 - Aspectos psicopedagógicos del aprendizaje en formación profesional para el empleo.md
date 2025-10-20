@@ -305,7 +305,7 @@ Al planificar una acción formativa debemos tener en cuenta una serie de **carac
 > La **Andragogía**, según *Knowles (1970)*, es la disciplina que se ocupa del estudio del aprendizaje adulto.  
 > Haz clic en el siguiente vídeo para ver la explicación de este concepto:
 >
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/s9thbe9q2XY?si=MuPHk2KwO1HKz5bU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+> <iframe width="100%" height="315" src="https://www.youtube.com/embed/s9thbe9q2XY?si=MuPHk2KwO1HKz5bU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
@@ -1882,17 +1882,17 @@ Existen **cinco fases** en el proceso comunicativo:
 
 ---
 
-### 4.4. Tipos: verbal, no verbal, y escrita {{revisar desde aquí}}
+### 4.4. Tipos: verbal, no verbal, y escrita 
 
 #### 4.4.1. Comunicación oral
 
 La **comunicación oral** utiliza como vehículo transmisor **la voz**, la cual presenta varias cualidades fundamentales:
 
-- 🎵 **Tono:** intensidad con la que se emite la voz.  
-- 🗣️ **Dicción:** forma de **articular y pronunciar** las palabras con claridad.  
-- 🎶 **Entonación:** modulación de la voz que refleja **sentido, intención y emoción** del mensaje.  
-- 💬 **Fluidez:** facilidad y naturalidad en la expresión oral.  
-- ⏱️ **Ritmo:** incluye los **acentos, pausas y velocidad** con que se transmite un mensaje.
+1. 🎵 **Tono:** intensidad con la que se emite la voz.  
+2. 🗣️ **Dicción:** forma de **articular y pronunciar** las palabras con claridad.  
+3. 🎶 **Entonación:** modulación de la voz que refleja **sentido, intención y emoción** del mensaje.  
+4. 💬 **Fluidez:** facilidad y naturalidad en la expresión oral.  
+5. ⏱️ **Ritmo:** incluye los **acentos, pausas y velocidad** con que se transmite un mensaje.
 
 > [!important]
 > En la comunicación verbal, el docente debe cuidar el **tema tratado**, los **objetivos perseguidos**, la **situación en la que se desarrolla** y el **papel de los alumnos**, manteniendo un estilo **natural, estimulante, cordial y gramaticalmente correcto.**
@@ -1907,6 +1907,296 @@ Para que la comunicación verbal sea eficaz dentro de las acciones formativas, e
 
 - 👂 **Escuchar:**  
   Implica **captar la información**, **interpretarla y valorarla**, y ofrecer una **respuesta coherente** que demuestre un nivel mayor de comprensión.
+
+---
+
+#### 4.4.2. Comunicación no verbal
+
+> [!note] Definición
+>
+> 📢La **comunicación no verbal** es el proceso mediante el cual se transmiten y reciben mensajes **sin utilizar palabras**, a través de **indicios o signos** que no tienen una estructura sintáctica verbal.
+
+- 💬 Nos comunicamos no solo con lo que decimos, sino también con **nuestra presencia, gestos y actitudes**.  
+  Por ello, los signos no verbales que intercambian docente y alumnado (gestos, posturas, distancias...) son fundamentales.  
+- 🔄 La comunicación no verbal está estrechamente **relacionada con la verbal**. Ambas deben ser **coherentes**, ya que un gesto puede **reforzar o contradecir** el mensaje hablado.
+
+Podemos distinguir **tres aspectos principales** dentro de la comunicación no verbal:
+
+- 🗣️ **Paralenguaje:**  
+  Incluye todo lo que **acompaña al lenguaje verbal**, como el **tono**, la **vocalización** o la **velocidad de emisión**.  
+  También abarca **sonidos no verbales** (risa, gruñidos, pausas, tics o imperfecciones del habla) que aportan matices expresivos.
+
+
+
+- 🧍‍♂️ **Movimientos corporales:**  
+  Se refieren a los **gestos, posturas y expresiones faciales**.
+
+  - **Gestos:** movimientos de la cara, manos, pies o dedos.  
+    Deben ser **visibles, naturales y selectivos** para no distraer.  
+  - **Posturas:** transmiten **interés o rechazo** según la cercanía o distancia.  
+    Una postura natural y variable indica dinamismo y respeto.  
+    Sentado = calma y cercanía; de pie = energía y dinamismo.  
+  - **Expresiones faciales:** la **mirada y la sonrisa** son muy expresivas; reflejan comodidad, integración o satisfacción,  
+    aunque también pueden usarse para **llamar la atención o aparentar**.
+
+
+
+- 📏 **Proximidad:**  
+  Se refiere a la **distancia física** que usamos al interactuar.  
+  Debe ser **cómoda y adecuada al contexto**, teniendo en cuenta tanto la **personalidad y cultura del docente** como la del alumnado.
+
+
+
+🎥 **Vídeo recomendado:**  
+Elsa Punset ofrece consejos prácticos sobre cómo usar el lenguaje no verbal en la formación presencial (3:51 min):  
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/tWcbxSVusms?rel=0&showinfo=0" title="Lenguaje no verbal - Elsa Punset" frameborder="0" allowfullscreen></iframe>
+
+---
+
+#### 4.4.3. Comunicación escrita
+
+> [!note] Definición
+>
+> 📢La **comunicación escrita** permite transmitir información mediante la palabra escrita, favoreciendo el aprendizaje, la reflexión y la creación.  
+> Además, supera las limitaciones de **espacio y tiempo** de la comunicación oral.
+
+Para lograr una comunicación escrita eficaz, debemos atender a varios aspectos:
+
+- 📝 **Corrección lingüística:**  
+  Uso correcto y adecuado de la lengua, respetando las normas gramaticales y ortográficas.
+
+- 💡 **Claridad:**  
+  El texto debe ser **transparente, claro y sencillo**, evitando ambigüedades o expresiones confusas.
+
+- 🎨 **Variedad:**  
+  Es importante **evitar repeticiones**, tanto de palabras en la misma frase como en el mismo párrafo.
+
+A través de la comunicación escrita se fomenta no solo el aprendizaje, sino también la **capacidad de análisis y expresión personal**.  
+El acto de escribir requiere **concentración**, **dominio del léxico** y un **estilo claro, conciso y directo.**
+
+**Aspectos formales del texto:**
+
+- 🔠 Señalar los apartados o enunciados con letras o números.  
+- ➖ Separar con espacios en blanco los bloques de contenido distintos.  
+- ✍️ Usar subrayados, distintos tipos de letra o mayúsculas para resaltar información importante (títulos, palabras clave...).  
+- 🧩 Elaborar **resúmenes o esquemas** de las ideas relevantes.  
+- 🖼️ Utilizar **imágenes significativas** para hacer el texto más atractivo y comprensible.
+
+---
+
+🎥 **Vídeo recomendado:**  
+Genís Roca en TEDxGalicia — *“La sociedad digital”*, donde expone cómo la tecnología ha influido en la historia de la humanidad. Es una demostración de distintas técnicas de exposición (no es el contenido que explica, **es como lo explica**.)
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/kMXZbDT5vm0" title="La sociedad digital - Genís Roca (TEDxGalicia)" frameborder="0" allowfullscreen></iframe>
+
+---
+
+### 4.5. Interferencias y barreras en la comunicación
+
+> [!note] Definición
+>
+> 📢Una **barrera de comunicación** es todo **obstáculo o dificultad** que surge en el proceso comunicativo e **impide que el mensaje sea correctamente interpretado** por el receptor.
+
+> [!important]
+> En muchas interacciones comunicativas podemos observar **dificultades para que el mensaje sea comprendido correctamente**, apreciando diferencias entre lo que el emisor quiere decir y lo que el receptor finalmente interpreta o pone en práctica.
+
+**Etapas en las que puede producirse la distorsión del mensaje:**
+
+1. 💬 Lo que se quiere decir.  
+2. 🧠 Lo que se sabe decir.  
+3. 🗣️ Lo que se dice.  
+4. 👂 Lo que se oye.  
+5. 🎧 Lo que se escucha.  
+6. 🧩 Lo que se comprende.  
+7. 🤔 Lo que se acepta.  
+8. 📝 Lo que se retiene.  
+9. 🚀 Lo que se pone en práctica.
+
+Una forma de evitar que estas distorsiones se produzcan de manera exagerada es mantener una **retroalimentación constante**, realizando **preguntas de verificación** durante la exposición para comprobar la comprensión de pequeños bloques de información.
+
+La **distorsión de la comunicación** está relacionada frecuentemente con la presencia de **elementos que dificultan el proceso comunicativo**, conocidos como **barreras de comunicación**.
+
+Podemos distinguir, en función de los **elementos clave del proceso formativo**, las siguientes barreras:
+
+Podemos distinguir, en función de los **elementos clave del proceso formativo**, las siguientes barreras:
+
+- 🧑‍🏫 **Respecto al emisor:**  
+  - Características personales (por ejemplo, inseguridad, nerviosismo o falta de empatía con el grupo).  
+  - Formas de presentar el contenido (por ejemplo, explicaciones excesivamente teóricas o monótonas).  
+  - Interacción docente–participantes (por ejemplo, no permitir preguntas o no fomentar la participación).  
+  - Competencia docente (por ejemplo, desconocimiento de la materia o falta de preparación).
+
+- 📡 **Respecto al canal:**  
+  - Muletillas o repeticiones innecesarias (por ejemplo, decir constantemente “¿vale?” o “¿de acuerdo?”).  
+  - Falta de vocalización y/o entonación adecuadas (por ejemplo, hablar demasiado bajo o sin variar el tono).  
+  - Expresión escrita deficiente (por ejemplo, textos con errores ortográficos o gramaticales).  
+  - Uso inadecuado de tipos de letra (por ejemplo, tipografías difíciles de leer en las presentaciones).
+
+- 💬 **Respecto al mensaje:**  
+  - Densidad informativa excesiva o inclusión de información poco significativa (por ejemplo, sobrecargar una diapositiva con texto irrelevante).  
+  - Confusión informativa (por ejemplo, mezclar conceptos sin una estructura clara).  
+  - Desestructuración, con objetivos poco claros (por ejemplo, explicar sin un orden lógico).  
+  - Uso de lenguaje técnico sin ejemplos (por ejemplo, emplear jerga informática sin aclarar su significado).  
+  - Distorsión o pérdida del sentido original (por ejemplo, simplificar en exceso un concepto técnico).
+
+- 🏫 **Respecto al contexto:**  
+  - Condiciones físicas del aula (por ejemplo, iluminación deficiente, ruidos o temperatura inadecuada).  
+  - Falta de orden o limpieza (por ejemplo, aula desordenada o con distracciones visuales).  
+  - Falta de habilidad en el uso de recursos didácticos (por ejemplo, no saber utilizar correctamente el proyector o la pizarra digital).
+
+- 👥 **Respecto a los receptores:**  
+  - Falta de motivación o intereses personales ajenos al tema (por ejemplo, cuando el alumno considera que el contenido “no le servirá para nada”).  
+  - Experiencias previas que condicionan la percepción (por ejemplo, una mala experiencia anterior con un curso similar).  
+  - Factores emocionales o de estado de ánimo (por ejemplo, nerviosismo, cansancio o frustración).  
+  - Condiciones físicas o anímicas desfavorables (por ejemplo, hambre, sueño o dolor de cabeza).  
+  - Interpretación incorrecta de la información (por ejemplo, entender una ironía como una crítica real).
+
+---
+
+### 4.6. La retroalimentación
+
+> [!warning]
+>
+> Los términos **retroalimentación**, **realimentación** y **feedback** son **sinónimos** y se refieren al mismo proceso de comunicación: la **respuesta o devolución** que el receptor hace al emisor sobre el mensaje recibido.  
+> En este temario se utilizará el término **retroalimentación** por ser el más habitual en el ámbito educativo.
+
+#### 4.6.1. Conceptos generales
+
+> [!important]
+> La **retroalimentación** es uno de los **elementos clave de la comunicación**.  
+> Se refiere a la **respuesta que nuestro comportamiento provoca en los receptores**.  
+> Es fundamental para **guiar a los participantes en el proceso de aprendizaje**, reforzando y estimulando **conductas positivas**, y corrigiendo las **ejecuciones o comportamientos inadecuados.**
+
+> [!note] Definición
+>
+> 📢**Retroalimentación o *feed-back***  
+> Es la **respuesta del receptor al mensaje del emisor**, también conocida como **efecto retorno**.  
+> Constituye la **principal característica de la comunicación didáctica**, ya que permite que **emisor y receptor intercambien sus roles** para lograr una comunicación más eficaz.
+
+**¿Por qué es importante?**
+
+- 🎯 Permite saber si los **objetivos de la comunicación** se han cumplido.  
+- 🧠 Ayuda a conocer **cómo afecta el comportamiento** al receptor.  
+- 🔄 Facilita la **corrección de distorsiones** en la comunicación.
+
+**¿Cómo se hace?**
+
+- ✅ Comenzar dando **información positiva** sobre los aspectos correctos de la ejecución.  
+- 💡 Ofrecer **sugerencias o alternativas** para mejorar aquello que no haya sido correcto.  
+
+**Facilitadores de la comunicación:**
+
+- 👂 Escuchar atentamente y mostrar empatía.  
+- 🕐 Elegir el **momento y lugar adecuados** para comunicarse.  
+- 🎯 Adaptar el contenido a las **necesidades del interlocutor.**  
+- 🌱 Mantener una actitud **recompensante y constructiva.**  
+- 🔁 Proporcionar **retroalimentación continua.**
+
+El docente, como **emisor de información**, tiene la responsabilidad de **comprobar el grado de comprensión del alumnado**, utilizando la retroalimentación mediante:
+
+- ❓ **Preguntar al alumno** para verificar la comprensión.  
+- 🧾 **Resumir la información** impartida.  
+- 👀 **Observar las conductas y respuestas** del alumnado durante la actividad.
+
+---
+
+#### 4.6.2. Formas y estrategias de la retroalimentación
+
+> [!important]
+> La **retroalimentación** es fundamental para **guiar a los participantes en el proceso de aprendizaje**, reforzando y estimulando **conductas positivas** y corrigiendo **comportamientos inadecuados**.  
+> Para facilitarla, es importante que el receptor perciba en el docente una **actitud receptiva y comprensiva** frente a sus dudas o dificultades.
+
+**Formas de expresar la retroalimentación:**
+
+|      | **Forma**        | **Explicación**                                              | **Ejemplo**                                                  |
+| ---- | ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 🗣️    | **Verbal**       | Se responde mediante la palabra.                             | Responder a una pregunta de un participante.                 |
+| ✍️    | **Escrita**      | Se utiliza el lenguaje escrito.                              | Comentarios en un ejercicio de evaluación.                   |
+| 😊    | **No verbal**    | Se responde mediante comportamientos o gestos.               | Una sonrisa de aprobación.                                   |
+| 🎯    | **Consciente**   | Se expresa la respuesta de forma intencional.                | Asentir con la cabeza o levantar la mano para hacer una pregunta. |
+| 😐    | **Inconsciente** | Se produce sin una voluntad consciente.                      | Moverse en la silla o bostezar.                              |
+| 🧾    | **Formal**       | Se obtiene información a través de instrumentos elaborados previamente. | Cuestionarios de satisfacción del alumnado.                  |
+| ☕    | **Informal**     | Se recibe información en situaciones no planificadas.        | Un comentario durante un descanso o en la cafetería.         |
+
+**Estrategias para obtener retroalimentación:**
+
+- 🤝 **Si queremos facilitar la retroalimentación:**  
+  Es decir, mostrar al receptor una actitud receptiva ante sus dudas o problemas.
+
+  **Cómo actuar:**  
+  - Saber **escuchar** y responder adecuadamente a las preguntas.  
+  - Ser **pacientes** ante preguntas que puedan parecer simples o repetitivas.  
+  - **Respetar al receptor** y sus opiniones, razonando sin imponer.  
+  - Desarrollar la **empatía**, comprendiendo lo que el otro quiere expresar.  
+  - Crear un **clima de confianza** que favorezca el diálogo abierto.
+
+- 💬 **Si queremos buscar o provocar la retroalimentación:**  
+  Es decir, **animar al alumnado a expresar sus dudas** o comprobar su nivel de comprensión.
+
+  **Cómo actuar:**  
+  - Formular **preguntas abiertas** que inviten a explicaciones más amplias, para detectar diferencias entre lo que se transmite y lo que se interpreta.  
+  - Orientar la conversación hacia la **resolución de problemas**, evitando buscar culpables y fomentando un entorno de aprendizaje **positivo y colaborativo.**
+
+---
+
+### 4.7. La escucha activa
+
+![Representación de escucha activa](img/MF1444 - UF1645 - 01 - Aspectos psicopedagógicos del aprendizaje en formación profesional para el empleo/image-20251020141145173.png)
+
+> [!note] Definición
+>
+> 📢La **escucha activa** es el esfuerzo físico y mental por **escuchar con atención el mensaje del emisor**, intentando **interpretar correctamente** lo que comunica.  
+> También se define como la **habilidad de tomar conciencia** de lo que la otra persona está diciendo y de lo que **intenta transmitirnos**, mostrando con gestos y actitudes que estamos recibiendo su mensaje.  
+> Facilita la **comunicación bidireccional** y ayuda a **fijar los contenidos en la memoria.**
+
+**Objetivos de la escucha activa:**
+
+1. 🎯 Asegurar al interlocutor que hemos **recogido y entendido su mensaje.**  
+2. 💬 Alentar al interlocutor a **emitir nuevos mensajes.**
+
+**Finalidad de la escucha activa:**
+
+1. 👂 Informar al interlocutor de que se le presta atención, haciéndole sentir **comprendido y motivado** a continuar comunicándose.  
+2. 💡 Resulta **recompensante** para el emisor.  
+3. ⚖️ **Ayuda a neutralizar reacciones negativas** en situaciones de conflicto.  
+4. 👥 Refuerza la **influencia positiva del docente** sobre el grupo de participantes.  
+5. 🌱 Es una **habilidad observable y fácilmente imitable** por los demás.
+
+Para aplicar la escucha activa es necesario **observar al interlocutor**, **empatizar** y **demostrar atención** tanto con gestos como con palabras:
+
+1. 👀 **Observando al interlocutor:**  
+  - Identificar el contenido de sus expresiones verbales y sentimientos.  
+  - Reconocer el momento en el que desea que hablemos o intervengamos.  
+  - Practicar la **empatía**, poniéndonos en su lugar para entender mejor sus emociones (sin necesidad de compartirlas).
+
+2. 💪 **Con gestos y con el cuerpo:**  
+  - Adoptar una **postura activa y receptiva.**  
+  - Mantener **contacto visual.**  
+  - Mostrar una **expresión facial atenta.**  
+  - Utilizar **incentivos no verbales** como asentir con la cabeza.  
+  - **Tomar notas** si es necesario.  
+  - Usar un **tono y volumen de voz adecuados.**
+
+3. 🗣️ **Con palabras:**  
+  - Emplear **incentivos verbales** (“ya veo”, “ajá”, “entiendo”).  
+  - **Parafrasear o resumir** lo que se ha escuchado (“si no te he entendido mal…”).
+
+4. 🚫 **Evitar hacer mientras escuchamos:**  
+  - No interrumpir al que habla.  
+  - No juzgar.  
+  - No ofrecer ayuda o soluciones prematuras.  
+  - No rechazar lo que la otra persona siente.  
+  - No contar “tu historia” mientras el otro necesita expresarse.  
+  - Evitar el **“síndrome del experto”**, es decir, creer que tenemos todas las respuestas antes de escuchar completamente.
+
+
+
+---
+
+{{ Seguir por el punto 4.8, pegárselo a chatgpt y palante }}
+
+
 
 ---
 
@@ -2208,7 +2498,7 @@ Las demás opciones (regalos, castigo, aprobación o reflexión) pueden influir,
 
 ---
 
-## Ejercicio E5
+## Ejercicio E5. Práctica asociada al CE3.1 (Unidad  de aprendizaje 1, Epígrafe 4.3) Actividad  evaluable
 
 PDF aparte.
 
@@ -2217,6 +2507,30 @@ PDF aparte.
 ## Ejercicio 16. Elementos del proceso de comunicación
 
 ![Ejercicio 16](img/MF1444 - UF1645 - 01 - Aspectos psicopedagógicos del aprendizaje en formación profesional para el empleo/image-20251017142056625.png)
+
+---
+
+## Ejercicio E6. Actividad colaborativa a través del Foro asociada al CE3.2 (Unidad de aprendizaje 1, Epígrafe 4.4.2) Actividad evaluable
+
+PDF aparte.
+
+---
+
+## Ejercicio E7. Práctica asociada al CE3.4 (Unidad  de aprendizaje 1, Epígrafe 4.5) Actividad  evaluable 
+
+PDF aparte.
+
+---
+
+## Ejercicio 17. Barreras
+
+![Ejercicio 17](img/MF1444 - UF1645 - 01 - Aspectos psicopedagógicos del aprendizaje en formación profesional para el empleo/image-20251020124218900.png)
+
+---
+
+## Ejercicio E8. Práctica asociada al CE3.6 (Unidad de aprendizaje 1, Epígrafe 4.6.2) Actividad evaluable
+
+PDF aparte.
 
 ---
 
