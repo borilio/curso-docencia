@@ -1576,32 +1576,32 @@ Estas teorías se centran en uno o varios aspectos del proceso motivacional, com
 Entre las principales teorías destacan:
 
 1. ⚙️ **Higiene-crecimiento:**  
-  Propone que los **factores motivacionales** están relacionados con la **capacidad de logro** y el desarrollo personal.  
-  👉 *Ejemplo:* sentirse motivado por asumir nuevas responsabilidades en el trabajo.
+    Propone que los **factores motivacionales** están relacionados con la **capacidad de logro** y el desarrollo personal.  
+    👉 *Ejemplo:* sentirse motivado por asumir nuevas responsabilidades en el trabajo.
 
 2. 🧱 **Jerarquía de las necesidades:**  
-  Sostiene que la motivación surge del **deseo de satisfacer necesidades**, ya sean **primarias** (independientes de la experiencia) o **secundarias** (derivadas de la práctica).  
-  👉 *Ejemplo:* buscar seguridad laboral una vez cubiertas las necesidades básicas.
+    Sostiene que la motivación surge del **deseo de satisfacer necesidades**, ya sean **primarias** (independientes de la experiencia) o **secundarias** (derivadas de la práctica).  
+    👉 *Ejemplo:* buscar seguridad laboral una vez cubiertas las necesidades básicas.
 
 3. 🎯 **Teoría de las tres necesidades:**  
-  Indica que la motivación está marcada por tres impulsos fundamentales: **necesidad de logro, de poder y de afiliación.**  
-  👉 *Ejemplo:* una persona que busca destacar en su profesión o pertenecer a un grupo influyente.
+    Indica que la motivación está marcada por tres impulsos fundamentales: **necesidad de logro, de poder y de afiliación.**  
+    👉 *Ejemplo:* una persona que busca destacar en su profesión o pertenecer a un grupo influyente.
 
 4. 🏆 **Establecimiento de metas:**  
-  Afirma que la **definición clara y la aceptación de metas**, junto con la **retroalimentación**, incrementan el rendimiento.  
-  👉 *Ejemplo:* fijarse un objetivo alcanzable y recibir comentarios sobre los progresos.
+    Afirma que la **definición clara y la aceptación de metas**, junto con la **retroalimentación**, incrementan el rendimiento.  
+    👉 *Ejemplo:* fijarse un objetivo alcanzable y recibir comentarios sobre los progresos.
 
 5. 🔁 **Reforzamiento:**  
-  Basada en la idea de que las **consecuencias positivas aumentan la probabilidad de repetir una acción.**  
-  👉 *Ejemplo:* continuar esforzándose tras recibir reconocimiento o elogios.
+    Basada en la idea de que las **consecuencias positivas aumentan la probabilidad de repetir una acción.**  
+    👉 *Ejemplo:* continuar esforzándose tras recibir reconocimiento o elogios.
 
 6. ⚖️ **Equidad:**  
-  Plantea que la motivación proviene de la **necesidad de alcanzar un equilibrio o justicia** respecto a los iguales.  
-  👉 *Ejemplo:* sentir desmotivación si se percibe un trato desigual entre compañeros.
+    Plantea que la motivación proviene de la **necesidad de alcanzar un equilibrio o justicia** respecto a los iguales.  
+    👉 *Ejemplo:* sentir desmotivación si se percibe un trato desigual entre compañeros.
 
 7. 🔮 **Expectativas:**  
-  Explica que la **percepción de éxito o fracaso esperado** influye directamente en el nivel de esfuerzo que una persona está dispuesta a realizar.  
-  👉 *Ejemplo:* un estudiante que confía en su capacidad para aprobar tenderá a estudiar con mayor constancia.
+    Explica que la **percepción de éxito o fracaso esperado** influye directamente en el nivel de esfuerzo que una persona está dispuesta a realizar.  
+    👉 *Ejemplo:* un estudiante que confía en su capacidad para aprobar tenderá a estudiar con mayor constancia.
 
 
 
@@ -1619,18 +1619,18 @@ Un **impulso** sería “tengo hambre”, mientras que el **deseo** sería “te
 Cuando algo nos interesa, el proceso motivacional **pasa por tres fases:**
 
 1. 🔹 **Fase carencial:**  
-  Es el momento en que **tomamos conciencia de una necesidad**.  
-  Esta puede ser de **orden primario** (como el hambre o el sueño) o de **orden secundario** (como la estima, el prestigio o el estatus social).  
-  👉 *Ejemplo:* sentir cansancio o necesidad de reconocimiento.
+    Es el momento en que **tomamos conciencia de una necesidad**.  
+    Esta puede ser de **orden primario** (como el hambre o el sueño) o de **orden secundario** (como la estima, el prestigio o el estatus social).  
+    👉 *Ejemplo:* sentir cansancio o necesidad de reconocimiento.
 
 2. 🔹 **Fase dinámica:**  
-  Es la **fase de acción**, en la que intentamos **cubrir la necesidad detectada**.  
-  Corresponde al **impulso** que nos mueve a actuar.  
-  👉 *Ejemplo:* buscar comida, descansar o realizar una tarea para obtener aprobación.
+    Es la **fase de acción**, en la que intentamos **cubrir la necesidad detectada**.  
+    Corresponde al **impulso** que nos mueve a actuar.  
+    👉 *Ejemplo:* buscar comida, descansar o realizar una tarea para obtener aprobación.
 
 3. 🔹 **Fase reductora:**  
-  Es la **fase de equilibrio**, que se produce **al satisfacer la necesidad sentida**, generando **sensación de satisfacción y bienestar.**  
-  👉 *Ejemplo:* comer, dormir o recibir el reconocimiento deseado.
+    Es la **fase de equilibrio**, que se produce **al satisfacer la necesidad sentida**, generando **sensación de satisfacción y bienestar.**  
+    👉 *Ejemplo:* comer, dormir o recibir el reconocimiento deseado.
 
 ![Esquema fases de la motivación](img/MF1444 - UF1645 - 01 - Aspectos psicopedagógicos del aprendizaje en formación profesional para el empleo/image-20251017100036324.png){.img-preview}
 
@@ -1640,18 +1640,277 @@ Cuando el objetivo logra satisfacer la necesidad, el individuo alcanza un **nuev
 > El **proceso motivacional es cíclico**: una vez satisfecha una necesidad, **surgen otras nuevas** y el proceso se repite.  
 > Sin embargo, cuando **no se puede alcanzar el objetivo** ni satisfacer la necesidad, aparece la **frustración.**
 
-🧩 **[Aquí incluir SmartArt sobre el proceso de frustración]**
+![Esquema motivación-frustración](img/MF1444 - UF1645 - 01 - Aspectos psicopedagógicos del aprendizaje en formación profesional para el empleo/image-202510171024.png){.img-preview}
 
-> [!important]
+
+
+> [!caution]
 > La **frustración** aparece cuando **no logramos alcanzar el objetivo deseado.**  
 > Puede generar **comportamientos positivos**, como un **alto grado de adaptabilidad o crecimiento personal**,  
 > o bien **comportamientos negativos**, como **resentimiento, sensación de fracaso o actitudes defensivas.**
 
+---
 
+### 3.3. Aplicación de estrategias para motivar al alumnado
+
+#### 3.3.1. Factores
+
+> [!warning]
+> Las personas adultas **solo se orientan hacia nuevos aprendizajes cuando están motivadas para ello.**  
+> Los conocimientos nuevos deben **conectarse con sus experiencias previas** o **satisfacer alguna necesidad o interés personal.**  
+> Además, el **esfuerzo y el tiempo invertido** deben verse reflejados en **logros tangibles**, y las **expectativas generadas** influyen directamente en su implicación.
+
+Los participantes adultos **enfrentan el aprendizaje con diferente nivel de interés y esfuerzo** según tres tipos de factores:
+
+1. 🎯 **Significado o importancia:**  
+   Depende de la **relevancia que tenga para ellos alcanzar las metas u objetivos** propuestos.  
+   👉 *Ejemplo:* un alumno se implicará más si percibe que el curso puede mejorar su empleabilidad o desarrollo profesional.
+
+2. 🧠 **Posibilidades de superar las dificultades:**  
+   Están vinculadas a su **experiencia previa, conocimientos adquiridos y capacidad para afrontar obstáculos.**  
+   👉 *Ejemplo:* alguien con experiencia en informática se sentirá más seguro al realizar un curso avanzado en esa materia.
+
+3. ⏱️ **Coste de tiempo y esfuerzo:**  
+   Hace referencia al **esfuerzo físico, mental y temporal** que deben invertir para lograr el aprendizaje deseado.  
+   👉 *Ejemplo:* un adulto con jornada laboral completa valorará la formación según el tiempo que pueda dedicarle fuera del trabajo.
+
+---
+
+#### 3.3.2. Expectativas
+
+Cuando el formador **mantiene expectativas positivas hacia el alumnado**, se favorece un entorno de aprendizaje más motivador y participativo.  
+Estas expectativas generan efectos directos sobre la dinámica del grupo:
+
+- 🌞 Se crea un **clima socioemocional más cálido y estimulante.**  
+- 💬 Se ofrece **mayor feedback** al grupo.  
+- 📚 Se **proporciona más información y apoyo** al alumnado.  
+- ❓ Se brindan **más oportunidades para hacer preguntas y participar activamente.**
+
+
+Las **teorías de la motivación** ofrecen pautas que el docente puede aplicar para reforzar el compromiso del alumnado:
+
+- 🎯 **Conectar los contenidos** con los **intereses, necesidades y experiencias previas** de los participantes.  
+- 💡 **Presentar los temas de forma atractiva**, despertando la **curiosidad**, el **asombro** o la **duda constructiva.**  
+- 🤝 **Involucrar al alumnado** en la **planificación y desarrollo** del aprendizaje, fomentando su autonomía y participación.
+
+---
+
+#### 3.3.3. Estrategias
+
+Todas las estrategias utilizadas para aumentar la motivación persiguen los siguientes objetivos:
+
+- 🎯 Atraer la atención del participante.  
+- 💡 Despertar su interés.  
+- 🚀 Estimular su deseo de aprender.  
+- 🤝 Provocar que actúe, dirigiendo sus esfuerzos hacia la consecución de las metas definidas.
+
+A continuación se presentan las **estrategias motivacionales** que el formador puede aplicar en función de distintos **principios motivacionales**:
+
+| **Principio motivacional**                                   | **Estrategias para aplicarlo**                               |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **1. 💡Activar la curiosidad y el interés** del alumno por el contenido o la tarea. | 🟠 Presentar información nueva, sorprendente y relacionada con los conocimientos del alumnado.<br>🟠Plantear o suscitar problemas reales.<br>🟠Variar los elementos o actividades para mantener la atención. |
+| **2. 🎯 Mostrar la relevancia del contenido o tarea** para el alumno. | 🟢Relacionar los contenidos con sus experiencias, conocimientos previos y valores.<br>🟢Mostrar la meta que se persigue al aprender los contenidos.<br>🟢Utilizar ejemplos que demuestren su utilidad práctica. |
+| **3. 👥 Organizar la actividad en grupos cooperativos.**      | 🟣Diseñar problemas o tareas que deban resolverse en grupo.<br>🟣Evaluar la formación a través del trabajo colaborativo. |
+| **4. 🙋 Facilitar la percepción de autonomía.**               | 🔴Permitir elegir compañeros de trabajo.<br>🔴Ofrecer opciones sobre las tareas a realizar (coherentes con su itinerario formativo).<br>🔴Incluir al alumnado en su propia evaluación junto al formador. |
+| **5. 👀 Orientar la atención del alumnado** antes, durante y después de la tarea. | 🟡**Antes:** orientar hacia el proceso de solución más que hacia el resultado final.<br>🟡**Durante:** fomentar la búsqueda de medios para superar dificultades.<br>🟡**Después:** proporcionar información sobre los aciertos y errores, analizar el proceso seguido y resolver dudas. |
+| **6. 🏅 Promover la adquisición de los aprendizajes.**        | 🟤 Atribuir los resultados a **causas internas, modificables y controlables** por el propio alumno. |
+| **7. 👩‍🏫 Ejemplificar los comportamientos esperados.**        | ⚫ El docente debe **convertirse en modelo de conducta** para el alumnado. |
+| **8. 📊 Organizar las evaluaciones.**                         | 🔵 Plantear la evaluación como una **herramienta de aprendizaje**.<br>🔵Evitar comparaciones entre alumnos y no comunicar públicamente los resultados.<br>🔵Proporcionar información **cualitativa** además de cuantitativa.<br>🔵Acompañar la comunicación de resultados con mensajes que **refuercen la confianza** del alumno en sus posibilidades. |
+
+---
+
+#### 3.3.4. Sugerencias para la actuación docente
+
+![Ejemplo de profe guay](img/MF1444 - UF1645 - 01 - Aspectos psicopedagógicos del aprendizaje en formación profesional para el empleo/image-20251017120234698.png)
+
+A continuación se presentan algunas **sugerencias prácticas** que pueden ayudar al formador o formadora a **mantener la motivación y atención del alumnado adulto** durante el proceso de enseñanza-aprendizaje:
+
+1. 🤝 **Relacionarse con el alumnado** de forma informal durante el tiempo libre, en los descansos o en salidas externas, para conocerles mejor.  
+2. 🧩 **Aprovechar el conocimiento personal** del alumnado para utilizarlos en ejemplos y aplicaciones prácticas dentro del aula.  
+3. 🧠 **Aprenderse los nombres** de cada alumno o alumna para favorecer la cercanía y el reconocimiento.  
+4. 📊 **Conocer el nivel de conocimientos y experiencias previas** del alumnado en relación con la materia que se imparte.  
+5. 🎯 **Adaptar los ejemplos y explicaciones** al nivel y tipo de experiencias del grupo.  
+6. 🗺️ **Presentar un esquema o mapa** de los contenidos que se van a tratar en cada clase.  
+7. 💡 **Explicar la utilidad práctica** de la materia, tanto para su futuro profesional como para fundamentar conocimientos posteriores.  
+8. ⏱️ **Ajustar el ritmo de las explicaciones**, consultando al alumnado si la velocidad y la forma de exposición son adecuadas.  
+   > [!tip] 
+   >
+   > Una exposición demasiado lenta puede generar aburrimiento, mientras que una demasiado rápida provoca cansancio y distracción.  
+9. 🧪 **Organizar prácticas o actividades previas** cuando se trate de un tema novedoso, para facilitar su comprensión teórica posterior.  
+10. 🔄 **Variar los métodos de enseñanza** para evitar la rutina docente: alternar clases magistrales, sesiones en grupo, medios audiovisuales, debates o dinámicas participativas.  
+11. 📅 **Revisar y actualizar periódicamente la programación**, modificando el orden de los contenidos y las actividades cuando sea posible.  
+12. 🎤 **Cuidar el tono, la intensidad y la modulación de la voz**, ya que influyen directamente en la atención del grupo.  
+13. 🏆 **Definir metas concretas y alcanzables**, para que tanto el docente como el alumnado puedan **reconocer los logros** obtenidos.
 
 
 
 ---
+
+## 4. La comunicación y el proceso de aprendizaje
+
+### 4.1. Información y comunicación
+
+La **información** y la **comunicación** son elementos fundamentales dentro de todo **proceso de aprendizaje**, ya que **sin ellos la formación no podría llevarse a cabo.**
+
+Sin embargo, **no siempre que existe comunicación hay aprendizaje**, porque pueden darse situaciones como las siguientes:
+
+- ⚠️ El mensaje **no se adapta a las características** del receptor.  
+- 🔗 El mensaje **no se conecta con los conocimientos previos** del receptor.  
+- 📚 El mensaje **no es adecuado como contenido de aprendizaje.**  
+- 🗣️ El **emisor no elabora correctamente el mensaje.**  
+- 🧩 El **receptor carece de recursos** para comprender, analizar o aplicar los contenidos.
+
+> [!important] Definición
+>
+> 📢La **comunicación** es la forma de **interacción entre dos o más personas**, mediante la **palabra hablada o escrita**, los **gestos, ademanes o expresiones emocionales**, cuyo resultado es el **intercambio de significados** que conducen a la **comprensión** y/o a un **comportamiento adecuado.**
+
+> [!warning]
+> La **comunicación es una condición fundamental** dentro de un proceso de aprendizaje,  
+> pero **no todo proceso comunicativo implica necesariamente un aprendizaje.**
+
+Desde un punto de vista general, la comunicación es el **mecanismo que permite que las relaciones humanas existan y se desarrollen.**  
+No obstante, **comunicarse es más que hablar**: implica un **intercambio de entendimiento y significados** entre dos o más personas.
+
+---
+
+### 4.2. La formación
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+  <div style="flex: 1; min-width: 280px; border: 2px solid #f5c6cb; background-color: #f8d7da; border-radius: 10px; padding: 15px; color: #721c24;">
+    <strong style="color: #721c24;">❌ La formación no es:</strong>
+    <ol>
+      <li>Una simple transmisión de información, una consigna o una orden.</li>
+      <li>Un conjunto de instrucciones de uso.</li>
+      <li>Un aprendizaje memorístico.</li>
+      <li>La reflexión única sobre un tema concreto.</li>
+      <li>Una situación o un hecho aislado.</li>
+    </ol>
+  </div>
+  <div style="flex: 1; min-width: 280px; border: 2px solid #c3e6cb; background-color: #d4edda; border-radius: 10px; padding: 15px; color: #155724;">
+    <strong style="color: #155724;">✅ La formación es:</strong>
+    <ol>
+      <li>Un conjunto de informaciones vinculadas por un sentido básico que las articula.</li>
+      <li>Una propuesta.</li>
+      <li>Una idea.</li>
+      <li>Una elaboración de ideas.</li>
+      <li>Un planteamiento de una nueva perspectiva.</li>
+    </ol>
+  </div>
+</div>
+<div style="height: 20px; visibility: hidden;">⸺ Separador visible en edición, invisible en exportación ⸺</div>
+
+
+> [!important]
+> Para que exista **aprendizaje y formación**, el estudiante debe mantener una **actitud positiva** que le permita **elaborar e incorporar nuevos conocimientos, habilidades y actitudes** a sus esquemas actuales de pensamiento, haciendo que dichos esquemas se **amplíen y reconstruyan.**
+
+---
+
+La **comunicación didáctica** consiste en la **transmisión de información y comunicación** orientada a la interacción con otras personas dentro del proceso educativo.
+
+<img src="img/MF1444 - UF1645 - 01 - Aspectos psicopedagógicos del aprendizaje en formación profesional para el empleo/image-20251017131030278.png" alt="Esquema de la comunicación didáctica" style="width:60%;" />
+
+> [!note]
+> La **formación es un acto de comunicación**, donde no solo se transmite información, sino que también se **establecen relaciones** entre el docente y los participantes, y entre los propios alumnos.  
+> Existen **dos niveles** en esta comunicación:  
+>
+> - 🧠 **Nivel racional:** se centra en los **contenidos informativos y cognitivos** del aprendizaje.  
+>   👉*Ejemplo:* cuando el docente explica un concepto técnico o presenta datos objetivos sobre un tema.  
+>
+> - 💬 **Nivel emocional:** implica las **reacciones afectivas y sociales** que acompañan el proceso de enseñanza.  
+>   👉*Ejemplo:* cuando el docente muestra empatía ante las dudas del alumnado o utiliza el humor y la cercanía para crear un clima positivo en clase.
+
+---
+
+### 4.3. El proceso de comunicación didáctica: elementos
+
+Cuando analizamos el proceso de comunicación, descubrimos distintos **elementos comunes** a cualquier contexto comunicativo:
+
+![Esquema de elementos comunes en el proceso de comunicación](img/MF1444 - UF1645 - 01 - Aspectos psicopedagógicos del aprendizaje en formación profesional para el empleo/image-20251017134428884.png)
+
+
+
+- 💬 **Mensaje:**  
+  Es el **contenido** o la información que se quiere transmitir.  
+  Su finalidad es que **llegue de forma clara al receptor.**
+
+- 🧑‍🏫 **Emisor:**  
+  Persona (o medio) que **emite el mensaje.**  
+  En el contexto formativo, suele ser el **docente** o cualquier participante que comparte información.
+
+- 🔤 **Código:**  
+  Conjunto de **signos y reglas** que permiten interpretar el mensaje.  
+  Ejemplo: el idioma, la lengua de signos o un código visual como los **colores de un semáforo.**
+
+- 🧏 **Receptor:**  
+  Quien **recibe el mensaje**. En el aula, puede ser el alumnado o cualquier interlocutor dentro del proceso educativo.
+
+- 📡 **Canal:**  
+  Medio o soporte **físico a través del cual se transmite** el mensaje: la voz, el papel, el ordenador, una plataforma digital, etc.
+
+- 🌍 **Contexto:**  
+  El **lugar y las circunstancias** que rodean el acto comunicativo (entorno físico, social y emocional).
+
+- 🔁 **Retroalimentación:**  
+  Es la **respuesta del receptor** al mensaje, que permite al emisor saber si el mensaje **ha sido comprendido correctamente.**  
+  En una comunicación eficaz, el **receptor se convierte en emisor** y viceversa.
+
+- 🚫 **Ruido:**  
+  Cualquier **interferencia o barrera** que dificulte la comunicación:  
+  errores de percepción, prejuicios, distracciones, problemas técnicos o **barreras socioculturales.**
+
+
+
+Existen **cinco fases** en el proceso comunicativo:
+
+1. 🧠 **Codificación:** el emisor piensa las ideas, sentimientos o emociones que desea transmitir al receptor.  
+2. 💬 **Emisión:** las ideas se convierten en signos (palabras habladas o escritas, gestos, expresiones, etc.) que conforman el mensaje.  
+3. 📡 **Transmisión:** el mensaje sale físicamente del emisor y se dirige hacia el receptor.  
+4. 👂 **Recepción:** el mensaje es **recibido** por el receptor a través del canal utilizado.  
+5. 🔍 **Decodificación:** el receptor **interpreta** el mensaje recibido y le asigna significado.
+
+![Esquema con las 5 fases de la comunicación](img/MF1444 - UF1645 - 01 - Aspectos psicopedagógicos del aprendizaje en formación profesional para el empleo/image-20251017135946143.png){.img-preview}
+
+> [!warning]
+> En este proceso cobra especial relevancia la **retroalimentación o *feed-back***, entendida como la **respuesta del receptor al mensaje del emisor**.  
+> Gracias a este elemento, la **comunicación didáctica se vuelve bidireccional**, permitiendo que la información circule tanto **del docente al alumnado como del alumnado al docente.**
+
+
+
+![Esquema más malo todavía que el anterior](img/MF1444 - UF1645 - 01 - Aspectos psicopedagógicos del aprendizaje en formación profesional para el empleo/image-20251017134706277.png)
+
+
+
+---
+
+### 4.4. Tipos: verbal, no verbal, y escrita {{revisar desde aquí}}
+
+#### 4.4.1. Comunicación oral
+
+La **comunicación oral** utiliza como vehículo transmisor **la voz**, la cual presenta varias cualidades fundamentales:
+
+- 🎵 **Tono:** intensidad con la que se emite la voz.  
+- 🗣️ **Dicción:** forma de **articular y pronunciar** las palabras con claridad.  
+- 🎶 **Entonación:** modulación de la voz que refleja **sentido, intención y emoción** del mensaje.  
+- 💬 **Fluidez:** facilidad y naturalidad en la expresión oral.  
+- ⏱️ **Ritmo:** incluye los **acentos, pausas y velocidad** con que se transmite un mensaje.
+
+> [!important]
+> En la comunicación verbal, el docente debe cuidar el **tema tratado**, los **objetivos perseguidos**, la **situación en la que se desarrolla** y el **papel de los alumnos**, manteniendo un estilo **natural, estimulante, cordial y gramaticalmente correcto.**
+
+Para que la comunicación verbal sea eficaz dentro de las acciones formativas, es necesario tener en cuenta los siguientes aspectos:
+
+- 🗂️ **Diseñar y organizar:**  
+  La planificación de la comunicación docente es esencial. La exposición debe seguir una **estructura lógica y comprensible**.
+
+- 📢 **Transmitir:**  
+  Considerar las **respuestas del alumnado** para **ajustar el estilo y la forma de comunicación**, asegurando la comprensión de los mensajes.
+
+- 👂 **Escuchar:**  
+  Implica **captar la información**, **interpretarla y valorarla**, y ofrecer una **respuesta coherente** que demuestre un nivel mayor de comprensión.
+
+---
+
+
 
 # Ejercicios
 
@@ -1929,5 +2188,35 @@ Selecciona los enunciados correctos:
 
 ---
 
+## Ejercicio E4. Práctica asociada al CE2.2 (Unidad de aprendizaje 1, Epígrafe 3.3.4)
 
+PDF aparte
+
+---
+
+## Ejercicio 15: Proceso de la motivación
+
+✅ **b)** Necesidad de satisfacción.
+✅ **c)** Impulso de satisfacer la necesidad.
+✅ **e)** El objeto o incentivo.
+
+El proceso de la motivación parte de una **necesidad**, genera un **impulso** o deseo de cubrirla, y dirige la conducta hacia un **incentivo** que permita satisfacerla.
+
+Las demás opciones (regalos, castigo, aprobación o reflexión) pueden influir, pero no forman parte directa del **proceso básico de motivación**.
+
+![Ejercicio 15](img/MF1444 - UF1645 - 01 - Aspectos psicopedagógicos del aprendizaje en formación profesional para el empleo/image-20251017112935586.png)
+
+---
+
+## Ejercicio E5
+
+PDF aparte.
+
+---
+
+## Ejercicio 16. Elementos del proceso de comunicación
+
+![Ejercicio 16](img/MF1444 - UF1645 - 01 - Aspectos psicopedagógicos del aprendizaje en formación profesional para el empleo/image-20251017142056625.png)
+
+---
 
