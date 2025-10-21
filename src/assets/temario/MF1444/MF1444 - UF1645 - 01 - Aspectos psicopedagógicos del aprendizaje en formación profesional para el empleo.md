@@ -2166,35 +2166,269 @@ El docente, como **emisor de información**, tiene la responsabilidad de **compr
 Para aplicar la escucha activa es necesario **observar al interlocutor**, **empatizar** y **demostrar atención** tanto con gestos como con palabras:
 
 1. 👀 **Observando al interlocutor:**  
-  - Identificar el contenido de sus expresiones verbales y sentimientos.  
-  - Reconocer el momento en el que desea que hablemos o intervengamos.  
-  - Practicar la **empatía**, poniéndonos en su lugar para entender mejor sus emociones (sin necesidad de compartirlas).
+
+     - Identificar el contenido de sus expresiones verbales y sentimientos.  
+
+     - Reconocer el momento en el que desea que hablemos o intervengamos.  
+
+     - Practicar la **empatía**, poniéndonos en su lugar para entender mejor sus emociones (sin necesidad de compartirlas).
 
 2. 💪 **Con gestos y con el cuerpo:**  
-  - Adoptar una **postura activa y receptiva.**  
-  - Mantener **contacto visual.**  
-  - Mostrar una **expresión facial atenta.**  
-  - Utilizar **incentivos no verbales** como asentir con la cabeza.  
-  - **Tomar notas** si es necesario.  
-  - Usar un **tono y volumen de voz adecuados.**
+
+     - Adoptar una **postura activa y receptiva.**  
+
+     - Mantener **contacto visual.**  
+
+     - Mostrar una **expresión facial atenta.**  
+
+     - Utilizar **incentivos no verbales** como asentir con la cabeza.  
+
+     - **Tomar notas** si es necesario.  
+
+     - Usar un **tono y volumen de voz adecuados.**
 
 3. 🗣️ **Con palabras:**  
-  - Emplear **incentivos verbales** (“ya veo”, “ajá”, “entiendo”).  
-  - **Parafrasear o resumir** lo que se ha escuchado (“si no te he entendido mal…”).
+
+     - Emplear **incentivos verbales** (“ya veo”, “ajá”, “entiendo”).  
+
+     - **Parafrasear o resumir** lo que se ha escuchado (“si no te he entendido mal…”).
 
 4. 🚫 **Evitar hacer mientras escuchamos:**  
-  - No interrumpir al que habla.  
-  - No juzgar.  
-  - No ofrecer ayuda o soluciones prematuras.  
-  - No rechazar lo que la otra persona siente.  
-  - No contar “tu historia” mientras el otro necesita expresarse.  
-  - Evitar el **“síndrome del experto”**, es decir, creer que tenemos todas las respuestas antes de escuchar completamente.
+
+     - No interrumpir al que habla.  
+
+     - No juzgar.  
+
+     - No ofrecer ayuda o soluciones prematuras.  
+
+     - No rechazar lo que la otra persona siente.  
+
+     - No contar “tu historia” mientras el otro necesita expresarse.  
+
+     - Evitar el **“síndrome del experto”**, es decir, creer que tenemos todas las respuestas antes de escuchar completamente.
+
 
 
 
 ---
 
-{{ Seguir por el punto 4.8, pegárselo a chatgpt y palante }}
+### 4.8. Factores determinantes de la efectividad de la comunicación en el proceso de enseñanza–aprendizaje (E-A)
+
+> [!note] Definición
+>
+> 📢El **acto formativo** es un **proceso complejo de intercambio** entre el docente y los participantes.  
+> Es necesario **preparar el mensaje**, estructurarlo, sintetizarlo y resaltar los aspectos más importantes.  
+> Además, debe **favorecerse un clima de diálogo y escucha activa**, permitiendo recibir y retroalimentar los mensajes que los alumnos envían.
+
+Para lograr una **comunicación efectiva**, el profesorado debe seguir una serie de **pautas durante la planificación y la transmisión del mensaje**, manteniendo siempre una **actitud positiva** ante los participantes.
+
+
+
+**Pautas para desarrollar una comunicación efectiva:**
+
+- 🗂️ **Planificar la comunicación:**  
+  - Fijar los **objetivos y contenidos** de la comunicación.  
+  
+  - Verificar que el **lenguaje sea adecuado** para el grupo.  
+
+  - Considerar las **condiciones físicas del aula**, los **recursos materiales** y el **clima del grupo**.
+  
+    > [!tip]
+    >
+    > **Estrategias docentes para planificar:**  
+    >
+    > - Comenzar con una **visión general** de los puntos que se van a tratar.  
+    > - Presentar **aspectos positivos** del tema para captar el interés.  
+    > - Seguir un **orden lógico y estructurado.**  
+    > - Finalizar la exposición con **conclusiones o un resumen.**
+  
+- 💬 **Transmitir el mensaje priorizando la claridad de ideas y conceptos:**  
+  - Destacar la **claridad y precisión** de los conceptos clave.  
+  
+  - Ajustar el mensaje a las **expectativas del grupo** para mantener el interés.  
+
+  - Repetir los puntos esenciales para **reforzar la comprensión.**
+  
+    > [!tip]
+    >
+    > **Estrategias docentes para transmitir con claridad:**  
+    >
+    > - Aceptar **comentarios y críticas** constructivas.  
+    > - Incorporar **anécdotas o ejemplos** que conecten con la realidad del alumnado.  
+    > - Utilizar un **vocabulario sencillo** y adaptado al nivel de los participantes.  
+    > - Comprobar la **comprensión del mensaje** mediante preguntas.
+    > - Finalizar con un **resumen o conclusiones.**  
+    > - Favorecer la **retroalimentación** del alumnado para verificar el cumplimiento de los objetivos.
+  
+- 🤝 **Mantener una actitud de sinceridad y escucha:**  
+  - Mostrar una actitud **natural y sincera**, que genere confianza y transmita entusiasmo.  
+  
+  - La **escucha activa** debe ser la herramienta principal del formador, porque:  
+    1. Hace que el alumnado se sienta **centro de atención.**  
+    2. Transforma la escucha en **respuestas positivas** para todo el grupo.  
+    
+  - El formador **retroalimenta el proceso comunicativo**, incorporando las mejoras que surjan.
+  
+    > [!tip]
+    >
+    > **Estrategias docentes para mantener la escucha y la empatía:**  
+    >
+    > - Crear un **clima de acogida, apoyo y estímulo.**  
+    > - **Reforzar la participación** del alumnado de forma inmediata cuando esté alineada con los objetivos.  
+    > - **Empatizar** con los participantes.  
+    > - Cuidar la **comunicación no verbal.**  
+    > - Mantener el **contacto visual** con el grupo la mayor parte del tiempo.  
+    > - Escuchar de forma **activa y motivadora**, fomentando una relación positiva.
+
+> [!warning]
+>
+> **¿Qué hace el profesorado para comunicarse con eficacia?**  
+>
+> - Prepara el mensaje: lo estructura, sistematiza y resume lo importante.  
+> - Utiliza canales eficaces, adecuados al alumnado y a la situación de formación.  
+> - Mantiene una **actitud mental positiva**, se dispone a hacerse entender, explica con claridad y verifica la comprensión.  
+> - Crea un **clima participativo y de diálogo**, valorando los logros comunes.  
+> - Programa la acción didáctica para que **impulse la participación del alumnado.**  
+> - Escucha los mensajes **verbales y no verbales**, observando el interés y el nivel de comprensión del grupo.
+
+
+
+---
+
+### 4.9. La comunicación a través de las tecnologías de la información
+
+#### 4.9.1. Conceptos generales
+
+Las tecnologías de la información permiten que actividades de aprendizaje que antes se realizaban en un entorno presencial puedan desarrollarse también en **teleformación**.  
+
+- Las **herramientas de comunicación** son clave para que todos los agentes del proceso de enseñanza–aprendizaje **interactúen, resuelvan dudas, trabajen en grupo e intercambien experiencias**.  
+- Una **plataforma e-learning** debe facilitar la comunicación entre estudiantes y profesionales con herramientas **síncronas** y **asíncronas**.
+
+La **clasificación de las herramientas de comunicación** según la **simultaneidad espacial y temporal** entre los interlocutores permite agruparlas en dos grandes categorías:
+
+- 💬 **Herramientas de comunicación síncrona:**  
+  - Permiten un **diálogo en tiempo real** entre uno o varios emisores y receptores, intercambiando mensajes orales o escritos en el mismo instante.  
+  - **Herramientas habituales:** teléfono, chat, webcam, videoconferencia, etc.
+  - 👉*Ejemplo: conversación escrita entre tutor y alumno mediante chat.*  
+- 📧 **Herramientas de comunicación asíncrona:**  
+  - Se utilizan cuando el mensaje **no se emite ni se recibe simultáneamente**, es decir, no ocurre en tiempo real.  
+  - **Herramientas habituales:** foros de debate, grupos de noticias, tablones de anuncios, correo electrónico, Wiki, etc.
+  - 👉*Ejemplo: intercambio de mensajes por correo electrónico.*  
+
+> [!important]
+> Una plataforma **e-learning** debe facilitar la comunicación entre los grupos de estudiantes y el equipo docente, incluyendo herramientas **síncronas y asíncronas**.  
+> Sin embargo:  
+> - 💬 El uso continuado de **chats o videoconferencias** (comunicación síncrona) puede **reducir la flexibilidad horaria** característica de la formación online.
+>   - 🕓 La **formación online** debe apoyarse principalmente en la **comunicación asíncrona**, utilizando medios como el **correo electrónico, los foros o los tablones de anuncios.**  
+>   - 📅 Las herramientas síncronas, como los chats o las videoconferencias, deben reservarse para **momentos puntuales** en los que la interacción inmediata sea realmente necesaria.
+
+---
+
+#### 4.9.2. Herramientas habituales de comunicación en entornos virtuales de formación
+
+![Representación de mensajería, videollamadas y foros](img/MF1444 - UF1645 - 01 - Aspectos psicopedagógicos del aprendizaje en formación profesional para el empleo/image-20251021121323499.png)
+
+Las **herramientas más habituales** en los entornos virtuales de formación son:
+
+- 💬 **La mensajería:**  
+  Permite el **intercambio de mensajes entre los usuarios**.  
+  Se utiliza para la **resolución de dudas personalizadas** sobre los contenidos del curso y para el **envío de documentación** entre el formador y el participante.
+
+- 🗨️ **El chat y la videoconferencia:**  
+  Son sistemas de **comunicación síncrona** (en tiempo real) que requieren **acordar previamente una cita** para el encuentro.  
+  Permiten la **resolución de dudas inmediatas**, la comunicación directa y la participación simultánea del grupo.
+
+- 🧵 **Los foros:**  
+  Espacios destinados al **debate sobre temas relacionados** con el curso.  
+  Suelen ser **creados por el formador**, aunque su gestión puede **delegarse en los propios participantes**.
+
+Otras herramientas que suelen encontrarse en las plataformas virtuales:
+
+- 🎥 **Videoconferencia:** espacio donde el tutor o tutora **expone un tema** y los estudiantes pueden **participar en tiempo real**.  
+  Habitualmente, la sesión queda **grabada** y disponible para su visualización posterior.
+
+- 📢 **Tablón de anuncios:** herramienta donde el **equipo docente, tutores o coordinadores** publican mensajes dirigidos al grupo de alumnos/as.  
+  Los mensajes suelen estar relacionados con la **organización y gestión del curso**.
+
+- 🌐 **Material web:** espacio reservado para el **material didáctico del curso**, que puede incluir **recursos interactivos** accesibles en cualquier momento y lugar.
+
+- 📚 **Bibliografía o biblioteca:** apartado donde se ofrecen **referencias, artículos, vídeos o audios** que complementan los contenidos del curso.
+
+- 🗓️ **Calendario y revisión del progreso:** permite al alumnado **consultar sus objetivos, plazos y nivel de avance**.  
+  Es fundamental para que cada participante **sepa en todo momento qué se espera de él** y cómo va cumpliendo los hitos del curso.
+
+---
+
+# Resumen
+
+> [!important]
+> El **aprendizaje** es un proceso de construcción en el que participan **docentes y estudiantes**.  
+> Los docentes facilitan la transmisión de **conocimientos teóricos, prácticos y actitudinales** a un grupo de personas o estudiantes.  
+> Este proceso de construcción es lo que llamamos **proceso de enseñanza–aprendizaje (E–A).**
+
+## Elementos que intervienen en el proceso de enseñanza-aprendizaje (E-A)
+
+- 👩‍🎓 **Participantes o estudiantes:**  
+  En este certificado, el grupo de estudiantes está compuesto por **adultos**, con características propias como **madurez, responsabilidad, capacidad de comunicación y relación social.**
+
+- 👨‍🏫 **Docentes:**  
+  Son quienes **programan, imparten, tutorizan y evalúan** la acción formativa.  
+  Actúan como **facilitadores del conocimiento** y **motivadores del aprendizaje.**
+
+- 📘 **Métodos:**  
+  Existen distintas maneras de enseñar. El método responde a la pregunta **“¿cómo enseñar?”**  
+  Los adultos aprenden mejor **mediante la práctica y la experiencia**, no solo con la memorización.
+
+- 🏫 **Entorno:**  
+  Puede ser **presencial** (aulas) o **virtual (e-learning)**.  
+  Los **medios y canales de comunicación** son diferentes en cada caso.
+
+- 🔄 **Interacción:**  
+  Es esencial entre **docentes y participantes** para lograr los objetivos.  
+  En formación online, también incluye la **interacción con el material web y con los compañeros** a través de los foros.
+
+- 📚 **Contenidos:**  
+  Pueden ser **conceptuales**, **procedimentales** o **actitudinales.**
+
+## Características del aprendizaje adulto
+
+- 🤝 Carácter voluntario y autónomo.  
+- ⏳ Ritmo de aprendizaje propio.  
+- 😟 Miedo al fracaso o falta de confianza.  
+- 🕒 Limitaciones espacio-temporales.
+
+## Tipos de aprendizaje
+
+- 🎓 Formal.  
+- 🧩 No formal.  
+- 🌱 Informal.
+
+## Procesos de aprendizaje tratados en la unidad:
+
+- 🧠 **Teorías del aprendizaje:**  
+  - Ensayo-error  
+  - Imitación u observación  
+  - Descubrimiento  
+  - Aprendizaje significativo  
+  - Aprendizaje constructivo  
+  - Aprendizaje colaborativo  
+
+- 🎯 **Estilos de aprendizaje:**  
+  - Activo  
+  - Reflexivo  
+  - Teórico  
+  - Pragmático  
+
+- ⚡ **Activadores del aprendizaje:**  
+  - Percepción  
+  - Atención  
+  - Memoria  
+
+## Plataforma e-learning
+
+En una **plataforma e-learning** encontraremos herramientas de comunicación:
+- **Síncronas:** 💬 *chats, videoconferencias, pizarras digitales...*  
+- **Asíncronas:** 📧 *foros, correo electrónico, tablones de anuncios...*
 
 
 
@@ -2533,4 +2767,157 @@ PDF aparte.
 PDF aparte.
 
 ---
+
+## Ejercicio 18: Afirmaciones sobre la comunicación
+
+Selecciona los enunciados correc
+
+| Enunciado                                                    | Valoración  | Justificación                                                |
+| ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
+| a) Todo mensaje tiene dos aspectos, uno intelectual que es aquello que decimos y otro afectivo que se refiere a cómo lo decimos. | ✅ Verdadero | Todo mensaje combina un contenido racional y otro emocional que influye en cómo se interpreta. |
+| b) A mayor número de canales utilizados para transmitir el mensaje menor es la posibilidad de comprensión. | ❌ Falso     | Cuantos más canales (voz, gestos, recursos visuales) se utilicen, mayor será la comprensión. |
+| c) No se producirá aprendizaje si no somos capaces de comunicar de forma eficaz lo que queremos enseñar. | ✅ Verdadero | La comunicación eficaz es la base del proceso de enseñanza-aprendizaje. |
+| d) Los elementos de la comunicación son: emisor, receptor, mensaje, canal, código, feed-back y contexto. | ✅ Verdadero | Son los componentes esenciales del proceso comunicativo.     |
+| e) Entendemos la habilidad comunicativa como la capacidad que tiene la persona para utilizar un lenguaje construido con tecnicismos. | ❌ Falso     | La habilidad comunicativa es expresarse con claridad y adecuación, no usar tecnicismos. |
+| f) El tono de la voz es la habilidad que tenemos para encadenar las ideas. | ❌ Falso     | El tono refleja emoción o actitud, no estructura del discurso. |
+| g) Los cambios en la velocidad de transmisión de información son importantes; se aconseja aumentar la velocidad en un contenido desconocido. | ❌ Falso     | En contenidos nuevos se debe hablar más despacio para facilitar la comprensión. |
+| h) El docente transmite con sus gestos y tono de voz la actitud que mantiene hacia el alumnado y también hacia la materia que imparte. | ✅ Verdadero | La comunicación no verbal del docente influye en la percepción del grupo. |
+| i) Los gestos de manos y pies cooperan a la fluidez de la comunicación, la refuerzan, sustituyen, pero siempre que no sean bruscos y en exceso. | ✅ Verdadero | Los gestos refuerzan el mensaje si son naturales y moderados. |
+| j) Para transmitir seguridad es importante mantener una expresión facial sonriente durante toda la sesión. | ❌ Falso     | Una sonrisa natural ayuda, pero mantenerla todo el tiempo resulta artificial y poco creíble. |
+
+![Ejercicio 18](img/MF1444 - UF1645 - 01 - Aspectos psicopedagógicos del aprendizaje en formación profesional para el empleo/image-20251021112206377.png)
+
+---
+
+## Ejercicio 19: Proceso de escucha (activa)
+
+¿Cuáles de las siguientes opciones se encuentran implicadas en el proceso de escucha?: (Marca las opciones correctas)
+
+> [!warning]
+>
+> Con “*escucha*” se refiere a **escucha activa**.
+
+| Enunciado                                                    | Valoración  | Justificación                                                |
+| ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
+| a) Necesidad de satisfacción.                                | ❌ Falso     | Pertenece al proceso de motivación, no al de escucha.        |
+| b) El emisor emite el mensaje.                               | ✅ Verdadero | La escucha comienza cuando el emisor transmite un mensaje que el receptor debe atender. |
+| c) Impulso de satisfacer la necesidad.                       | ❌ Falso     | Es un elemento motivacional, no comunicativo.                |
+| d) El receptor escucha con esfuerzo físico y mental.         | ✅ Verdadero | Escuchar requiere atención, concentración y esfuerzo físico y mental. |
+| e) El objeto o incentivo.                                    | ❌ Falso     | Es propio de la motivación, no del proceso de escucha.       |
+| f) La necesidad de aprobación.                               | ❌ Falso     | Se relaciona con la motivación social, no con la escucha.    |
+| g) La capacidad de reflexión.                                | ❌ Falso     | No forma parte directa del proceso de escucha según el temario. |
+| h) El receptor: se concentra en el otro, trata de comprender el mensaje, resume el mensaje, confirma el mensaje. | ✅ Verdadero | Resume las fases de la escucha activa: atención, comprensión y verificación del mensaje. |
+
+![image-20251021113604316](img/MF1444 - UF1645 - 01 - Aspectos psicopedagógicos del aprendizaje en formación profesional para el empleo/image-20251021113604316.png)
+
+---
+
+## Ejercicio 20. Herramientas de comunicación
+
+![Ejercicio 20](img/MF1444 - UF1645 - 01 - Aspectos psicopedagógicos del aprendizaje en formación profesional para el empleo/image-20251021122322129.png)
+
+---
+
+## Ejercicio E9. Práctica asociada al CE3.5 (Unidad de aprendizaje 1, Epígrafe 4.9.2) Actividad evaluable
+
+PDF Aparte.
+
+---
+
+## 🧪Test final MF1444-UF1645-01
+
+**1) La exposición de un tema no se improvisa. La preparación de un tema conlleva varios factores de preparación. ¿De qué factores se trata?:**  
+a) Preguntarse por la finalidad.  
+b) Precisar el tiempo de exposición.  
+c) Determinar las características del alumnado.  
+d) Todas son correctas.  
+
+**2) En un mensaje podemos distinguir diferentes partes. Las frases que representan el significado de lo que queremos transmitir sería:**  
+a) Contenido.  
+b) Código.  
+c) Aspecto emocional del mensaje.  
+d) Tratamiento que le damos al mensaje.  
+
+**3) Con qué concepto relacionarías la siguiente expresión: "Lo que se va a aprender en el aula ha de tener una conexión directa con lo que la persona hará en el puesto de trabajo":**  
+a) Novedad.  
+b) Aplicación.  
+c) Relevancia.  
+d) Generalización.  
+
+**4) Con cuál de los siguientes conceptos relacionarías esta expresión: "Cuando la tarea por aprender puede relacionarse con los conocimientos previos que tiene la persona, se asegura el aprendizaje”:**  
+a) Aprendizaje significativo.  
+b) Generalización-discriminación.  
+c) Organización por configuraciones globales.  
+d) Progresión de la dificultad.  
+
+**5) La atención implica una variedad de procesos. ¿Cuál de ellos no es correcto?:**  
+a) Selección.  
+b) Intensidad.  
+c) Alerta.  
+d) Recuerdo.  
+
+**6) Hay diferentes tipos de atención, el que apenas requiere atención ya que no implica la participación consciente, se conoce con el nombre:**  
+a) Controlada.  
+b) Voluntaria.  
+c) Automática.  
+d) Todas son correctas.  
+
+**7) ¿Qué podemos tener en cuenta para mantener la atención?:**  
+a) Partir del nivel de atención adecuada.  
+b) Distribuir adecuadamente la sesión de aprendizaje.  
+c) Ser consciente de las demandas atencionales que se exige al alumnado.  
+d) Todas son correctas.  
+
+**8) Para retener la información en la memoria tenemos que:**  
+a) Comprenderla, asociarla y relacionar con los conocimientos previos.  
+b) Fijarla mediante la repetición y aplicación de reglas mnemotécnicas.  
+c) Relacionar la nueva información con las metas propias.  
+d) Todas son correctas.  
+
+**9) ¿Cuál de los siguientes enunciados relacionados con la motivación no es correcto?:**  
+a) La motivación no se puede comprobar directamente.  
+b) La conducta motivada arranca siempre de una fase de carencia.  
+c) Si el objetivo no es alcanzado se produce insatisfacción y aparece la frustración.  
+d) La conducta motiva selecciona y analiza la información para poder tomar las decisiones.  
+
+**10) Los recursos de comunicación verbal que puede utilizar el docente son:**  
+a) Velocidad.  
+b) Volumen.  
+c) Vocalización.  
+d) Todas son correctas.  
+
+<details>
+<summary>✅ <strong>Respuestas correctas y justificación</strong></summary>
+
+1. **d) Todas son correctas.**  
+La exposición requiere planificar la finalidad, el tiempo y las características del alumnado.
+
+2. **a) Contenido.**  
+Es el significado de lo que se quiere transmitir dentro del mensaje.
+
+3. **b) Aplicación.**  
+Relaciona el aprendizaje con su uso práctico en el entorno laboral.
+
+4. **a) Aprendizaje significativo.**  
+El nuevo conocimiento se asimila mejor al vincularse con lo que ya se sabe.
+
+5. **d) Recuerdo.**  
+El recuerdo pertenece a la memoria, no a los procesos de atención.
+
+6. **c) Automática.**  
+La atención automática no requiere esfuerzo consciente ni control voluntario.
+
+7. **d) Todas son correctas.**  
+Mantener la atención exige planificar la sesión, conocer el nivel y gestionar la carga atencional.
+
+8. **d) Todas son correctas.**  
+Retener implica comprender, repetir y vincular con metas personales.
+
+9. **d) La conducta motiva selecciona y analiza la información para poder tomar las decisiones.**  
+Incorrecta: la motivación impulsa la acción, pero no selecciona ni analiza información.
+
+10. **d) Todas son correctas.**  
+El docente puede modular velocidad, volumen y vocalización para reforzar el mensaje.
+
+</details>
 
