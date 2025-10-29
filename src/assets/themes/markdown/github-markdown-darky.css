@@ -324,7 +324,7 @@
 
 .markdown-body ol ol,
 .markdown-body ul ol {
-  list-style-type: lower-roman;
+  list-style-type: lower-alpha;
 }
 
 .markdown-body ul ul ol,
@@ -513,7 +513,7 @@
 }
 
 .markdown-body ol[type="i s"] {
-  list-style-type: lower-roman;
+  list-style-type: lower-alpha;
 }
 
 .markdown-body ol[type="I s"] {
