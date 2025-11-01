@@ -1066,7 +1066,7 @@ Consiste en que **dos o más docentes** planifican, imparten y evalúan una mism
 Requiere docentes **tolerantes, críticos y respetuosos**, capaces de generar un **ambiente positivo y colaborativo**.
 
 > [!tip] Ejemplo
-> Ejemplo: un curso impartido conjuntamente por un **especialista técnico** y un **pedagogo** permite ofrecer una formación más completa, combinando **teoría, práctica y acompañamiento didáctico**.
+> Un curso impartido conjuntamente por un **especialista técnico** y un **pedagogo** permite ofrecer una formación más completa, combinando **teoría, práctica y acompañamiento didáctico**.
 
 <br>
 
@@ -1081,11 +1081,1179 @@ Requiere docentes **tolerantes, críticos y respetuosos**, capaces de generar un
 
 ---
 
-{{ punto 5.6, por aquí!!!}}
+### 5.6. Recursos  
+
+#### 5.6.1 Conceptos y organización de los recursos  
+
+> [!important]
+> Los **recursos** con los que contamos como docentes o tutores **condicionan directamente las estrategias metodológicas** que podemos aplicar.  
+> El uso de **audios, vídeos, ordenadores, materiales específicos** o la posibilidad de **conectarnos a la red** sirve como **apoyo fundamental** para dinamizar la actividad docente.
+
+Una **organización adecuada** de los recursos, materiales y espacios permite:
+
+- 🧭 **Controlar y organizar** el material y los espacios, determinando **zonas de trabajo** y **tiempos**.  
+- 🧩 **Aprovechar al máximo** los recursos disponibles, aunque su uso sea limitado.  
+- 📅 **Planificar el momento de uso** del recurso: si se utilizará **antes, durante o después** de la actividad.  
+- 🧰 **Prever y preparar con antelación** el material necesario y la forma en que se integrará en la sesión formativa.
+
+> [!tip]
+> Antes de una sesión práctica de informática, el docente debe comprobar que **los equipos funcionan**, que el **software está instalado**, y que los **archivos de práctica** están accesibles en la red o en pendrive.  
+> Esto evita interrupciones y mejora la eficacia del aprendizaje.
 
 ---
 
+#### 5.6.2 Clasificación
 
+Los **recursos didácticos** pueden clasificarse de diversas formas.  
+Según **Moreno Herrero (2005)**, se agrupan en las siguientes categorías:
+
+- 📚 **Soporte papel:** libros de divulgación, de texto, de consulta, cuadernos de ejercicios, materiales autocorrectivos, diccionarios, enciclopedias, folletos, guías o catálogos.  
+- 👩‍🏫 **Técnicas blandas:** pizarras, rotafolios, paneles, carteles, etc.  
+- 🎧 **Audiovisuales y medios de comunicación:**  
+  - Sistemas de audio: reproducción, grabación, radio, televisión, vídeo.  
+  - Sistemas de imagen: fotografías, diapositivas, retroproyector, TV, cine.  
+  - Sistemas mixtos: prensa escrita, tebeos, carteles.  
+- 💻 **Sistemas informáticos y multimedia:** programas de diseño, hipertextos, hipermedia, sistemas telemáticos, redes sociales, internet, blogs, chat, wikis, etc.
+
+Otra clasificación —más práctica para analizar sus ventajas e inconvenientes— distingue entre **métodos convencionales**, **nuevas tecnologías** y **métodos audiovisuales**:
+
+---
+
+**📘 Métodos convencionales**  
+*(pizarras, papelógrafos, libros, etc.)*
+
+**Ventajas:**
+- ✅ Son los más conocidos tanto por formadores como por alumnos, y **fáciles de utilizar**.  
+- 📖 Permiten **leer y releer**, facilitando un **orden en el aprendizaje**.  
+- 🕒 Proporcionan **material accesible**, utilizable en cualquier momento o lugar.  
+- 💶 Buena **relación coste–eficacia**.  
+- 📚 Fáciles de controlar por el alumnado.  
+- 🔄 Son **flexibles** y adaptables a diferentes contextos.
+
+**Inconvenientes:**
+- 😴 Pueden resultar **menos motivadores** que los recursos audiovisuales o digitales.  
+- 🕓 La **retroalimentación** entre formador y alumno es más lenta.  
+- 🌍 No permiten acceder a la **realidad total** de los contenidos.  
+- 🧠 Pueden fomentar **memorización mecánica** y **actitudes pasivas**.
+
+---
+
+**💾 Nuevas tecnologías**  
+*(CD-ROM, plataformas de teleformación, recursos digitales, etc.)*
+
+**Ventajas:**
+- 🎬 Proporcionan **información multimedia** (texto, audio, imagen y vídeo).  
+- 🚀 Incrementan la **motivación** del alumnado.  
+- 🧩 Son **versátiles**: pueden usarse en grupo o de forma individual.  
+- ⚡ Permiten **corrección inmediata**, fomentando el aprendizaje a partir del error.  
+- ⏱️ Favorecen un **aprendizaje más rápido y significativo**.  
+- 💡 Estimulan la **iniciativa** y el **trabajo autónomo**.  
+- 🌐 Facilitan **procesamiento de información** y **comunicación en entornos virtuales**.  
+- 👥 Pueden llegar a **grupos numerosos** simultáneamente.
+
+**Inconvenientes:**
+- 😰 Pueden generar **ansiedad, monotonía o cansancio**.  
+- 🏠 Riesgo de **aislamiento social**.  
+- 🤖 Posible **empobrecimiento de las relaciones humanas**.  
+- 😴 Fomentan a veces el **“mínimo esfuerzo”**.  
+- 🧭 Pueden resultar **descontextualizados** si no se integran bien en la enseñanza.  
+- 🧾 Ofrecen información **a veces superficial o incompleta**.  
+- 💬 Interacción **limitada** entre docente y alumno.  
+- 💰 **Altos costes** de elaboración y mantenimiento.  
+- 🧠 Requieren **competencias digitales previas**.
+
+---
+
+**🎥 Métodos audiovisuales**  
+*(retroproyectores, vídeos, transparencias, presentaciones, etc.)*
+
+**Ventajas:**
+- 👀 Aportan **información multisensorial** (vista y oído).  
+- 🔥 Aumentan la **motivación** y el interés.  
+- 🧠 Permiten un **aprendizaje más significativo y dinámico**.  
+- 🧩 Son **versátiles**, válidos tanto para el trabajo individual como en grupo.
+
+**Inconvenientes:**
+- 🗣️ Pueden causar **empobrecimiento de la expresión verbal**.  
+- 💭 No estimulan la **imaginación ni la abstracción**.  
+- 📺 En ocasiones ofrecen información **demasiado superficial**.  
+- 🛠️ Requieren una **preparación exhaustiva del material** por parte del docente.
+
+> [!tip]
+> Usar un **vídeo breve** para introducir un tema puede aumentar la motivación, pero debe ir acompañado de **preguntas o actividades posteriores** para garantizar una **reflexión activa**.
+
+---
+
+### 5.7 Organización
+
+> [!note] Definición:
+>
+> 📢Podemos definir la **organización** como un recurso que nos permite **distribuir y disponer adecuadamente** todos los elementos que configuran una acción formativa.  
+> Desde el punto de vista educativo, es un **recurso didáctico** que facilita la **consecución de los objetivos** y **favorece la coordinación** entre docente y alumnado.
+
+La **planificación y el seguimiento** de la organización cumple varias funciones esenciales:
+
+- 🎓 Favorece el **aprendizaje del alumnado**, ya que facilita la **asimilación de contenidos** y promueve una enseñanza más **individualizada y participativa**.  
+- 🤝 Mejora el **ambiente del aula** y fomenta una **mayor interacción** entre docentes y estudiantes.  
+- 🧩 Permite la **optimización de materiales y recursos**, aprovechándolos de forma más eficiente.  
+- 🗂️ Facilita la **planificación del docente**, mejorando el **seguimiento del proceso de enseñanza–aprendizaje**.
+
+> [!important]
+> La **organización de la actividad formativa**, el **horario**, y el **plan formativo** en el que se enmarca serán factores clave para determinar **qué métodos y recursos** empleará el docente o tutor.
+
+La **organización de recursos, materiales y espacios** nos permite:
+
+- 🧭 **Controlar y distribuir adecuadamente** el material y los espacios, definiendo zonas de trabajo y tiempos de uso.  
+- 💡 **Aprovechar al máximo** los recursos disponibles, incluso cuando son limitados.  
+- 📅 **Planificar el momento de uso** del recurso: si se aplicará **antes, durante o después** de la actividad.  
+- 🧰 **Prever con antelación** el material necesario y su **forma de utilización** en la sesión.
+
+> [!tip] Ejemplo
+> En una sesión práctica de **mecánica**, el formador debe planificar con antelación la **disposición de herramientas**, la **rotación de grupos** y los **tiempos de práctica**, para asegurar que todos los participantes puedan experimentar activamente.
+
+---
+
+## 6. Habilidades docentes
+
+### 6.1 Aspectos generales
+
+> [!note] Definición:
+>
+> 📢Las **habilidades docentes** son el conjunto de **capacidades y destrezas** que permiten al docente o teletutor **fomentar un aprendizaje activo y significativo**.  
+> Implican la capacidad de **motivar al alumnado**, mantener una **comunicación efectiva** y crear un **entorno positivo de aprendizaje**.
+
+Entre las principales habilidades del docente destacan:
+
+1. 🌤️ **Crear un buen clima:**  
+    Favorecer que los participantes se sientan **cómodos y seguros** en el entorno de aprendizaje.  
+    Esto ayuda a **liberar tensiones y temores**, creando **relaciones armoniosas** entre el profesorado y el alumnado.
+
+  > [!tip] 
+  > Comenzar la sesión con una **dinámica breve y participativa** o interesarse por el progreso del grupo para generar **confianza y cercanía**.
+
+2. 🚀 **Mantener la motivación y el interés:**  
+    Al inicio de un curso, el alumnado suele estar motivado por la **novedad**.  
+    Sin embargo, esa motivación puede **disminuir con el tiempo**, especialmente en formaciones largas.  
+    Para evitarlo, el docente debe aplicar estrategias como:
+  - 📚 **Resumir** lo aprendido hasta el momento.  
+  - 💬 **Recordar momentos positivos** del curso.  
+  - 🎯 **Reforzar los objetivos** y metas alcanzadas.  
+  - 🙌 **Animar a la participación** activa.  
+  - 🎁 **Introducir novedades o sorpresas** que reactiven el interés.
+
+  > [!tip]
+  > Intercalar una **actividad práctica diferente** o mostrar un **vídeo breve** relacionado con el tema puede revitalizar la atención del grupo.
+
+3. 🏁 **Finalización del curso formativo:**  
+    El cierre del curso debe servir para **reforzar el aprendizaje global**, **orientar al futuro** y **reconocer los logros alcanzados**.  
+    Es recomendable:
+  - 🧩 Ayudar al alumnado a **sintetizar lo aprendido**.  
+  - 📈 Ofrecer **orientación profesional o formativa** adicional.  
+  - 🎉 **Recordar los buenos momentos** del curso y **felicitar** al grupo por su trabajo.  
+  - ✉️ Facilitar una **vía de contacto** (correo o teléfono) para mantener el vínculo con los alumnos interesados.
+
+  > [!tip]
+  > Cerrar la formación con una **actividad de reflexión grupal** o una **encuesta de valoración** permite al alumnado compartir su experiencia y reforzar la sensación de logro colectivo.
+
+---
+
+### 6.2 Características de las habilidades docentes
+
+Las **habilidades docentes** presentan distintas características según el tipo de habilidad que se ponga en práctica.  
+Estas habilidades permiten al docente **organizar, comunicar, motivar y evaluar** de manera eficaz durante el proceso formativo.
+
+<br>
+
+#### 🗣️ Habilidades en el discurso
+
+- 🎯 Exponer el tema con **claridad y estructura**.  
+- 💬 Comunicar **conocimientos y experiencias** de forma comprensible.  
+- 🔉 Emplear una **entonación y lenguaje adecuados** al grupo.  
+- 📚 Aclarar los contenidos mediante **ejemplos y casos prácticos**.  
+- 🧰 Utilizar **diferentes recursos** para reforzar la comprensión.
+
+> [!tip]
+> Usar un **caso práctico breve** al explicar una teoría ayuda a **mantener la atención** y facilita la comprensión del concepto.
+
+<br>
+
+#### 🧠 Habilidades cognitivas
+
+- 🔄 Dar **continuidad y coherencia** al programa formativo.  
+- 🧩 **Seleccionar los ejercicios más adecuados** según los objetivos.  
+- 💡 **Aclarar conceptos** complejos de forma sencilla.  
+- 📘 **Dominar la materia** que se imparte, adaptándola al nivel del grupo.
+
+<br>
+
+#### 🧭 Habilidades metodológicas
+
+- 🔬 Aplicar una **metodología científica y estructurada**.  
+- 🧮 Utilizar las **principales funciones de la inteligencia**: analizar, sintetizar, relacionar, comparar, etc.  
+- 🎯 Orientar el proceso formativo hacia **resultados observables** y **aprendizajes significativos**.
+
+<br>
+
+#### 👥 Habilidades en la conducción del grupo
+
+- 🤝 Fomentar el **trabajo en equipo** y la **colaboración entre participantes**.  
+- 👀 Atender al grupo en su conjunto y también a **cada alumno de forma individual**.  
+- 💬 Promover la **reflexión y el diálogo constructivo**.  
+- 🚀 **Coordinar y motivar** al alumnado en el desarrollo de proyectos conjuntos.
+
+> [!tip]
+> Establecer **roles rotativos** dentro de los equipos de trabajo ayuda a mejorar la **participación y la cohesión grupal**.
+
+<br>
+
+#### 🧾 Habilidades evaluativas
+
+- 🔍 Detectar las **dificultades individuales** del alumnado durante el proceso formativo.  
+- 🎓 Explicar los contenidos en función de los **conocimientos previos del grupo**.  
+- ✅ **Evaluar y valorar de forma constructiva**, ofreciendo **retroalimentación útil y motivadora**.
+
+> [!tip]
+> Acompañar cada evaluación con una **recomendación específica de mejora** refuerza la confianza y la implicación del alumno.
+
+---
+
+### 6.3 Sensibilización como técnica introductoria, variación de estímulos, integración de conocimientos. Comunicación no verbal, refuerzo, motivación y participación, secuencialidad y control de la comprensión
+
+#### 6.3.1 Técnicas introductorias
+
+Las **técnicas introductorias** ayudan al docente a **preparar y motivar al grupo de participantes** antes de abordar un nuevo contenido.  
+Su objetivo es lograr un **nivel de atención adecuado**, despertar el **interés por el tema** y crear un **clima positivo** para el aprendizaje.
+
+**¿Cómo se hace?**
+
+- 🎯 **Presentar de forma clara y precisa los objetivos** que se van a alcanzar durante la sesión.  
+- 🔁 **Recordar brevemente el contenido o unidad anterior**, estableciendo un vínculo con el nuevo tema que se va a tratar.  
+- 😄 **Recurrir a lo anecdótico**, utilizando ejemplos o situaciones curiosas que capten la atención del grupo.  
+- 💡 **Plantear situaciones motivadoras** que despierten el interés y la participación desde el inicio.
+
+> [!tip]
+> Una introducción dinámica —por ejemplo, una **pregunta inicial**, una **breve historia real** o una **situación práctica** relacionada con el tema— ayuda a conectar emocionalmente al alumnado y facilita la comprensión del nuevo contenido.
+
+---
+
+#### 6.3.2 Variación de estímulos e integración de conocimientos
+
+> [!important]
+> El docente es la **principal fuente de estimulación** del alumnado, por lo que debe **variar regularmente su actuación** para mantener el interés y la atención del grupo.  
+> Pequeños cambios en el tono de voz, el movimiento, la mirada o la interacción pueden **revitalizar la sesión** y evitar la monotonía.
+
+Algunos cambios que pueden aplicarse en el aula:
+
+- 🚶‍♂️ **Desplazarse por el aula** para mantener contacto visual con todos los participantes.  
+- 🤲 **Usar gestos expresivos** con las manos, la cabeza o el cuerpo, para reforzar el mensaje.  
+- 💬 **Fomentar la interacción** entre participantes y docente, adaptando las intervenciones a los contenidos y objetivos.  
+- ⏸️ **Introducir pausas breves** para facilitar la asimilación de ideas o la reflexión.  
+- 🧩 **Variar los recursos didácticos**, alternando explicaciones, debates, vídeos, ejercicios o demostraciones.
+
+> [!tip]
+> Cambiar el ritmo o la dinámica cada cierto tiempo —por ejemplo, tras 15-20 minutos de explicación— ayuda a **recuperar la atención** y **mejorar la retención de la información**.
+
+
+
+Los docentes deben **planificar y gestionar las intervenciones didácticas** incorporando **actividades que potencien el aprendizaje significativo** y faciliten la **integración de conocimientos**.  
+Para ello pueden emplear recursos como **mapas conceptuales**, **debates**, **lluvias de ideas**, o **ejercicios de reflexión**.
+
+> [!important]
+>
+> La **integración de conocimientos** permite **relacionar la nueva información con los saberes previos**, consolidando un aprendizaje más profundo y duradero.
+
+**¿Cómo se hace?**
+
+- 🔗 **Establecer enlaces claros** entre los conceptos ya aprendidos y los nuevos contenidos.  
+- ✍️ **Destacar y resumir los puntos clave** al final de cada bloque.  
+- 🧭 **Ayudar al alumnado a ubicarse** dentro del proceso formativo: qué ha aprendido y hacia dónde se dirige.  
+- 💬 **Reforzar los logros** y orientar la actuación hacia los siguientes objetivos.  
+- 📚 **Realizar recapitulaciones parciales** y **conclusiones finales** que sinteticen lo aprendido.
+
+> [!tip]
+> Integrar un **mapa conceptual conjunto al final de la sesión** o pedir a los alumnos que **relacionen conceptos nuevos con experiencias previas** son excelentes formas de reforzar la integración de conocimientos.
+
+---
+
+#### 6.3.3 Secuencialidad o sucesión de contenidos y control de la comprensión
+
+> [!important]
+> Informar al alumnado sobre los **objetivos y contenidos** de cada módulo contribuye a su **motivación** y orienta las actividades de aprendizaje hacia la **consecución de los objetivos definidos**.  
+> La **secuencialidad** de los contenidos permite estructurar la enseñanza de forma lógica y progresiva, facilitando la comprensión.
+
+**📌Aspectos a tener en cuenta en la secuencialidad:**
+
+- 🔢 **Ordenar los conceptos de forma lógica**, avanzando de lo simple a lo complejo.  
+- 🚫 **Evitar los saltos atrás**, que pueden provocar desconexión o confusión.  
+- 🔄 **Evitar los saltos paralelos**, es decir, interrumpir la explicación con temas no directamente relacionados.
+
+Durante el desarrollo de la clase, el docente debe **verificar continuamente el grado de comprensión** de los contenidos.  
+Para ello puede formular **preguntas abiertas**, fomentar la **participación activa**, **resolver dudas** y **ejemplificar con experiencias reales** cercanas al contexto del alumnado.
+
+> [!important]
+> El **control de la comprensión** es esencial para garantizar que el aprendizaje se consolide correctamente.  
+> Es necesario obtener **retroalimentación constante** sobre lo que el alumnado entiende y cómo lo aplica.
+
+**¿Cómo se hace?**
+
+- ❓ **Proponer preguntas abiertas** que estimulen la reflexión y el razonamiento.  
+- 🧠 **Basar las preguntas en conocimientos previos o experiencias personales** del alumnado.  
+- 🗣️ Utilizar un **vocabulario claro y comprensible**, adaptado al nivel del grupo.  
+- 🎯 Plantear las preguntas con un propósito concreto:
+  - Obtener información.  
+  - Detectar puntos clave o posibles confusiones.  
+  - Estimular el pensamiento y promover la discusión.
+
+> [!tip]
+> Formular preguntas como *“¿Cómo aplicarías esto en tu trabajo?”* o *“¿Qué relación encuentras con el tema anterior?”* permite comprobar la comprensión real y mantener una participación activa.
+
+---
+
+#### 6.3.4 Refuerzo, motivación y participación y comunicación no verbal
+
+> [!important]
+> El docente debe mostrar **entusiasmo, liderazgo y confianza**, generando un ambiente que **refuerce el interés del alumnado** y promueva la **creatividad y la participación**.
+
+El **refuerzo, la motivación y la participación** influyen directamente en el **comportamiento del alumnado**, aumentando las probabilidades de **iniciar, mantener o modificar conductas** a través de incentivos adecuados.
+
+**📌Algunos refuerzos habituales:**
+
+- 💬 **Comentarios verbales:** expresiones como *“Bien hecho”*, *“Inténtalo de nuevo”*, *“No exactamente, pero vas por buen camino”*, ayudan a guiar sin desmotivar.  
+- 😊 **Gestos positivos:** sonrisas, asentimientos, contacto visual, o gestos de aprobación refuerzan el mensaje verbal.  
+- 🤔 **Gestos de corrección:** movimientos de cabeza, expresiones de duda o de reflexión invitan al alumno a reconsiderar su respuesta.
+
+La **comunicación no verbal** es esencial en el aula presencial y constituye un **complemento fundamental de la comunicación oral**.  
+A través de los gestos, la postura o la expresión facial, el docente **transmite mensajes** que refuerzan la comprensión y el clima del grupo.
+
+En la **modalidad online**, el tutor debe **cuidar especialmente su lenguaje escrito**, ya que se convierte en el principal medio de comunicación y debe transmitir **cercanía, claridad y empatía**.
+
+> [!important]
+> La **comunicación no verbal** tiene un valor decisivo en el aula, ya que influye tanto en la **comprensión del mensaje** como en el **estado emocional** del grupo.
+
+**¿Cómo se hace?**
+
+- 🤫 Utilizar **el silencio como recurso didáctico**: permite captar la atención, crear expectación, favorecer la reflexión y dar espacio a la participación.  
+- 😊 **Complementar el silencio con gestos y expresiones**: una sonrisa, una mirada atenta o un gesto de aprobación pueden comunicar más que las palabras.  
+
+> [!tip]
+> Un breve silencio después de una pregunta o afirmación permite al alumnado **reflexionar y responder con mayor seguridad**, fortaleciendo la atención y la comunicación efectiva.
+
+
+
+---
+## 7. Estilos didácticos
+
+![Ilustración que representa que cada docente tiene su propio estilo](img/MF1444 - UF1645 - 03 - Estrategias metodológicas en la FPE según modalidad formativa/b2947676-9a7d-4375-a6ed-d2f4e206fa98.png){.rounded-4}
+
+### 7.1. Estilos de liderazgo docente  
+
+> [!note] Definición:  
+>
+> 📢Los **estilos didácticos** se refieren a cómo cada docente o teletutor imparte una acción formativa. Las formas, modos, cualidades y peculiaridades que tiene cada uno conforman su **estilo didáctico**.  
+>
+> Podemos entender que hay tantos estilos como docentes o teletutores.
+
+**📌Estilos de liderazgo docente**
+
+| **Estilo**        | **Descripción**                                              |
+| ----------------- | ------------------------------------------------------------ |
+| **Autocrático**   | El docente **decide por sí solo** todas las actividades a realizar, organiza y distribuye las tareas. Mantiene una **actitud distante** con el grupo y enfatiza la **evaluación individualizada**. |
+| **Democrático**   | El docente **planifica junto al grupo**, fomenta la **discusión y la participación**, y **comparte la toma de decisiones**. Desarrolla su intervención en el aula como **un miembro más del grupo**. |
+| **Laissez-faire** | El docente **se mantiene al margen**, dejando la iniciativa a los alumnos y alumnas. Solo interviene cuando se requiere su opinión o consejo. |
+
+> [!tip]  
+> En la práctica docente, el **liderazgo democrático** suele generar **mayor motivación y compromiso** en el alumnado, aunque en algunos contextos de FPE puede combinarse con elementos del liderazgo técnico para asegurar el cumplimiento de objetivos.
+
+---
+
+### 7.2. Estilos docentes en FPE  
+
+El docente de **Formación Profesional para el Empleo (FPE)** incrementa su eficacia en la medida en que **domina diferentes estilos de enseñanza** y los **combina de forma flexible** según los objetivos, características del alumnado, recursos disponibles y condiciones de la acción formativa.
+
+**📌Estilos docentes en FPE**
+
+| **Estilo**   | **Descripción**                                              |
+| ------------ | ------------------------------------------------------------ |
+| **Técnico**  | No existe una preocupación por el sentido y valor de la formación. El formador **se limita a transmitir contenidos**, **reproduce modelos tradicionales** y **resiste los cambios**. Cumple el programa de forma rígida y se centra en la **disciplina y el adiestramiento funcional**. |
+| **Práctico** | Es un docente **reflexivo y flexible**, que busca el **por qué y para qué** de su enseñanza. Favorece que los alumnos **aprendan a aprender**, empleando **métodos variados e innovadores**. Se le critica cierta falta de rigor conceptual, pero destaca en la **adaptación pedagógica**. |
+| **Crítico**  | Considera la educación como **una herramienta de transformación social**. Su enseñanza es **participativa, democrática y comprometida con el desarrollo humano**. Son docentes **altamente implicados**, aunque pueden **frustrarse** por la falta de contextos que apoyen su visión reformadora. |
+
+> [!tip]  
+> En la FPE, **combinar rasgos de los tres estilos** permite al docente adaptarse a las necesidades del grupo: la organización del estilo técnico, la flexibilidad del práctico y la implicación social del crítico.
+
+---
+
+## 8. La sesión formativa  
+
+![Ilustración de una sesión formativa de FPE donde no se ha reparado en gastos](img/MF1444 - UF1645 - 03 - Estrategias metodológicas en la FPE según modalidad formativa/Gemini_Generated_Image_9cdyzb9cdyzb9cdy.png){.rounded-4}
+
+> *"No hemos reparado en gastos."*  
+> — John Hammond (1993)
+
+### 8.1. Aspectos generales  
+
+Una vez que el profesorado ha elaborado el **programa del curso o módulo**, deberá planificar su **actuación docente directa** con el grupo-clase.  
+
+Es necesario **seleccionar los objetivos, contenidos, metodología, recursos, materiales, temporalización y evaluación**, reflejándolo en una **ficha de planificación**.  
+
+🎯 La planificación de la actuación docente tiene los siguientes objetivos principales:  
+
+- 💡 Promover los **aprendizajes** de los participantes.  
+- ⏱️ **Maximizar el uso del tiempo** disponible.  
+- 🧰 Definir con claridad las **estrategias metodológicas** y los **recursos necesarios**.  
+- 📊 **Valorar los conocimientos y habilidades** alcanzadas por el alumnado.  
+
+---
+
+### 8.2. Organización de una sesión formativa  
+
+La **sesión formativa** se estructura en **tres partes principales**: *introducción, desarrollo y conclusión*.  
+En cada una de ellas, el docente debe combinar **técnicas que capten la atención** con **habilidades que estimulen el pensamiento y la participación**.
+
+
+
+#### 🪄 Introducción  
+
+- 📋 **Presentación** de los aspectos que se van a tratar.  
+- 🔁 **Recapitulación** del día anterior para situar al grupo en el contexto del contenido.  
+- 🎯 **Presentación del objetivo** de la clase, destacando su relación con el perfil profesional del alumnado.  
+
+> [!tip]
+> Si es la **primera sesión** del curso, aprovecha para presentar la **programación general**, explicar el **proceso de evaluación** y resolver las primeras dudas.
+
+
+
+#### ⚙️ Desarrollo  
+
+- 🧠 **Exposición de los contenidos** y realización de actividades.  
+- 💬 **Control de la comprensión**, atendiendo a la interacción y las respuestas de los participantes.  
+- 🔄 **Recapitulaciones parciales**, resumiendo las ideas clave para favorecer la retención.
+
+> [!warning]
+>
+> A continuación profundizaremos más en esta parte concreta.
+
+
+> [!tip]
+> Alternar momentos expositivos con dinámicas o preguntas abiertas ayuda a mantener la atención del grupo.
+
+
+
+#### 🧩 Conclusión  
+
+- 🪞 **Síntesis final** de lo trabajado, destacando las ideas principales.  
+- 👥 Propuesta de que un alumno o alumna realice la **recapitulación global** del día.  
+- 🚀 **Presentación de la próxima clase**, aportando una motivación extra o conexión con el siguiente contenido.  
+
+> [!important]
+> Cerrar cada sesión con una **visión de conjunto** ayuda al alumnado a consolidar lo aprendido y anticipar la siguiente etapa del curso.
+
+---
+
+A continuación profundizaremos en el **desarrollo de una sesión formativa**:
+
+1. 🎤 **Presentación**  
+   Introducción sobre los aspectos que vamos a tratar.  
+   Si es el primer día del curso, presentamos la **programación general** del mismo, explicando el **proceso de evaluación** que se va a llevar a cabo.
+
+2. 🔁 **Recapitulación del día anterior**  
+   Con el objeto de situar al grupo participante de nuevo en el **contexto del contenido** que se va a trabajar.
+
+3. 🎯 **Presentación del objetivo**  
+   Comunicamos el **propósito de la sesión**, poniendo énfasis en la **relación con el perfil profesional** en el que se preparan los participantes.
+
+4. 📚 **Desarrollo de la clase**  
+   Debemos considerar dos aspectos principales:  
+   - 🧠 El **control de la comprensión**, atendiendo a la información que los participantes nos proporcionan a través de su interacción o en las respuestas a preguntas.  
+   - 💡 La **recapitulación parcial**, aprovechando para ir **resumiendo y repitiendo** las ideas clave que se van trabajando, para **estimular el recuerdo**.
+
+5. 🧾 **Recapitulación total**  
+   Toda sesión formativa debe finalizar con una **síntesis o conclusión** de lo trabajado.  
+   Podemos iniciarla nosotros mismos o sugerir que la realice alguno de los miembros del grupo.
+
+6. 🚀 **Presentación de la clase del día siguiente**  
+   Al finalizar una sesión, y según sea el clima de trabajo, podemos **introducir la siguiente**, aportando una **motivación extra** al grupo.
+
+---
+
+### 8.3. La exposición didáctica: requisitos y características
+
+#### 8.3.1. Requisitos y características
+
+En el desarrollo de la **sesión formativa** se tendrá en cuenta la **exposición oral** y la **estructura de la sesión**.  
+Una sesión formativa gira en torno a tres partes: **introducción**, **desarrollo** y **conclusión**.  
+En ella, el docente deberá combinar **técnicas que capten la atención** con **habilidades que estimulen el pensamiento y la discusión**.
+
+Al preparar nuestra intervención debemos considerar aspectos relacionados con nuestra **personalidad, experiencias y conocimientos**, además de factores como el **tipo de contenido**, el **tiempo disponible** o la **ubicación física**.
+
+📌 **Recursos que podemos utilizar para facilitar la exposición:**
+
+- 🎤 **Variar el tono e intensidad de la voz**: más alto al inicio y más bajo durante el desarrollo.  
+- 👀 **Establecer “recorridos” con la mirada** hacia todos los participantes.  
+- 💬 **Usar anécdotas y ejemplos** a lo largo de la exposición.  
+- 🚶 **Moverse de forma pausada** por el aula para mantener la atención.  
+- 🧍‍♂️ **Hablar de pie**, con una **postura erguida y segura**, transmitiendo confianza.
+
+---
+
+#### 8.3.2. Errores del profesorado
+
+> [!caution]
+>
+> Habitualmente el profesorado puede cometer errores que están relacionados con:
+>
+> - ⚙️ **Uso inadecuado de recursos didácticos.**  
+> - 🧩 **Empleo de lenguaje técnico sin previa explicación.**  
+> - ❌ **Ofrecer ejemplos no relacionados con el contenido.**  
+> - 📖 **Leer la exposición sin interactuar con el alumnado.**  
+> - 🎤 **Falta de entonación o uso inadecuado del ritmo, velocidad o volumen de voz.**  
+> - 🙃 **Gestos distractores o movimientos pendulares** (vaivén corporal constante e inconsciente, que suele revelar nerviosismo).  
+> - 👀 **No mantener el contacto visual con el grupo.**
+>
+
+Para evitar estos errores es imprescindible realizar una **planificación adecuada de la exposición**, que cumpla los siguientes requisitos:
+
+- 🧭 **Estructurar los contenidos** teniendo en cuenta los destinatarios, el contexto y los objetivos.  
+- 🗣️ **Cuidar la expresión oral y no verbal**: tono de voz, ritmo, claridad, pausas, gestos y postura.  
+- 💡 **Fomentar la motivación** y mantener la atención constante para lograr un aprendizaje comprensivo y significativo.  
+- 🪑 **Cuidar el entorno físico del aula**: temperatura, visibilidad, iluminación, etc., ya que influyen en la atención y motivación del alumnado.  
+- 🧰 **Usar recursos variados** que hagan el proceso de enseñanza–aprendizaje más didáctico y significativo.
+
+📌 **Etapas de la exposición:**
+
+1. **Planificación:** detectar las necesidades e intereses del alumnado.  
+2. **Exposición de contenidos:** mantener la atención del grupo durante el desarrollo.  
+3. **Comprobación del aprendizaje:** valorar si el alumnado ha interiorizado y comprendido los contenidos.
+
+---
+
+### 8.4. Preparación y desarrollo de una sesión formativa
+
+> [!important]
+> La **exposición didáctica** es una importante forma de **comunicar y transmitir información**, por lo que el docente debe **prepararla y ensayarla**.  
+> Es recomendable **alternar la exposición con otras técnicas didácticas**, introduciendo pausas, preguntas o pequeñas actividades que mantengan la atención y favorezcan la comprensión.
+
+Para que la **comunicación oral** sea efectiva, podemos tener en cuenta distintas etapas:
+
+<br><br>
+
+**🧩 Analizar la situación**
+
+1. 🎯 **Delimitar el objetivo de la exposición.**  
+2. 👥 **Identificar al grupo participante:** conocimientos, actitudes, número, nivel, etc.  
+3. 🏫 **Establecer el lugar, el tiempo disponible y el momento adecuado** para la comunicación.  
+
+<br><br>
+
+**🗂️ Preparar el contenido de la exposición**
+
+1. 💭 **Pensar antes de hablar.**  
+2. 🧩 **Ordenar las ideas.**  
+3. 🧱 **Estructurar la exposición.**  
+4. 🪄 **Preparar el material de apoyo:** presentaciones, carteles, fotocopias, etc.  
+
+<br><br>
+
+**🎤 Desarrollo de la exposición**
+
+1. 🗣️ **Adaptar el contenido y el vocabulario.**  
+2. ✂️ **Utilizar preferentemente frases cortas.**  
+3. 🔊 **Cuidar la entonación, pronunciación y volumen** de la voz.  
+4. 🌟 **Captar el interés** con una exposición atractiva y participativa.  
+
+---
+
+> [!tip]
+> Una técnica sencilla para resolver problemas durante la sesión es aplicar la máxima:  
+> **“Si lo que estás haciendo no funciona, prueba lo contrario.”**
+>
+> **Ejemplos:**
+>
+> - Si una **sesión plenaria** no funciona, divídela en **pequeños grupos**.
+> - Si un **ejercicio práctico** no funciona, cambia a una **demostración**.  
+> - Si una **sesión de reflexión** no funciona, realiza una **actividad práctica**.  
+> - Si el **ejemplo del facilitador** no es apropiado, pide **ejemplos al alumnado**.
+
+
+
+> [!tip]
+> Otra forma de planificar contingencias es disponer de **actividades o ejercicios de apoyo** para reaccionar ante imprevistos del grupo o del entorno.
+>
+> **Ejemplos:**
+>
+> - Si los participantes **pierden interés**, divídelos en grupos y pídeles que **apliquen el material a situaciones reales**.  
+> - Si **no sabes cómo continuar**, anuncia un **breve descanso** para ganar tiempo.  
+> - Si la sesión **no funciona**, pasa a la **siguiente parte del programa**.  
+> - Si **te quedas sin material**, puedes **finalizar antes** o realizar una **actividad de resumen o evaluación**.  
+> - Si el grupo **se fragmenta**, reúne a los participantes y recuérdales el **propósito de trabajar juntos**.
+
+
+
+---
+
+### 8.5. Planificación
+
+> [!warning]
+> En toda **sesión formativa**, se estima que aproximadamente un **10 % del tiempo total no se utiliza de forma efectiva**, al destinarse a **actividades preparatorias, saludos, diálogos espontáneos o ajustes técnicos**.  
+> El resto del tiempo debe **distribuirse proporcionalmente** según la **importancia de los contenidos y las actividades** previstas.
+
+<br><br>
+
+**🟣 Plantilla para la planificación de la sesión formativa**
+
+| **Elemento**                   | **Descripción**                                              |
+| ------------------------------ | ------------------------------------------------------------ |
+| 🎯 **Objetivos**                | Objetivos específicos de aprendizaje de la sesión: **cognoscitivos**, **procedimentales** y **actitudinales**. |
+| 📘 **Contenidos y actividades** | Epígrafes o temas que se van a trabajar y **actividades identificativas** asociadas. |
+| 🧭 **Metodología**              | Organización de la sesión: **exposición teórica**, **actividades individuales o grupales**, **técnicas participativas**, etc. |
+| 🧰 **Recursos**                 | Recursos que se utilizarán, tanto **tradicionales** como **TIC**, y su función durante la sesión. |
+| ⏱️ **Tiempo previsto**          | Distribución temporal asignada a cada contenido o actividad planificada. |
+| 🗒️ **Observaciones**            | Posibles **cambios por imprevistos** o **contenidos pendientes** que deban retomarse. |
+
+<br><br>
+
+**🟣 Criterios para la selección de recursos materiales**
+
+- ✅ **Seleccionar los recursos** según el **objetivo propuesto** y basándose en **criterios técnicos y pedagógicos**.  
+- 🗓️ **Organizar y disponer los recursos** en el **momento y lugar adecuados** a su finalidad, evitando su uso excesivo.  
+- 💡 **Favorecer la iniciativa y creatividad** del alumnado mediante recursos que estimulen su participación activa.
+
+---
+
+### 8.6. Utilización de los materiales, medios y recursos
+
+Habitualmente utilizamos los términos **materiales**, **medios** y **recursos** como sinónimos, pero realmente tienen ciertos matices que debemos conocer antes de desarrollar el tema.  
+Existen numerosas definiciones sobre estos términos, y de hecho, los autores **no se ponen de acuerdo en una definición concreta**.  
+Un caso claro es el concepto de *medio*: según la época o tendencia educativa, se le han añadido diferentes adjetivos para precisar su uso —*medios audiovisuales*, *medios de comunicación*, *medios didácticos*, etc.—.
+
+Desde el **paradigma constructivista**, los medios didácticos se entienden como el **instrumento que ayuda al docente** en su labor para que los estudiantes **construyan su propio conocimiento**.
+
+En el caso del término **materiales**, podemos entenderlos como los **productos diseñados** que nos ayudan en el proceso de enseñanza–aprendizaje.  
+
+> [!note] Definición
+> **📢(San Martín, 1991)**  
+> Aquellos artefactos que, en unos casos utilizando las diferentes formas de representación simbólica y en otros como referentes directos (objetos), incorporados en estrategias de enseñanza, coadyuvan a la reconstrucción del conocimiento, aportando significaciones parciales a los conceptos.
+
+El término **recurso** se entiende como el **uso de todo tipo de materiales didácticos**.  
+
+> [!note] Definición
+> **📢 (Mattos, 1963)**  
+> Los recursos didácticos son los medios materiales de que se dispone para conducir el aprendizaje de los alumnos/as.
+
+> [!tip]
+> Si leemos con atención, sí existe una diferencia entre los términos:  
+> El término **“recurso”** es el más amplio, ya que **engloba** a los conceptos de **medio** y **material didáctico**.  
+> El recurso implica una **forma de actuar**, ya que supone **decidir sobre las estrategias** a emplear en el proceso de enseñanza–aprendizaje.
+
+![Ilustración que representa gráficamente la relación entre “materiales”, “medios” y “recursos” según Moreno Herrero (2005)](img/MF1444 - UF1645 - 03 - Estrategias metodológicas en la FPE según modalidad formativa/image-20251031135046761.png){.rounded-4}
+
+> 📸Ilustración que representa gráficamente la relación entre “materiales”, “medios” y “recursos” según Moreno Herrero (2005).
+
+La **utilización y uso de los medios** dependerá de los **paradigmas y modelos educativos** que subyacen en el proceso de enseñanza–aprendizaje.  
+En función del **perfil del docente**, se hará un uso u otro de los medios, adaptándolos al contexto y a los objetivos de la formación.
+
+> [!note]
+> **Diferencia entre material, medio y recurso (explicado de forma más simple):**  
+>
+> - 🧱 **Material** → Es el **objeto físico o digital** que se usa en la enseñanza.  
+>   Ejemplo: un libro, una presentación, un vídeo o una maqueta.  
+>   Son los “instrumentos” que utilizamos.
+>
+> - 📡 **Medio** → Es el **canal o sistema** que usamos para transmitir el contenido con ese material.  
+>   Ejemplo: la pizarra, el proyector, Internet, una plataforma online o una videollamada.  
+>   Es *cómo* llega la información al alumnado.
+>
+> - 🧩 **Recurso** → Es el **conjunto de todo lo anterior**, más la **forma en que lo usamos** para enseñar.  
+>   Ejemplo: usar un vídeo (material) en una plataforma online (medio) dentro de una actividad de debate (recurso).  
+>   Es la **estrategia completa** que combina materiales y medios para lograr un objetivo de aprendizaje.
+>
+> 👉 En resumen:  
+> **Material** = lo que usamos  
+> **Medio** = por dónde lo transmitimos  
+> **Recurso** = cómo lo usamos para enseñar
+
+
+
+---
+
+### 8.7. Modelos educativos
+
+Existen muchos modelos educativos, pero para comprender el tema que nos ocupa los sintetizaremos en **tres paradigmas**: el **tradicional o técnico**, el **práctico** y el **crítico**.
+
+- 🏫 **Modelo tradicional:**  
+  Este modelo busca la **repetición y transmisión de los conocimientos**.  
+  Se centra en los **conceptos**. El docente **transmite** y el estudiante **repite y memoriza**.
+
+- 🔨 **Paradigma práctico:**  
+  El paradigma práctico busca que el alumnado **ponga en práctica los conocimientos**, los **entienda en su contexto** y amplíe los contenidos desarrollando **habilidades y destrezas**.  
+  El estudiante tiene un **papel activo** en el proceso de enseñanza–aprendizaje y el docente **guía** el proceso.
+
+- 💡 **Modelo crítico:**  
+  El modelo crítico busca que el alumno/a **construya su aprendizaje de manera reflexiva y analítica**.  
+  El conocimiento **no sólo lo transmite el docente**, sino que puede buscarse y encontrarse en **múltiples fuentes**, todas ellas contribuyendo al mapa mental del estudiante.
+
+En función del **modelo pedagógico** que utilicemos en el aula, así **variará la forma en que aplicamos los recursos didácticos**.
+
+La siguiente tabla, adaptada de **Moreno Herrero, Isidro (2005)**, sintetiza el **uso de los medios** en función de los **paradigmas educativos**:
+
+| **Aspecto**           | **Tradicional**                                              | **Práctico**                                                 | **Crítico**                                                  |
+| --------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Sobre el uso**      | Reproductor.                                                 | Interpretativo.                                              | Crítico.                                                     |
+| **Sobre la práctica** | Papel reproductor y ejecutor de las orientaciones que llegan diseñadas. | Diseños abiertos que tienen en cuenta la realidad. Reflexión sobre la práctica. | Utilización de los medios como elementos de análisis y reflexión sobre la práctica. |
+| **Sobre los fines**   | Logro de objetivos de conducta.                              | Importancia de los procesos.                                 | Cauces para modificar códigos y eliminar diferencias sociales y culturales. |
+| **Sobre la realidad** | Escasa adecuación.                                           | Análisis de la realidad para dar significado a las situaciones. | Análisis crítico para transformar la realidad.               |
+
+---
+
+### 8.8. Funciones de los medios o recursos didácticos
+
+Los **materiales didácticos** sirven de apoyo a la formación, por lo que responden a **qué queremos enseñar**, aportan **explicaciones claras y sencillas**, ofrecen un **aspecto atractivo para el alumno** y propician la **interacción** con él.  
+La prioridad del docente es **crear y utilizar recursos que aporten significatividad al aprendizaje**.
+
+Las principales funciones de los medios o recursos didácticos son:
+
+- 🎯 **Función motivadora:**  
+  Cuanto más atractiva y novedosa sea la herramienta, **más atención y curiosidad despierta** en el alumnado.
+
+- 🌍 **Función de acercamiento a la realidad:**  
+  Los medios facilitan la **conexión con la realidad inaccesible**, ayudando a comprender o visualizar fenómenos que no pueden observarse directamente.
+
+- 💡 **Función innovadora:**  
+  La incorporación de medios didácticos supone una **renovación de las estrategias docentes**, promoviendo nuevas formas de enseñar y aprender.
+
+- 🧭 **Función organizadora de las acciones formativas:**  
+  Los medios **ilustran la información, aclaran contenidos** y ayudan a **estructurar mejor las sesiones** formativas.
+
+- 📘 **Función formativa global:**  
+  Permiten **completar la formación** del alumnado o proporcionar una **síntesis visual o conceptual** de los contenidos.
+
+- 🤝 **Función democratizadora de la formación:**  
+  Facilitan el **acceso a la educación a un mayor número de personas**, gracias al uso de herramientas como **CDs, plataformas de aprendizaje virtual o recursos digitales en línea**.
+
+---
+
+### 8.9. Criterios de selección y usos
+
+La **selección de los materiales** debe atender siempre a **criterios didácticos** y tener en cuenta las **funcionalidades de cada medio**.  
+
+Según **Moreno Herrero (1996)**, desde el punto de vista de la utilización didáctica de los medios, éstos deben reunir los siguientes **criterios de funcionalidad**:
+
+- 🧰 **Deben ser una herramienta de apoyo y ayuda para el aprendizaje:**  
+  - Deben ser **útiles y funcionales**.  
+  - Nunca deben **sustituir al profesorado** en su tarea de enseñar, ni al alumnado en su tarea de aprender.
+
+- ⚖️ **Su utilización y selección deben responder al principio de racionalidad:**  
+  - Se deben establecer **criterios de selección** claros.  
+  - Desde una **perspectiva crítica**, estos criterios deben **construirse de manera conjunta** entre todas las personas implicadas en el proceso de aprendizaje.
+
+Las **posibilidades didácticas** que ofrecen los medios, según **Moreno Herrero (2005)**, giran en torno a **tres ejes principales**:
+
+- 🎯 **Los medios como instrumento y recurso:**  
+  Se utilizan como una **estrategia metodológica**. Son una **herramienta clave** para la construcción del aprendizaje del alumnado.  
+  
+- 💬 **Los medios como recurso de expresión y comunicación:**  
+  Fomentan distintas **formas de expresión** (oral, escrita, plástica, musical, dramática) fruto del **análisis y reflexión** sobre los contenidos.  
+  
+- 🧠 **Los medios como herramienta de análisis crítico de la información:**  
+  Pretenden desarrollar en el alumnado **actitudes críticas y habilidades de interpretación** frente a la información recibida (análisis de programas de medios de comunicación, internet, redes sociales, visitas a periódicos o emisoras.)
+
+La siguiente tabla **hace un resumen de los medios usados** para conseguir cada una de estas **funciones didácticas**:
+
+| **Usos**                                              | **Incidencia en el proceso educativo**                       | **Tipo de material y medios**                                |
+| ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Como instrumento y recurso**                        | • Recurso para presentación de temas, actividades de motivación, síntesis y aplicación.  <br>• Desarrollo de actitudes y hábitos de escucha en distintas situaciones comunicativas.  <br>• Instrumento de evaluación y autoevaluación. | • Noticias, prensa, libros y poemas.  <br>• Visitas y excursiones.  <br>• Retroproyector, proyector de diapositivas, cámaras digitales, ordenador.  <br>• Fotografías, películas, presentaciones, grabaciones de audio, internet. |
+| **Como recursos para la expresión y la comunicación** | • Desarrollo de contenidos, procedimientos de expresión y comunicación.  <br>• Actividades de expresión oral, plástica, escrita, musical y dramática.  <br>• Desarrollo de imaginación y capacidad creadora.  <br>• Elaboración de informaciones y noticias. | • Todos los del apartado anterior.  <br>• Desarrollo de información variada sobre temas como ecología, consumo, libertades o deporte.  <br>• Creación de poemas, canciones, obras de teatro, programas de radio y vídeos. |
+| **Como análisis crítico de la información**           | • Desarrollo de mecanismos de representación simbólica y utilización de otros códigos.  <br>• Desarrollo de capacidad de decodificación y análisis de la información.  <br>• Conocimiento de los medios y sus lenguajes específicos.  <br>• Conocimiento de procesos de elaboración de la información.  <br>• Elaboración de instrumentos propios de análisis. | • Todos los anteriores.  <br>• Análisis de contenidos de programas de comunicación.  <br>• Realización de encuestas y reportajes.  <br>• Visitas a periódicos y emisoras. |
+
+
+
+En el momento de **planificar una sesión formativa**, debemos tener en cuenta que:
+
+1. ✅ Los recursos deben **seleccionarse según los objetivos propuestos**, atendiendo a criterios **técnicos y pedagógicos**.  
+2. 🗓️ Es necesario **organizar y disponer los recursos** en el momento y lugar adecuados, evitando su **uso excesivo o innecesario**.  
+3. 💡 Se recomienda emplear recursos que **fomenten la iniciativa y la creatividad** del alumnado.  
+4. 🏫 Si es la **primera sesión**, debemos conocer previamente los recursos y la **disposición física del aula**, comprobando:  
+  - La distribución de mesas y sillas.  
+  - La existencia de equipamiento como **pizarra, rotafolios, retroproyector u ordenador**.
+
+---
+
+## 9. La simulación docente
+
+### 9.1. Conceptos
+
+La **simulación** es la posibilidad de **aprender actuando en situaciones similares a las reales**. Permite la **individualización de la enseñanza**, fomenta la **creatividad**, la **autoevaluación** y un **ahorro de tiempo y recursos** en disciplinas donde la práctica real sería muy costosa.
+
+**La simulación del docente:**
+- 🎭Es el **proceso de evaluación** que permite a la persona observarse en acción y **tomar conciencia de sus puntos fuertes y débiles**, con la finalidad de aceptarse y mejorar.
+- 🧩 Como **estrategia**, se organiza para que los participantes **aprendan participando** en una **situación similar a la real**.
+- 🔍Tras la experiencia, se **analiza** cómo resultó, las **dificultades afrontadas** y las **que se vencieron**.
+
+Veamos 3 posibles **definiciones de simulación**:
+
+> [!note] Definición:
+>
+> 📢 **Thornton y Cleveland (1990):** Modelo o representación de los acontecimientos del mundo real en el que los elementos se han representado mediante **símbolos, números** o en **forma física**.
+
+> [!note] Definición:
+>
+> 📢 **Rico (1991):** Recurso de aprendizaje empleado para **estimular la participación** del alumno, **acercar** el conocimiento a la **vida real** y **aplicarlo** a situaciones cotidianas.
+
+> [!note] Definición:
+>
+> 📢 **Rico (1991):** Técnica científica consistente en **proponer un modelo matemático** de un fenómeno y, con la ayuda de un **ordenador u otra herramienta**, **reproducir y observar** su comportamiento **manipulando** las variables relevantes.
+
+
+
+---
+
+### 9.2. Características, fases y objetivos
+
+La **simulación docente** se define por una serie de características que le otorgan valor pedagógico y permiten conectar la teoría con la práctica profesional.
+
+**Características básicas de la simulación:**
+- 👁️ **Observación del mundo real.**  
+- 🧱 **Representación física o simbólica** de la realidad.  
+- 🎭 **Acción** sobre dicha representación.  
+- 🧠 **Efectos de esta acción** sobre el aprendizaje humano.  
+
+**Fases del desarrollo de la simulación docente:**
+1. 📋 **Información previa** sobre las habilidades que se van a trabajar.  
+2. 🎥 **Ejecución de la docencia** y grabación en vídeo.  
+3. 💬 **Realimentación o feedback**, guiada por el formador y el grupo de compañeros/as.  
+4. 🔁 **Nuevo ensayo**, aplicando las propuestas de mejora.
+
+**Beneficios:**
+- Para el **docente**, facilita una sesión más **significativa y atractiva**, identifica habilidades y reproduce experiencias reales.  
+- Para el **alumnado**, permite **aprender haciendo**, **auto-evaluarse** y **aplicar** lo aprendido en nuevas situaciones.
+
+**Objetivos de la simulación docente:**
+- 💪 Transmitir **seguridad**.  
+- 🌱 Reforzar **actitudes positivas** hacia la práctica docente.  
+- 🗣️ Estimular la **crítica constructiva**.  
+- 💡 Fomentar la **reflexión** y el **cambio de modelos de pensamiento**.  
+- 🌟 Reforzar los **aspectos positivos**.  
+- 🔍 Permitir el **descubrimiento de nuevos comportamientos**.  
+- 💾 Facilitar que los conocimientos y conductas sean **almacenables y reproducibles**.
+
+> [!important]
+> Cuando la simulación pone de manifiesto **habilidades que deben mejorarse**, puede recurrirse a la **microenseñanza** como técnica complementaria.
+>
+> > La **microenseñanza** es una **técnica de formación docente** que consiste en **practicar una pequeña parte de una clase o sesión formativa**, normalmente de **muy corta duración (5–15 minutos)**, **ante un grupo reducido** de compañeros o alumnos.
+> >
+> > Se explica justo ahora.
+
+
+
+---
+
+### 9.3. Técnicas de microenseñanza
+
+#### 9.3.1. Introducción
+
+El concepto de **microenseñanza** surgió en la **Universidad de Stanford (1963)** como un método de formación docente que permite **practicar y evaluar habilidades concretas** de enseñanza en un entorno reducido y controlado.  
+Gracias al uso del vídeo, el docente puede **observar su propia actuación**, **detectar áreas de mejora** y repetir la experiencia aplicando los cambios necesarios.
+
+**Características principales:**
+- 👩‍🏫 El docente imparte durante **un corto periodo de tiempo** una sesión a un **grupo reducido de alumnos**, centrada en **una habilidad específica** (por ejemplo, practicar técnicas de exposición, manejar materiales o demostrar un método).  
+- 🎥 La sesión se **graba en vídeo** para su posterior análisis y **retroalimentación**.  
+- 🔁 El proceso puede **repetirse tantas veces como se desee**, ajustando los mismos elementos para observar la mejora progresiva.
+
+**Propósitos fundamentales de la microenseñanza:**
+- 📚 La microenseñanza **debe considerarse enseñanza real**, aunque sea en formato reducido.  
+- 👥 Se **disminuye el tamaño del grupo, el contenido y la duración** de la sesión.  
+- 🎯 El objetivo es el **entrenamiento dirigido al logro de fines específicos**.  
+- 🧩 Permite **controlar mejor la situación** docente y las variables implicadas.  
+- 💬 Facilita un **conocimiento inmediato de los resultados** y una **retroalimentación eficaz y concreta**.
+
+
+
+---
+
+#### 9.3.2. Beneficios de la microenseñanza y utilidad  
+
+La **microenseñanza** se apoya en dos líneas fundamentales: la **simplificación de los elementos** y el **aprendizaje escalonado**.  
+Se centra en desarrollar habilidades concretas que son esenciales para el desempeño docente, como la **comunicación**, la **técnica interrogativa**, la **presentación de contenidos** o el **control del grupo**.
+
+**🔵Beneficios principales:**  
+
+- 🎯 Es un instrumento que **aumenta la seguridad** del docente y permite **focalizar una habilidad específica** para mejorarla.  
+- 🧠 Proporciona **entrenamiento práctico** que contribuye directamente al perfeccionamiento de la enseñanza.  
+- 💡 Ofrece una **retroalimentación útil y orientada a la mejora continua** del desempeño docente.  
+
+**🔵Utilidad de la microenseñanza:**  
+
+- 🗣️ Para el **desarrollo de habilidades comunicativas**.  
+- 🧩 Para la **organización coherente de la información**.  
+- 👀 Para el **manejo de los estímulos** que mantienen la atención del alumnado.  
+- 🖥️ Para el **uso correcto de los recursos y medios didácticos**.  
+- ❓ Para la **mejora en la formulación de preguntas**.  
+- 💬 Para mantener la **coherencia entre comunicación verbal y no verbal**, empleando refuerzos adecuados.  
+- 👥 Para **mantener el control del grupo** durante la sesión.  
+
+> [!important]
+> Las habilidades centrales de la microenseñanza en la formación docente se agrupan en **tres categorías clave**:  
+> **1. Comunicación en el aula**  
+> **2. Utilización de recursos didácticos**  
+> **3. Atención a la diversidad del grupo**
+
+**🔵Comunicación en el aula:**  
+
+- 💬 *Dimensión verbal:* vocalización, dicción, modulación, uso del vocabulario adecuado y coherencia en la exposición.  
+- 🤝 *Dimensión no verbal:* desplazamientos, expresión corporal y postura.  
+
+**🔵Apoyo de recursos didácticos:**  
+
+- 📋 Uso adecuado de **recursos tradicionales** (pizarra, rotafolios…).  
+- 💻 Empleo de **tecnologías** (vídeo, proyector, etc.).  
+- 📄 Uso de **materiales didácticos complementarios** (carteles, fotocopias, folletos…).  
+
+**🔵Diversidad del grupo de participantes:**  
+
+- 🎯 Aplicar **estrategias variadas** para captar la atención.  
+- 🧠 Seleccionar y organizar los recursos según las necesidades del grupo.  
+- 🗓️ Planificar actividades que respeten la **diversidad de ritmos y estilos de aprendizaje**.  
+
+> [!note]
+> 🎥 En el siguiente vídeo se ofrece una **explicación visual y clara sobre la microenseñanza**:  
+> [Ver vídeo en YouTube](https://www.youtube.com/embed/dLXb-xS1xGo)
+>
+> <div style="text-align: center">
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/dLXb-xS1xGo" title="Microenseñanza - explicación sencilla" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture;" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    
+> </div>
+
+
+
+---
+
+### 9.4. Realización y valoración de microenseñanza 
+
+> [!warning] 
+>
+> En el temario original, el título es Realización y valoración de simulaciones, pero habla claramente de Microenseñanza, lo cual es incongruente. Lo dejamos así que tiene más sentido.
+
+> [!important]
+> La **microenseñanza** permite **reducir la complejidad del proceso formativo** a un conjunto de **habilidades concretas**, disminuyendo el **tiempo necesario para el aprendizaje** y fomentando una **experiencia activa** basada en la **observación**, la **práctica** y la **reflexión**.
+
+🟠**Procedimiento de aplicación:**
+- 📝 **Preparación:** elaborar un **breve contenido informativo** relacionado con la especialidad profesional.  
+- 🎯 **Foco:** concentrarse en **una habilidad específica** que se desea mejorar o evaluar.  
+- 👥 **Tamaño del grupo:** mantener un **grupo reducido**, que después ofrecerá **retroalimentación** al docente en formación.  
+- ⏱️ **Duración:** entre **10 y 15 minutos**.  
+- 🧑‍🏫 **Desarrollo de la microlección:** emplear los **recursos necesarios** y tratar al grupo como si fuera **real**, aplicando técnicas docentes auténticas.  
+- 🔁 **Realimentación final:** proporcionada por el **docente experto** y los **compañeros/as**, fomentando la **reflexión conjunta** y la **mejora progresiva**.  
+
+Durante la devolución, el alumnado realiza **autocrítica**, complementada con la **retroalimentación grupal**.  
+Es fundamental **reconocer los puntos fuertes** —como la creatividad, la claridad, la gestión del grupo o la inclusión del alumnado— y **ofrecer sugerencias constructivas** para los aspectos a mejorar.
+
+🟠**Instrumentos de valoración en la microenseñanza:**
+
+1.  🔍 El uso de **técnicas e instrumentos de medida**, como la **observación**, es **indispensable** para realizar actividades de microenseñanza.  
+2. En la **valoración del desempeño docente** se pueden emplear distintos instrumentos:  
+   1.  🎥 **Observación directa** mediante **grabación en vídeo**, que permite analizar la actuación y detectar áreas de mejora.  
+   2. 🗒️ **Registros descriptivos**, **cuestionarios** o **encuestas**, para recoger valoraciones cualitativas.  
+   3. 📊 **Escalas de evaluación** o **rúbricas**, que facilitan una valoración **objetiva y estructurada** de las habilidades docentes.  
+
+---
+
+## 10. Utilización del aula virtual
+
+### 10.1. Aspectos generales
+
+Las **aulas virtuales** son espacios educativos donde docentes y alumnado pueden **desarrollar actividades académicas**, **acceder a materiales**, **realizar ejercicios**, **participar en debates** y **gestionar evaluaciones**, entre otras acciones.
+
+> [!note] Definición:
+>
+> 📢El **aula virtual** es una **aplicación web** (software libre, comercial o institucional) accesible desde el navegador que permite **crear actividades en línea**, **realizar evaluaciones** y **ofrecer recursos** de apoyo a las clases.
+
+Las plataformas de e-learning suelen incluir estas funcionalidades:
+- 💬 **Herramientas de comunicación y colaboración (chat, foros).**
+- 📚 **Visualización de contenidos** tanto *online* como *offline*. 
+- 📊 **Seguimiento y evaluación** del aprendizaje.
+
+> [!tip] Ejemplo
+>
+> <img src="img/MF1444 - UF1645 - 03 - Estrategias metodológicas en la FPE según modalidad formativa/logo-moodle.png" alt="Logo Moodle" style="zoom:50%;" />
+>
+> **Moodle** es una plataforma de aprendizaje en línea muy extendida. Más información: https://moodle.org/
+
+> [!note] Definición:
+>
+> 📢El **e-learning** es **enseñanza a distancia** con **separación física** entre profesorado y alumnado (puede incluir encuentros puntuales), basada en **comunicación bidireccional, preferentemente asíncrona**, utilizando **Internet** para comunicar y distribuir el conocimiento. El **alumno/a** es el **centro** del aprendizaje y **gestiona su progreso** con el apoyo de **tutores**.
+>
+> — Germán Ruipérez (2003)
+
+---
+
+### 10.2. Características  
+
+Según **Germán Ruipérez (2003)**, la formación **e-learning** presenta las siguientes características principales:
+
+- 💻 **Separación física entre docente y alumnado:**  
+  Docentes y estudiantes pueden encontrarse en lugares geográficos distintos.  
+  El **nexo de unión** entre ambos es la **plataforma virtual**.
+
+- 🌐 **Soportes tecnológicos para asegurar la comunicación e información:**  
+  La teleformación se apoya en **plataformas tecnológicas** que permiten **visualizar contenidos web**, **organizar el estudio** y **comunicarse** con el profesorado y otros alumnos/as.
+
+- 🔄 **Comunicación bidireccional:**  
+  La interacción se realiza mediante **correo interno**, **foros** y **chats**, que permiten comunicarse tanto **entre el alumnado** como **con el docente**, ya sea de forma **síncrona** (chat) o **asíncrona** (foros, correo interno).
+
+- 🎯 **Procesos de enseñanza–aprendizaje individuales y autónomos:**  
+  El e-learning fomenta la **autonomía** y la **autorregulación**, permitiendo al alumno/a **decidir cuándo y cómo estudiar**, lo que exige **organización y autodisciplina**.
+
+> [!note]
+> En los últimos años, con el desarrollo de la **web 2.0**, el e-learning ha evolucionado rápidamente.  
+> En los años 80, con la aparición de los **ordenadores personales**, se inició la **enseñanza asistida por ordenador**, con cursos distribuidos en **CD-ROM**, donde el aprendizaje era asíncrono y la comunicación se realizaba mediante **correo postal o electrónico**.  
+>
+> La **creación de Internet** marcó una revolución: el uso del **correo electrónico, los foros y los chats** permitió una comunicación más fluida, y la **web 2.0** dio paso a las **plataformas de e-learning**, integrando en un mismo entorno **materiales didácticos**, **canales de comunicación**, **recursos informativos** y **herramientas de coordinación**.
+
+---
+
+### 10.3. Ventajas e inconvenientes del e-learning  
+
+> [!important]
+> El **aula virtual** no solo distribuye información: también debe **fomentar la interacción**, **la comunicación**, **la aplicación de conocimientos** y **la evaluación**.  
+> Puede utilizarse como **complemento de la clase presencial** o como **plataforma principal** en la formación a distancia.
+
+**Ventajas del aula virtual:**
+1. 📅 Facilita la **organización del trabajo** y la **actualización constante** de los contenidos.  
+2. 🧩 Ofrece **nuevas posibilidades de acción docente** y de diseño metodológico.  
+3. 💬 Es un **elemento eficaz de comunicación directa** y en tiempo real entre docentes y participantes.  
+4. 🤝 Permite **interacciones más completas y colaborativas** entre docente y alumnado mediante actividades en grupo.  
+5. 📈 Facilita un **seguimiento continuo** del progreso del alumno/a.  
+6. 💻 Introduce al participante en el **uso de las nuevas tecnologías**, fundamentales para el mundo laboral actual.  
+
+**Inconvenientes del e-learning (Horton, 2000):**
+
+1. 🕐 La **preparación e impartición** del curso requiere **más tiempo de trabajo**.  
+2. 🧠 Exige **mayor esfuerzo del formador/a**, al ofrecer una atención más personalizada.  
+3. 📚 Supone **un 40% más de esfuerzo** por parte del alumnado respecto a las clases presenciales.  
+4. 🧩 Requiere **competencias tecnológicas** tanto del profesorado como del alumnado.  
+5. 😕 Puede generar **sentimientos de soledad, aislamiento o ansiedad** en el alumnado.  
+6. 🧾 Precisa un **buen diseño instruccional** para evitar un aprendizaje superficial.  
+7. 🌐 Depende de una **conexión rápida y estable a Internet**, lo que puede generar **brecha digital**.
+
+---
+
+### 10.4. Uso de las aulas virtuales  
+
+> [!important]
+> El **aula virtual** debe incluir **herramientas que permitan distribuir información**, **intercambiar ideas y experiencias**, **aplicar y experimentar lo aprendido**, **evaluar conocimientos** y garantizar **seguridad y fiabilidad** en el sistema.  
+> Además, su diseño debe **facilitar la labor docente** y **favorecer la interacción** entre el alumnado mediante actividades colaborativas.
+
+
+
+El aula virtual presenta las siguientes opciones de uso:
+
+**🟡Complemento de la clase presencial:**  
+
+- 📘 Repositorio de materiales: apuntes, documentos complementarios, recursos multimedia.  
+- 🗓️ Publicación de información relevante: programas, horarios, noticias del curso.  
+- 💡 El aula virtual cumple una función principalmente informativa y de apoyo.  
+
+**🟡Para la formación a distancia:**  
+
+- 🌐 El aula virtual es el **entorno principal de enseñanza y aprendizaje**.  
+- 💬 Se convierte en el **espacio donde se produce el intercambio de conocimientos y la comunicación** entre docente y alumnado.  
+- 🎥 Los **recursos multimedia y materiales didácticos digitales** adquieren un papel fundamental, ya que **guían el aprendizaje** y sustituyen la presencia física del formador.  
+
+**🟡Para la formación mixta (blended learning):**  
+
+- 💻 El aula virtual actúa como **complemento a la formación presencial**, integrando ambas modalidades.  
+- 🧩 Además de servir como repositorio, es un **espacio dinámico** donde se **plantean debates, preguntas, actividades y trabajos colaborativos**.  
+- 👩‍🏫 Favorece la **tutorización continua** y la **interacción** entre el docente y el alumnado, prolongando el proceso formativo más allá del aula física.  
+
+
+
+**🟡Orientaciones para el uso del aula virtual:**  
+
+- 🧱 **Diseño del aula:**  
+  - Herramientas de acceso claras.  
+  - Organización de tareas y recursos.  
+  - Canales de comunicación bien estructurados.  
+
+- 💬 **Interacción:**  
+  - Fomentar intercambios comunicativos **frecuentes, ágiles y variados**.  
+  - Proporcionar **retroalimentación constante** entre docente y alumnado.  
+  - Facilitar la **interacción directa con la plataforma**.  
+
+- 👩‍🏫 **Papel del docente:**  
+  - Aplicar un **enfoque multidisciplinar**.  
+  - Mostrar **implicación y constancia** en la tutoría.  
+  - **Planificar** las actividades con claridad y seguimiento.  
+
+- 🧠 **Tipos de actividad:**  
+  - Incluir **diferentes formatos** (texto, imagen, vídeo…).  
+  - Diseñar actividades que promuevan la **argumentación, la reflexión y la iniciativa personal**.  
+
+> [!note]
+> 🎬 En el siguiente vídeo se profundiza en el concepto de **educación e-learning**, sus **funcionalidades**, **características** y **ventajas**.
+>
+> [Ver en Youtube](https://www.youtube.com/watch?v=GCW1LzzdFsU&t)
+>
+> <div style="text-align: center">
+>     <iframe width="560" height="315" src="https://www.youtube.com/embed/GCW1LzzdFsU" title="Educación e-learning" frameborder="0" allowfullscreen></iframe>    
+> </div>
+> 
+
+---
+
+# Resumen
+
+La metodología más adecuada en FPE es la **activa y participativa**, una metodología que aprovecha los conocimientos y experiencias de los participantes y en la que el personal docente actúa como guía en la adquisición de nuevos conocimientos, habilidades y actitudes.
+
+A continuación se muestran los principales métodos de enseñanza, los principios metodológicos para conseguir un aprendizaje eficaz y las estrategias metodológicas más utilizadas:
+
+**Métodos de enseñanza**
+- Método deductivo.  
+- Método inductivo.  
+- Método comparativo.  
+- Método pasivo.  
+- Método activo.  
+- Método de especialización.  
+- Método individual.  
+- Método recíproco.  
+- Método de trabajo individual.  
+- Método de trabajo grupal.  
+
+**Principios metodológicos**
+- Concreción.  
+- Reconocimiento.  
+- Actividad.  
+- Progresión.  
+- Repetición y diversidad.  
+- Estimulación.  
+- Individualización y personalización.  
+- Trabajo grupal.  
+- Multiplicidad.  
+
+**Estrategias metodológicas**
+- La explicación oral o lección magistral.  
+- Estudio de casos.  
+- Juego de empresa.  
+- Proyectos.  
+- Simulaciones.  
+- Las técnicas de dinamización grupal.  
+
+Las habilidades del docente son las capacidades que permiten al teletutor o docente fomentar un aprendizaje activo y significativo. Al mismo tiempo, el docente debe ser capaz de **motivar al alumnado** y mantener una buena vía de comunicación.  
+
+Los **estilos didácticos** se refieren a cómo cada docente o teletutor imparte una acción formativa. Las formas, modos y peculiaridades de cada uno hacen referencia a un modo o estilo didáctico. Por tanto, podemos entender que hay tantos estilos como docentes.  
+
+Una vez que el profesorado ha realizado el programa del curso o módulo, tendrá que **planificar su actuación docente directa** con el grupo-clase, seleccionando los objetivos, contenidos, metodología, recursos, materiales, temporalización y evaluación correspondiente, siendo conveniente reflejarlo en una ficha.  
+
+**Resumen final**
+
+- El **aprendizaje** es un proceso de construcción en el que participan docentes y estudiantes. Los docentes facilitan la transmisión de conocimientos teóricos, prácticos y actitudinales.  
+  En este proceso intervienen varios elementos: **participantes o estudiantes, docentes, métodos, entorno, interacción y contenidos.**
+
+- Tanto en la **enseñanza presencial** como en **e-learning**, el buen funcionamiento del grupo depende de aspectos como el afecto y la estima, metas compartidas, asunción de roles, normas, cohesión grupal, buena comunicación y sentimiento de pertenencia.
+
+- La **metodología activa y participativa** sigue siendo la más adecuada, ya que aprovecha los conocimientos y experiencias del alumnado y convierte al docente en guía del proceso de aprendizaje.
+
+
+
+---
 
 # Ejercicios
 
@@ -1142,3 +2310,204 @@ Requiere docentes **tolerantes, críticos y respetuosos**, capaces de generar un
 
 ---
 
+## Ejercicios 36: Clasificación de los recursos
+
+![image-20251031092447812](img/MF1444 - UF1645 - 03 - Estrategias metodológicas en la FPE según modalidad formativa/image-20251031092447812.png)
+
+---
+
+## Ejercicio 37: Selecciona las verdaderas
+
+✅ **a)** En las habilidades de entrada la actuación docente debe plantear los objetivos, introducir el tema de una manera motivante y establecer los prerrequisitos de entrada.
+✅ **b)** La secuencialidad favorece la compresión del alumnado y se consigue manteniendo un orden y progresión en la exposición.
+✅ **c)** Los silencios captan la atención y ayudan a reflexionar sobre lo aportado.
+✅ **g)** Mostrar las conexiones entre el tema y la actividad laboral favorece el aprendizaje.
+✅ **h)** Utilizar el humor en clase favorece el aprendizaje porque reduce las resistencias a adquirir nuevos conocimientos y cambiar comportamientos.
+
+❌ **d)** Incorrecta → remitir una pregunta al grupo no es una demostración de escucha activa, sino una técnica de dinamización.
+❌ **e)** Incorrecta → la recapitulación cognitiva no busca dar sentido de logro, sino reforzar la comprensión y consolidación del aprendizaje.
+❌ **f)** Incorrecta → no debe centrarse solo en el contenido teórico.
+❌ **i)** Incorrecta → los prerrequisitos son los conocimientos previos necesarios, no los contenidos a trabajar.
+
+![image-20251031104247656](img/MF1444 - UF1645 - 03 - Estrategias metodológicas en la FPE según modalidad formativa/image-20251031104247656.png)
+
+---
+
+## Ejercicio 38: Estrategias en su lugar adecuado. Habilidades docentes
+
+| **Habilidad docente**                                        | **Grupo al que pertenece**            |
+| ------------------------------------------------------------ | ------------------------------------- |
+| Valoración constructiva                                      | Habilidades evaluativas               |
+| Detección de dificultades de los alumnos/as                  | Habilidades evaluativas               |
+| Uso de metodología científica                                | Habilidades metodológicas             |
+| Utilización de las funciones de la inteligencia: analizar, sintetizar, etc. | Habilidades metodológicas             |
+| Selección de ejercicios más adecuados                        | Habilidades cognoscitivas del docente |
+| Dominio de la materia                                        | Habilidades cognoscitivas del docente |
+| Aclaración de conceptos                                      | Habilidades cognoscitivas del docente |
+
+
+
+![image-20251031105050341](img/MF1444 - UF1645 - 03 - Estrategias metodológicas en la FPE según modalidad formativa/image-20251031105050341.png)
+
+---
+
+## Ejercicio 39: Estilo de liderazgos docentes
+
+![image-20251031111320410](img/MF1444 - UF1645 - 03 - Estrategias metodológicas en la FPE según modalidad formativa/image-20251031111320410.png)
+
+---
+
+## Ejercicio 40: Habilidades docentes
+
+![image-20251031133352811](img/MF1444 - UF1645 - 03 - Estrategias metodológicas en la FPE según modalidad formativa/image-20251031133352811.png)
+
+---
+
+## Ejercicio 41: Planificación
+
+![image-20251031134203393](img/MF1444 - UF1645 - 03 - Estrategias metodológicas en la FPE según modalidad formativa/image-20251031134203393.png)
+
+---
+
+## Ejercicio 42: Criterios de selección de medios
+
+![image-20251031180244165](img/MF1444 - UF1645 - 03 - Estrategias metodológicas en la FPE según modalidad formativa/image-20251031180244165.png)
+
+---
+
+## Ejercicio 43: Fases de la simulación docente
+
+![image-20251031182032321](img/MF1444 - UF1645 - 03 - Estrategias metodológicas en la FPE según modalidad formativa/image-20251031182032321.png)
+
+---
+
+## Ejercicio 44: Microenseñanza. Verdadero o falso.
+
+| Afirmación                                                   | V / F |
+| ------------------------------------------------------------ | :---: |
+| Las técnicas de microenseñanza sirven, entre otras cosas, para facilitar el control del grupo. |  ✅ V  |
+| Las técnicas de microenseñanza deben realizarse durante un periodo de tiempo de treinta minutos como mínimo. |  ❌ F  |
+| La microenseñanza es útil para concentrarse en la coherencia entre el mensaje verbal y no verbal y el empleo de refuerzos. |  ✅ V  |
+
+
+
+![image-20251031192450640](img/MF1444 - UF1645 - 03 - Estrategias metodológicas en la FPE según modalidad formativa/image-20251031192450640.png)
+
+---
+
+## Ejercicio E12. Práctica asociada a los CE2.8 y CE2.9 (Unidad de aprendizaje 3, Epígrafe 10.4) Actividad evaluable
+
+PDF Aparte
+
+---
+
+## Ejercicio E13 Actividad Colaborativa, a través del Foro, asociada al CE3.9 (Unidad de aprendizaje 3, Epígrafe 10.4) Actividad evaluable
+
+PDF aparte.
+
+---
+
+## Ejercicio 45: Ventajas o inconveniente de formación online.
+
+![image-20251031222551190](img/MF1444 - UF1645 - 03 - Estrategias metodológicas en la FPE según modalidad formativa/image-20251031222551190.png)
+
+---
+
+## 🧪 Test final - MF1444 - UF1645 - 03
+
+**1) ¿Qué método es el más adecuado para trabajar con un grupo en el que los alumnos no poseen conocimientos sobre el tema, los conceptos que se van a tratar son de gran dificultad y además es conveniente evitar discusiones?**  
+a) Interrogativo.  
+b) Descubrimiento.  
+c) Expositivo.  
+d) Demostrativo.  
+
+**2) En el método demostrativo el docente enseña al alumno mediante la demostración de la tarea. Las fases para ponerlo en práctica son:**  
+a) Preparación y motivación del alumno, realización de la tarea por parte del docente y actuación del alumno.  
+b) Motivación del alumno, realización de la tarea por parte del docente, instrucciones de cómo realizar la tarea y actuación del alumno.  
+c) Preparación y motivación del alumno, explicación de la tarea, realización de la tarea por parte del docente y actuación del alumno.  
+d) Motivación del alumno, información inicial, realización de la tarea por parte del docente y actuación del alumno.  
+
+**3) ¿Cuál de la siguientes habilidades docentes NO ES una habilidad de desarrollo?  
+a) Claridad de exposición.**  
+b) Presentación de objetivos.  
+c) Secuencialidad.  
+d) Integración de conocimientos.  
+
+**4) Cualquier método puede ser eficaz si se tiene en cuenta en su elección:**  
+a) Objetivo.  
+b) Tiempo disponible.  
+c) El estilo docente.  
+d) Todas son correctas.  
+
+**5) De las siguientes frases relacionadas con el refuerzo indica la incorrecta:**  
+a) Elogiar al principio para animar al alumnado, y poco a poco ir distanciando los refuerzos.  
+b) El refuerzo tiene que seguir inmediatamente al buen resultado.  
+c) Hay que dar muchos refuerzos, cuantos más mejor.  
+d) El aprendizaje sin refuerzo no conduce al cambio de comportamiento.  
+
+**6) Utilizar ejemplos, historias, anécdotas ayuda a que el alumnado:**  
+a) Comprenda mejor los puntos tratados.  
+b) Relacione la teoría con la realidad.  
+c) Motiva o remotiva.  
+d) Todas son correctas.  
+
+**7) El docente puede plantear diferentes tipos de preguntas en función del objetivo que pretenda. Las preguntas de síntesis le permiten:**  
+a) Comprobar que los contenidos se han asimilado.  
+b) Mantener la atención y el interés en clase.  
+c) Valorar el nivel y el progreso del grupo.  
+d) Todas son correctas.  
+
+**8) ¿Cuál de los siguientes enunciados relacionados con los estilos didácticos es incorrecto?:**  
+a) Con cualquier grupo se puede utilizar el estilo laissez-faire.  
+b) El estilo democrático es el más adecuado para trabajar con adultos.  
+c) El estilo autoritario es el mejor para tareas urgentes con poco tiempo.  
+d) El rendimiento con el estilo laissez-faire depende de los líderes del grupo.  
+
+**9) Remitir al grupo la pregunta que una persona plantea le permite al docente:**  
+a) Tener más tiempo para reflexionar antes de dar su respuesta.  
+b) Comprobar el nivel del grupo con respecto al tema.  
+c) Dar al grupo la oportunidad de participar más.  
+d) Todas son correctas.  
+
+**10) El método más adecuado para trabajar con un grupo reducido, que tiene conocimientos del tema, es homogéneo en los conocimientos, es un grupo maduro y disponemos de tiempo es:**  
+a) Expositivo.  
+b) Autoritario.  
+c) Laissez-faire.  
+d) Descubrimiento.  
+
+
+
+<details>
+<summary>Soluciones</summary>
+
+**1)** c) Expositivo  
+*Es el más adecuado cuando los alumnos no tienen conocimientos previos y los contenidos son difíciles.*
+
+**2)** c) Preparación y motivación del alumno, explicación de la tarea, realización de la tarea por parte del docente y actuación del alumno.  
+*Son las fases del método demostrativo según la secuencia didáctica correcta.*
+
+**3)** b) Presentación de objetivos  
+*Corresponde a una habilidad de inicio, no de desarrollo.*
+
+**4)** d) Todas son correctas  
+*Los métodos deben elegirse considerando objetivos, tiempo y estilo docente.*
+
+**5)** c) Hay que dar muchos refuerzos, cuantos más mejor  
+*El exceso de refuerzos reduce su efectividad; deben aplicarse con criterio.*
+
+**6)** d) Todas son correctas  
+*Los ejemplos y anécdotas facilitan la comprensión, relación y motivación.*
+
+**7)** a) Comprobar que los contenidos se han asimilado  
+*Las preguntas de síntesis sirven para confirmar la asimilación del aprendizaje.*
+
+**8)** a) Con cualquier grupo se puede utilizar el estilo laissez-faire  
+*Es incorrecto, este estilo solo funciona con grupos muy maduros.*
+
+**9)** d) Todas son correctas  
+*Remitir la pregunta al grupo fomenta participación, reflexión y control del nivel.*
+
+**10)** d) Descubrimiento  
+*Es el método ideal para grupos maduros y con conocimientos previos, fomentando el aprendizaje activo.*
+
+</details>
