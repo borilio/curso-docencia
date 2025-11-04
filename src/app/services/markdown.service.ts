@@ -19,7 +19,7 @@ import attrs from 'markdown-it-attrs';
 })
 export class MarkdownService {
   private mdParser: MarkdownIt;
-  private retardoActivo: boolean = true;
+  private retardoActivo: boolean = false;
 
   constructor(private http: HttpClient) {
     // Creamos una función 'slugify' consistente para crear los enlaces ancla a las secciones del documento
