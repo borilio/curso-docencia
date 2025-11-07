@@ -349,17 +349,30 @@
           "habilitado": true
         },
         {
-          "id": "MF1444_3-test",
+          "id": "MF1444-UF1645-tests",
           "orden": 3,
-          "titulo": "MF1444_3 - Tests",
+          "titulo": "MF1444_3 - UF1645 - Tests",
           "descripcion": "Todos los test de la unidad",
-          "archivoMd": "tests/MF1444-test-final.md",
+          "archivoMd": "tests/MF1444-UF1645-tests.md",
           "icon": "pi pi-file-edit",
           "emoji": "✏️",
           "img": "",
           "severity": "success",
           "outlined": false,
-          "habilitado": false
+          "habilitado": true
+        },
+        {
+          "id": "MF1444-UF1646-tests",
+          "orden": 3,
+          "titulo": "MF1444_3 - UF1646 - Tests",
+          "descripcion": "Todos los test de la unidad",
+          "archivoMd": "tests/MF1444-UF1646-tests.md",
+          "icon": "pi pi-file-edit",
+          "emoji": "✏️",
+          "img": "",
+          "severity": "success",
+          "outlined": false,
+          "habilitado": true
         },
         {
           "id": "MF1445_3-test",
