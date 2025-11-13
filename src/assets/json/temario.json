@@ -177,7 +177,7 @@
       "icon": "pi pi-graduation-cap",
       "color": "#1c4c75",
       "expandible": true,
-      "contraido": false,
+      "contraido": true,
       "habilitado": true,
       "temas": [
         {
@@ -233,7 +233,7 @@
       "icon": "pi pi-graduation-cap",
       "color": "#1c4c75",
       "expandible": true,
-      "contraido": false,
+      "contraido": true,
       "habilitado": true,
       "temas": [
         {
@@ -287,11 +287,64 @@
       "img": "",
       "emoji": "📚",
       "icon": "pi pi-graduation-cap",
-      "color": "",
+      "color": "#1c4c75",
       "expandible": true,
-      "contraido": true,
-      "habilitado": false,
-      "temas": []
+      "contraido": false,
+      "habilitado": true,
+      "temas": [
+        {
+          "id": "MF1445-UF1",
+          "orden": 1,
+          "titulo": "Unidad 1 - Evaluación en formación para el empleo aplicada a las distintas modalidades de impartición",
+          "descripcion": "Evaluación en formación para el empleo aplicada a las distintas modalidades de impartición",
+          "archivoMd": "MF1445/MF1445 - UF01 - Evaluación en formación para el empleo aplicada a las distintas modalidades de impartición.md",
+          "img": "",
+          "emoji": "",
+          "icon": "pi pi-book",
+          "severity": "primary",
+          "outlined": false,
+          "habilitado": true
+        },
+        {
+          "id": "MF1445-UF2",
+          "orden": 2,
+          "titulo": "Unidad 2 - Elaboración de pruebas para la evaluación de contenidos teóricos",
+          "descripcion": "Elaboración de pruebas para la evaluación de contenidos teóricos",
+          "archivoMd": "MF1445/MF1445 - UF02 - Elaboración de pruebas para la evaluación de contenidos teóricos.md",
+          "img": "",
+          "emoji": "",
+          "icon": "pi pi-book",
+          "severity": "primary",
+          "outlined": false,
+          "habilitado": true
+        },
+        {
+          "id": "MF1445-UF3",
+          "orden": 3,
+          "titulo": "Unidad 3 - Diseño y elaboración de pruebas de evaluación de prácticas adaptadas a la modalidad de impartición",
+          "descripcion": "Diseño y elaboración de pruebas de evaluación de prácticas adaptadas a la modalidad de impartición",
+          "archivoMd": "MF1445/MF1445 - UF03 - Diseño y elaboración de pruebas de evaluación de prácticas adaptadas a la modalidad de impartición.md",
+          "img": "",
+          "emoji": "",
+          "icon": "pi pi-book",
+          "severity": "primary",
+          "outlined": false,
+          "habilitado": true
+        },
+        {
+          "id": "MF1445-UF4",
+          "orden": 4,
+          "titulo": "Unidad 4 - Evaluación y seguimiento del proceso formativo conforme a la formación presencial y en línea",
+          "descripcion": "Evaluación y seguimiento del proceso formativo conforme a la formación presencial y en línea",
+          "archivoMd": "MF1445/MF1445 - UF04 - Evaluación y seguimiento del proceso formativo conforme a la formación presencial y en línea.md",
+          "img": "",
+          "emoji": "",
+          "icon": "pi pi-book",
+          "severity": "primary",
+          "outlined": false,
+          "habilitado": true
+        }
+      ]
     },
     {
       "id": "MF1446_3",
@@ -302,10 +355,10 @@
       "img": "",
       "emoji": "📚",
       "icon": "pi pi-graduation-cap",
-      "color": "",
+      "color": "#1c4c75",
       "expandible": true,
       "contraido": true,
-      "habilitado": false,
+      "habilitado": true,
       "temas": []
     },
     {
