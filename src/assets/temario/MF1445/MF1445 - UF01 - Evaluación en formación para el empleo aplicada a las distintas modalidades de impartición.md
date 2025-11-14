@@ -387,6 +387,450 @@ Las características de la evaluación constituyen los **ejes** sobre los que se
 
 ---
 
+#### 1.4.2. Características técnicas que guían la elaboración de los instrumentos utilizados en la evaluación
+
+Además de las características generales del proceso de evaluación, debemos tener en cuenta una serie de características técnicas que guían la elaboración de los instrumentos utilizados en la evaluación y que vamos a ver a continuación.
+
+🟨**Sistematicidad**  
+Hace referencia a que la evaluación debe atenerse a normas y procedimientos planificados y desarrollados al detalle.  
+Es necesario plantear la forma en que se realizará el seguimiento según un plan previamente trazado y llevado a cabo con rigor.
+
+🟨**Fiabilidad**  
+La fiabilidad es una de las dos cualidades básicas de cualquier instrumento de medida (la otra es la validez).  
+Se refiere a la estabilidad de los resultados: si se utiliza varias veces el mismo instrumento para evaluar lo mismo, los resultados deben ser muy parecidos.  
+Decimos que una prueba es fiable cuando evaluando a la misma persona en la misma situación obtenemos los mismos resultados.
+
+- Métodos para determinarla:
+
+  - **Formas paralelas**📄📄  
+    Consiste en aplicar **dos versiones distintas pero equivalentes** de la misma prueba a la misma persona o grupo.  
+    👉***Ejemplo***: dos exámenes de matemáticas con preguntas diferentes pero del mismo nivel; si la persona obtiene notas parecidas, la prueba es fiable.
+
+  - **Dos mitades**🍉🍉  
+    La prueba se **divide en dos partes** (por ejemplo, preguntas pares e impares) y se comparan los resultados de ambas mitades.  
+    👉***Ejemplo*:** si un alumno saca prácticamente la misma puntuación en la mitad A y en la mitad B del mismo examen, la prueba muestra buena fiabilidad.
+
+  - **Test–retest**🔁  
+    Se aplica **el mismo instrumento** en dos momentos distintos y se comparan los resultados obtenidos.  
+    👉***Ejemplo*:** si alguien hace hoy un test de vocabulario y dentro de una semana obtiene casi la misma puntuación, el test es estable y por tanto fiable.
+
+🔸**Tipos de fiabilidad**
+- ***Interevaluadora***: cuando diferentes evaluadores corrigen el mismo examen y coinciden siguiendo los mismos baremos.  
+- ***Intraevaluadora***: cuando un mismo evaluador corrige varias veces el mismo examen y mantiene la misma puntuación.
+
+> [!note]
+> Cuanto más alto es el coeficiente de fiabilidad, más fiable es la prueba.
+
+🟨**Validez**  
+La validez indica que el instrumento mide aquello para lo que fue diseñado.  
+Debe existir correspondencia entre la información recogida y el aspecto evaluado.  
+Una prueba no puede ser válida si no es fiable, pero puede ser fiable sin ser válida.
+
+🔸**Tipos de validez**
+- *De contenido*: evalúa exactamente los objetivos previstos.  
+- *De predicción*: permite prever conductas o resultados futuros.  
+- *Recurrente*: obtiene resultados semejantes a pruebas validadas previamente.  
+- *De constructo*: es coherente con el currículum y las prácticas de clase.
+
+🟨**Objetividad**  
+La evaluación es objetiva si no depende de la apreciación personal de quien evalúa, porque las cuestiones admiten una única solución.  
+Hace referencia a la uniformidad con que varias personas pueden aplicar la misma prueba.
+
+Ejemplo: prueba tipo test con respuestas correctas establecidas y un sistema claro de puntuación.
+
+> [!important]
+> La evaluación debe minimizar la subjetividad porque la calificación puede variar si no existe una escala objetiva.
+
+🟨**Efectividad**  
+Hace referencia a la capacidad de obtener un resultado concreto a partir de una acción.  
+Implica optimizar los procedimientos para que los resultados obtenidos sean los mejores.
+
+🟨**Autenticidad**  
+Según Bachman y Palmer (1996), existen dos tipos:
+
+- *Situacional*: la evaluación se relaciona con actividades reales o posibles en la vida real.  
+- *Interaccional*: exige los conocimientos, destrezas y habilidades necesarios para actuar en una situación real similar.
+
+🟨**Resumen**
+
+|      | Característica | Descripción breve                                            |
+| ---- | -------------- | ------------------------------------------------------------ |
+| 📐    | Sistematicidad | La evaluación sigue un plan y procedimientos definidos.      |
+| 🔁    | Fiabilidad     | Produce resultados estables y consistentes al repetir la medición. |
+| 🎯    | Validez        | El instrumento mide exactamente lo que debe medir.           |
+| 🧊    | Objetividad    | Los resultados no dependen de la persona que evalúa.         |
+| ⚡    | Efectividad    | La evaluación logra los resultados previstos con los recursos adecuados. |
+| 🧩    | Autenticidad   | Las tareas de evaluación se parecen a situaciones reales.    |
+
+
+
+> [!important]
+> Una prueba no puede ser **válida** si no es **fiable**, es decir, si sus resultados no son consistentes.  
+> Pero una prueba puede ser **fiable** y no ser **válida**, ya que puede ofrecer siempre los mismos resultados, pero **no evaluar realmente lo que debería evaluar**.
+
+> [!tip]
+> Los instrumentos que usemos para evaluar en formación presencial pueden ser los mismos que en formación a distancia, pero hay que tener en cuenta que existe **una distancia con el alumnado** y no siempre podemos **observar directamente su actuación**.
+
+---
+
+### 1.5. Modalidades de evaluación en función del momento, agente evaluador y finalidad
+
+#### 1.5.1. Según el momento
+
+Si tenemos en cuenta el momento en que se plantea la evaluación podemos hablar de:
+
+🟦**Evaluación previa al inicio del curso**  
+Es la que se realiza antes de empezar el curso con el fin de **seleccionar al alumnado** y **homogeneizar el grupo**.
+
+🟦**Evaluación inicial o diagnóstica**  
+Es la que se realiza al inicio del curso, o al principio de un módulo o tema, y nos permite:
+
+- Detectar **conocimientos, habilidades, expectativas y motivación** del grupo.
+- Detectar **carencias y errores** que puedan obstaculizar el aprendizaje, así como los aspectos ya dominados para evitar repeticiones innecesarias.
+- Servir como **línea base** para comparar los resultados al finalizar la formación.
+- Ajustar el **punto de partida del curso** al nivel real del grupo.
+
+La prueba realizada en este momento debe referirse al **conjunto del programa**, recogiendo los aspectos más relevantes para verificar si el alumnado está preparado para afrontar la formación.
+
+Con esta información se puede **adecuar la actividad docente** (métodos, técnicas…) y el **diseño del curso** (objetivos, actividades…) al nivel del grupo e incluso de cada persona.
+
+🟦**Continua o procesual**  
+Se realiza **a lo largo de todo el proceso formativo**, permitiendo conocer:
+
+- El **nivel de cada alumno/a en cada momento**.  
+- La forma en que se están alcanzando los **objetivos propuestos**.  
+- Las dificultades concretas del alumnado para **actuar a tiempo** sin que baje la motivación.
+
+> [!important]
+>
+> Las pruebas de esta modalidad se centran más en **habilidades, competencias y actitudes**, no tanto en conocimientos memorísticos.
+
+🟦**Final o sumativa**  
+Valora **todo el proceso**, comparando los resultados finales con los obtenidos en la evaluación inicial.  
+En este momento se puede conocer:
+
+- El **grado de aprendizaje** alcanzado.  
+- El **nivel de consecución de los objetivos**.  
+- El **desarrollo de las competencias** del alumnado.
+
+🟦**Post–formativa**  
+Se realiza **un tiempo después** de finalizar la formación, cuando la persona ya se ha incorporado a su puesto de trabajo.  
+Permite valorar el **impacto real** de la formación en el contexto profesional.
+
+🟦 **Resumen**
+
+|      | Modalidad                        | Descripción breve                                            |
+| ---- | -------------------------------- | ------------------------------------------------------------ |
+| 🚪    | Evaluación previa al inicio      | Se usa para seleccionar al alumnado y formar un grupo homogéneo. |
+| 🧭    | Evaluación inicial (diagnóstica) | Detecta nivel, conocimientos, motivación y carencias antes de empezar. |
+| 🔄    | Evaluación continua (procesual)  | Permite seguir el progreso, ver dificultades y ajustar la enseñanza a tiempo. |
+| 🎓    | Evaluación final (sumativa)      | Valora todo el proceso y el grado de aprendizaje respecto al inicio. |
+| 🕒    | Evaluación post-formativa        | Se realiza tiempo después para ver el impacto real en el puesto de trabajo. |
+
+
+
+> [!important]
+> Se evalúa para saber **hasta qué punto se han logrado los objetivos**, y no para emitir una calificación, aunque esta pueda ser un requisito o exigencia social de la que el personal docente no siempre puede desligarse.
+
+---
+
+#### 1.5.2. Según el agente evaluador
+
+Si tenemos en cuenta la persona integrante del proceso formativo que interviene en la evaluación (centro formativo, inspector/a externo/a, coordinación, docentes, alumnado, etc.), podemos hablar de:
+
+🟥**Evaluación interna**  
+Es la evaluación realizada por las personas que forman parte del proceso formativo: el centro, el docente o el propio alumnado. Dentro de ella encontramos varios tipos:
+
+- 🪞 **Autoevaluación**  
+  La realiza cada persona sobre sí misma. Es un proceso reflexivo en el que analiza y valora su nivel de realización, adquisición o ejecución de tareas u objetivos.  
+  Antes de realizarla es necesario **fijar criterios de comparación**.
+
+  Puede ser:
+  - 👤 *Individual*: cada persona evalúa su propio aprendizaje.  
+  - 👥 *Grupal*: el grupo evalúa su progreso como conjunto.
+
+  La autoevaluación ayuda a:
+  - 🔍 Analizar la propia actividad, individual y en grupo.  
+  - 💡 Reconocer puntos fuertes y limitaciones.  
+  - 🧭 Orientar el aprendizaje de forma más eficaz.  
+  - 🧠 Desarrollar autocrítica.
+
+- 🎓 **Heteroevaluación**  
+  Es la que realiza la persona docente. Evalúa la consecución de los objetivos usando distintas técnicas y toma decisiones basándose en esa información.  
+  Puede ser:
+  - 👤 *Individual*: evaluación de cada alumno/a.  
+  - 👥 *Grupal*: evaluación del grupo como colectivo.
+
+- 🤝 **Coevaluación**  
+  Es una evaluación conjunta: cada persona evalúa a las demás y también es evaluada por ellas.  
+  Se usa en actividades o procesos donde participa todo el grupo.
+
+  La coevaluación permite:
+  - 💬 Intercambiar opiniones.  
+  - 🛠️ Sugerir recomendaciones para mejorar.  
+  - 🌱 Aportar soluciones individuales y colectivas.  
+  - 🤗 Practicar convivencia y respeto grupal.  
+  - 🧭 Desarrollar reflexión crítica.  
+  Además, suele generar **menos ansiedad** y las explicaciones entre compañeros/as resultan más cercanas y aclaradoras.
+
+🟥**Evaluación externa**  
+Es realizada por una persona o entidad **ajena** a la acción formativa.  
+Por ejemplo: un/a inspector/a del **SEPE** o un/a técnico/a externo/a.
+
+
+
+> [!important]
+> La mayoría de evaluaciones en el aula las realiza el personal docente, pero es fundamental planificar momentos de **autoevaluación** y **coevaluación**, ya que contribuyen a desarrollar la **autonomía** y la responsabilidad del alumnado sobre su propio aprendizaje.
+
+---
+
+#### 1.5.3. Según su finalidad
+
+> [!note]
+> Aunque en este apartado aparecen los mismos tipos de evaluación que en el punto anterior, aquí se presentan **desde otra perspectiva**: no según el momento en que se realizan, sino **según la finalidad** que persiguen. Por eso los nombres coinciden, pero el enfoque es distinto.
+
+Si tenemos en cuenta la finalidad que persigue la evaluación que queremos realizar, nos encontramos con los siguientes tipos:
+
+🟫**Evaluación diagnóstica**  
+Es la evaluación que se realiza para **conocer el nivel del grupo**, de forma que permite adaptar la programación y partir del punto adecuado.
+
+🟫**Evaluación continua o formativa**  
+Se realiza durante el desarrollo del curso con el fin de:
+
+- 🎯 Identificar los logros y adquisiciones que el alumnado va realizando.  
+- 📈 Detectar el grado de avance hacia los objetivos.  
+- 📚 Distinguir lo que el alumnado ya domina.  
+- 👥 Mostrar la situación general del grupo y de cada persona.  
+- 🛠️ Localizar deficiencias, cuando aún se pueden corregir.  
+- 🔍 Recoger información sobre el desarrollo del aprendizaje para controlar su evolución e introducir mejoras.
+
+Su finalidad es **identificar el progreso individual** y asegurarnos de que el aprendizaje va en la dirección adecuada.
+
+La prueba que se realice en este momento debe referirse a **cada unidad didáctica**, centrándose en las partes más significativas para facilitar la toma de decisiones.
+
+🟫**Evaluación sumativa o final**  
+Se realiza al final del proceso de aprendizaje para **verificar los resultados**, y además permite:
+
+- 🎓 Identificar logros y competencias adquiridas.  
+- ⚖️ Establecer el nivel final, diferenciando a quienes alcanzan las competencias de quienes no.  
+- 🎯 Determinar si se lograron los objetivos y en qué medida.  
+- 🪪 Certificar la adquisición de conocimientos, habilidades y actitudes.  
+- 📊 Comparar resultados entre distintos grupos.  
+- 🔮 Predecir el éxito en cursos posteriores.  
+- 📬 Informar a cada persona sobre sus progresos.  
+- 🔎 Identificar nuevas necesidades formativas.
+
+Su finalidad es la **calificación del alumnado** y la valoración global de la acción formativa para mejorarla.
+
+La prueba final debe abarcar **todo el programa**, incluyendo los elementos más importantes.  
+En esta evaluación se integran, en una única calificación, los datos recogidos en las diferentes etapas anteriores.
+
+---
+
+### 1.6. Soporte documental con evidencias de resultado
+
+#### 1.6.1. Definición
+
+> [!note] Definición  
+> 📢El **soporte documental** es el medio en el cual se contiene información. Este soporte varía según los materiales y la tecnología utilizada. Puede ser en papel, audiovisual, informático, etc.
+
+**Objetivos de los soportes documentales:**
+
+- 📁 **Archivo**
+- 🔎 **Seguimiento**
+- 🧾 **Justificación**
+- 🏅 **Acreditación**
+
+**Aspectos a tener en cuenta en el uso de los soportes documentales:**
+
+1.  
+   Los utilizaremos:
+   - Durante el proceso educativo, como instrumento para **facilitar el seguimiento y la evaluación** del alumnado.  
+   - Al final del proceso, como **justificación del resultado conseguido**.
+
+2.  
+   El personal docente debe reflejar **documentalmente** los resultados del alumnado en la acción formativa y en cada uno de los módulos formativos, dejando constancia por escrito.
+
+3.  Normalmente, cada entidad cuenta con sus **propios soportes documentales**.  
+   En ellos suelen estar definidos los **criterios o códigos** para determinar los resultados, que pueden aparecer **de forma nominativa o numérica**.
+
+---
+
+#### 1.6.2. Las actas de evaluación
+
+Las actas de evaluación son un tipo de soporte documental en el que se recogen, de manera general, los **resultados obtenidos por el alumnado** en los diferentes módulos formativos que componen un curso o un certificado de profesionalidad.
+
+En ellas se deja constancia de si el alumnado **ha adquirido o no** las capacidades de los módulos formativos y, por tanto, la **competencia profesional** de las unidades de competencia asociadas.
+
+Permiten ver el **nivel de resultado** alcanzado en cada módulo y valorar si la persona ha superado el curso completo o si, en alguno de los módulos, **no ha llegado al mínimo exigido**.
+
+En función de estos resultados se podrán tomar decisiones como:
+- 📜 Conceder el título  
+- 🔧 Establecer un plan de mejora  
+- 📆 Proponer refuerzo o actividades adicionales  
+- ❗ Valorar la necesidad de repetir algún módulo  
+
+👉**Ejemplo:**  
+
+- Ejemplo de acta de evaluación vacía  
+
+  ![Ejemplo de acta de evaluación vacía](img/MF1445 - UF01 - Evaluación en formación para el empleo aplicada a las distintas modalidades de impartición/image-20251114124806868.png){.img-preview}
+
+- Ejemplo de acta de evaluación cumplimentada
+
+  ![Ejemplo de acta de evaluación cumplimentada](img/MF1445 - UF01 - Evaluación en formación para el empleo aplicada a las distintas modalidades de impartición/image-20251114124904198.png){.img-preview}
+
+---
+
+#### 1.6.3. Los informes
+
+El **informe** es uno de los soportes documentales más utilizados.  
+
+> [!important]
+>
+> Debe ser **claro y preciso**, y contar con la cantidad de detalles suficiente para que cualquier persona que lo lea por primera vez pueda comprenderlo sin necesidad de explicaciones adicionales.
+
+En un informe se incluyen los **aspectos que vamos a evaluar**, de manera que podamos identificar tanto los **puntos fuertes** como las **áreas de mejora**.
+
+Permite concretar los aspectos a evaluar de forma operativa, ya sea por **unidades de aprendizaje**, **unidades formativas** o **módulos formativos**, facilitando así una visión estructurada del proceso.
+
+Además, pueden incluir **elementos persuasivos**, como:
+- 💡 Recomendaciones  
+- 📌 Sugerencias  
+- 🔧 Propuestas de mejora  
+- 🔮 Acciones futuras que se podrían adoptar  
+
+Estos elementos ayudan a orientar el aprendizaje y a mejorar el proceso formativo.
+
+👉**Ejemplo:**  
+
+- Ejemplo de informe vacío  
+
+  ![Ejemplo de informe vacío](img/MF1445 - UF01 - Evaluación en formación para el empleo aplicada a las distintas modalidades de impartición/image-20251114130938177.png){.img-preview}
+
+  
+
+- Ejemplo de informe cumplimentado
+
+  ![Ejemplo de informe cumplimentado](img/MF1445 - UF01 - Evaluación en formación para el empleo aplicada a las distintas modalidades de impartición/image-20251114131115595.png){.img-preview}
+
+  
+
+---
+
+#### 1.6.4. Expediente académico del alumno/a
+
+El expediente académico es un documento en el que se recogen las **calificaciones** y el **seguimiento** realizado al alumno o alumna a lo largo de todo el proceso formativo.
+
+Es el documento que permite emitir el **certificado académico**, que refleja oficialmente el aprendizaje obtenido por la persona durante la acción formativa.
+
+> [!important]
+> Mientras que un **diploma** acredita haber demostrado un nivel satisfactorio en los aprendizajes, un **certificado** tiene una **eficacia legal**, ya que es un documento oficial reconocido administrativamente.
+
+**Ejemplo (2 páginas):**  
+
+<img src="img/MF1445 - UF01 - Evaluación en formación para el empleo aplicada a las distintas modalidades de impartición/image-20251114132639351.png" alt="Ejemplo de expediente acádemico, página 1"  class="img-preview" />
+
+<img src="img/MF1445 - UF01 - Evaluación en formación para el empleo aplicada a las distintas modalidades de impartición/image-20251114132829950.png" alt="Ejemplo de expediente académico, página 2"  class="img-preview" />
+
+---
+
+## 2. La evaluación por competencias
+
+### 2.1. Introducción
+
+> [!note] Definición  
+> 📢En el Espacio Europeo de Educación Superior, el concepto de **competencia** se entiende como una **combinación dinámica de atributos** relacionados con conocimientos, habilidades, actitudes y responsabilidades.  
+> Estas competencias describen los **resultados de aprendizaje** de un programa educativo, es decir, lo que el alumnado es capaz de demostrar al finalizar el proceso educativo (Proyecto Tuning).
+
+El desarrollo de una competencia es un **proceso continuo** y debe considerar el alcance de los conocimientos, habilidades, actitudes y responsabilidades necesarios.
+
+Las competencias deben ser **evaluables**, por lo que su formulación debe permitir identificar **resultados de aprendizaje observables y medibles**.
+
+🟢 **Aspectos a tener en cuenta:**
+
+- 📘 La evaluación del alumnado se realiza **por módulos formativos** para comprobar los resultados de aprendizaje y la adquisición de competencias profesionales.
+- 👩‍🏫 La realiza el **personal docente**, utilizando métodos e instrumentos que garanticen **fiabilidad y validez**.
+- 📊 Para evaluar competencias es necesario disponer de **fuentes de información** y **criterios de evaluación**.
+
+> [!important]
+> En el ámbito **laboral** se utilizan:  
+> - Como fuente de información: las **tareas profesionales** realizadas.  
+> - Como criterios de evaluación: los **estándares de calidad**.  
+>
+> En el ámbito **educativo**, como referencia se toman las **capacidades y criterios de evaluación** establecidos para cada módulo formativo, vinculados a sus correspondientes unidades de competencia.
+
+
+
+🟢 **¿Cómo se evalúan las competencias en el aula?**
+
+Como personal docente debemos evaluar el **grado de adquisición** de las competencias profesionales propuestas en el certificado de profesionalidad.
+
+Para ello nos centramos en las **tareas realizadas por el alumnado**, utilizando distintas fuentes de información:
+
+- 📄 Trabajos del alumnado  
+- 📝 Pruebas evaluativas  
+- 👁️ Observaciones en el aula  
+
+Además, aplicamos los **criterios de evaluación adecuados** al nivel en el que se encuentra el alumnado.
+
+Las pruebas de evaluación deben estructurarse **por unidades de competencia** (unidad mínima de evaluación), lo que permite ver **qué unidades domina** cada persona y cuáles no.
+
+> [!important]
+> Las **pruebas teóricas y prácticas** deben estar vinculadas entre sí. Ambas deben plantear la evaluación de competencias en situaciones y contextos significativos del ámbito de trabajo.
+
+> [!tip] Recuerda  
+> La tarea docente en la evaluación de competencias implica:  
+>
+> - Realizar **evaluación formativa**, tanto del alumnado como de los métodos de enseñanza.  
+> - Utilizar **más variedad de instrumentos** de evaluación.  
+> - Considerar estilos de aprendizaje, niveles lingüísticos y antecedentes educativos del alumnado.
+
+
+
+🟢**Más información**
+
+Conferencia Inaugural. Dr. José Tejada Fernández, Universidad Autónoma de Barcelona. Evaluación de competencias en educación superior: retos e implicaciones.
+
+<div style="text-align:center">
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/piEI0pjHql8"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
+</div>
+---
+
+{{ por aquí, pedirle el punto 2.2 y a seguir!!}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -414,6 +858,21 @@ Las características de la evaluación constituyen los **ejes** sobre los que se
 
 - **Lo más importante para planificar el proceso de evaluación es determinar los instrumentos de evaluación que se van a utilizar.**
    ➡️ **Falso** (lo primero y más importante es **establecer los objetivos de aprendizaje**, tal como dice el temario)
+
+---
+
+### Ejercicio 3: Indica V ó F
+
+![image-20251114112630939](img/MF1445 - UF01 - Evaluación en formación para el empleo aplicada a las distintas modalidades de impartición/image-20251114112630939.png)
+
+---
+
+### Ejercicio 4: Indica V ó F
+
+![image-20251114140703995](img/MF1445 - UF01 - Evaluación en formación para el empleo aplicada a las distintas modalidades de impartición/image-20251114140703995.png)
+
+- En la coevaluación, una persona evalúa a los demás y **también es evaluada por el resto**.
+- **Los instrumentos de evaluación puede ser los mismos en presencial y en línea**, aunque hay que tener en cuenta que no podremos observar directamente al alumnado como en la presencial.
 
 ---
 
