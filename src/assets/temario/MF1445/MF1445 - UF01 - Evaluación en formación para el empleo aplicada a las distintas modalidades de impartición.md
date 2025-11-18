@@ -804,42 +804,271 @@ Conferencia Inaugural. Dr. José Tejada Fernández, Universidad Autónoma de Bar
 </div>
 ---
 
-{{ por aquí, pedirle el punto 2.2 y a seguir!!}}
 
 
+### 2.2. Procedimiento para el reconocimiento y acreditación de competencias profesionales: vías formales y no formales de formación y experiencia profesional
 
+#### 2.2.1. Introducción
 
+- **Competencias profesionales**: Conjunto de conocimientos y capacidades que permiten a una persona **ejercer una actividad profesional** conforme a las exigencias de la producción y el empleo.
+- **Cualificación profesional**: Conjunto de **unidades de competencia** con significación para el empleo.
 
+Estas competencias pueden adquirirse mediante:
+- 🎓 **Formación formal**, a través de enseñanzas regladas.  
+- 📘 **Formación no formal**, a través de cursos que no forman parte del sistema educativo oficial.  
+- 🛠️ **Experiencia laboral**, desarrollando tareas propias del puesto de trabajo.
 
+Todas estas vías son válidas para demostrar que una persona **posee las competencias profesionales** necesarias para una determinada cualificación.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> [!warning]
+> Hasta hace unos años, el procedimiento de **acreditación de competencias profesionales** dependía de **convocatorias puntuales** que publicaban las comunidades autónomas.  
+> Sin embargo, con la entrada en vigor del **Real Decreto 143/2021**, el sistema pasó a ser un **procedimiento abierto y permanente**, por lo que **ya no es necesario esperar a convocatorias** para iniciar la acreditación.  
+> Aun así, cada comunidad autónoma gestiona el proceso y puede publicar **informaciones, actualizaciones o ampliaciones**, por lo que sigue siendo conveniente revisar sus canales oficiales.
 
 ---
+
+#### 2.2.2. ¿Qué competencias se pueden acreditar?
+
+Se pueden acreditar las **unidades de competencia** del **Catálogo Nacional de Cualificaciones Profesionales (CNCP)** que estén incluidas en:
+
+- Títulos de **Formación Profesional**  
+- **Certificados de Profesionalidad**
+
+Cada **unidad de competencia** es la **unidad mínima de acreditación**.
+
+> [!important]
+>
+> Una persona puede obtener un **certificado de profesionalidad** cuando acredita **todas** las unidades de competencia asociadas a una cualificación concreta.
+
+La **Ley 30/2015, de 9 de septiembre**, que regula el Sistema de Formación Profesional para el empleo en el ámbito laboral, establece como uno de sus fines:
+
+> “Promover que las competencias profesionales adquiridas por los trabajadores, tanto a través de procesos formativos como de la experiencia laboral, sean objeto de acreditación”.
+
+---
+
+#### 2.2.3. ¿Qué vías existen para acreditar competencias?
+
+**Vías para acreditar competencias:**
+
+##### 🧭 Vía formal (sistemática y reglada)
+
+Las vías **formales** para adquirir competencias profesionales son:
+
+- **Dentro de la formación profesional del Sistema Educativo:**
+  - 🏫 Ciclos de Formación Profesional de grado medio y superior  
+  - 🧑‍🏫 Programas de Cualificación Profesional Inicial (PCPI)
+- **Dentro de la formación profesional para el empleo:**
+  - 📘 Formación de oferta asociada a Certificados de Profesionalidad  
+  - 🔧 Formación en alternancia asociada a Certificados de Profesionalidad  
+
+> [!important]
+> Los **Títulos de Formación Profesional** y los **Certificados de Profesionalidad** tienen carácter **oficial** y **validez en todo el territorio nacional**.  
+> Una vez finalizada la formación, se puede solicitar la **acreditación total o parcial** de las competencias.
+
+
+
+##### 🌱 Vía no formal
+
+Se basa en la **acumulación de aprendizajes adquiridos a lo largo de la vida**, sin necesidad de haber pasado por formación reglada.
+
+Las vías **no formales** para adquirir competencias profesionales incluyen:
+
+- **Dentro del Sistema Educativo:**
+  - 📚 Procesos formativos que **no conducen** a acreditaciones oficiales
+- **Dentro de la formación profesional para el empleo:**
+  - 📝 Formación de oferta **no asociada** a certificados de profesionalidad  
+  - 🔄 Formación en alternancia **no asociada** a certificados de profesionalidad  
+- 🛠️ La **experiencia laboral** adquirida en el puesto de trabajo
+
+
+
+##### 🤝 Vía del contrato de formación y aprendizaje
+
+Esta vía queda regulada por el **Real Decreto Ley 10/2011**: https://www.boe.es/boe/dias/2011/08/30/pdfs/BOE-A-2011-14220.pdf
+
+
+
+> [!caution]
+> **Aclaración importante según la nueva Ley de Formación Profesional (LO 3/2022):**  
+> Aunque tradicionalmente se distinguían las vías **formales**, **no formales** y la acreditación por **experiencia laboral** como mecanismos separados, la nueva ley establece un **sistema único e integrado de Formación Profesional**.  
+>
+> Desde 2022:
+> - La **acreditación de competencias** pasa a ser un **procedimiento abierto y permanente**, accesible en cualquier momento, sin necesidad de convocatorias.  
+> - La experiencia laboral y la formación no formal se reconocen de forma continua como vías válidas para acreditar **unidades de competencia**.  
+> - La FP del sistema educativo y la FP para el empleo quedan **integradas**, simplificando las vías de acceso y de acreditación.  
+>
+> Es decir, se mantienen las vías anteriores a nivel conceptual (formal, no formal y experiencia), pero ahora todo el proceso se articula dentro de un **único sistema integrado** y mucho más flexible para la acreditación.
+
+---
+
+#### 2.2.4. ¿Cómo se obtiene el certificado?
+
+Para obtener un **certificado de profesionalidad**, la persona debe reunir las **certificaciones parciales** de todas las **Unidades de Competencia (UC)** que forman la cualificación.  
+Cada UC es la **unidad mínima de acreditación**.
+
+**Vías para obtener una Unidad de Competencia:**
+
+1. **📘 Superar los módulos formativos correspondientes**  
+   Esto implica realizar y aprobar las acciones formativas vinculadas a cada UC.
+
+2. **📝 Participar en el procedimiento de acreditación de competencias**  
+   Antes se realizaba mediante convocatorias basadas en el **RD 1224/2009**, para reconocer aprendizajes por experiencia laboral o formación no formal.  
+   ⚠️*(Con la normativa de 2022, este procedimiento pasa a ser permanente, sin depender de convocatorias.)*
+
+3. **🔄 Convalidación**  
+   La UC puede convalidarse si la persona ya la ha obtenido dentro del **Sistema de Formación Profesional** (por ejemplo, en un título de FP).
+
+Los centros autorizados para impartir módulos formativos deben entregar a la Administración un **acta de evaluación** indicando **apto / no apto** por módulo.  
+Esa acta es el documento que permite certificar oficialmente cada Unidad de Competencia.
+
+---
+
+#### 2.2.5. ¿Qué es el procedimiento para el reconocimiento y acreditación de competencias?
+
+Es un **conjunto de actuaciones** orientadas a **reconocer, evaluar y acreditar** las competencias profesionales adquiridas mediante la **experiencia laboral** o a través de **vías no formales de formación**.
+
+> [!important]
+> Esta evaluación y acreditación se realiza siguiendo criterios que garanticen la **fiabilidad**, la **objetividad** y el **rigor técnico**, utilizando el **Catálogo Nacional de Cualificaciones Profesionales** como referencia objetiva.  
+>
+> Es posible acreditar un **título completo** de Formación Profesional o un **certificado de profesionalidad**, pero también se permite la **acreditación parcial de competencias**, que es acumulable y facilita completar la formación hasta obtener el título o certificado final.
+
+<div style="text-align: center;">
+  <iframe width="560" height="315"
+    src="https://www.youtube.com/embed/PtlTeVyLdlQ"
+    title="Procedimiento para la acreditación de competencias"
+    frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+---
+
+#### 2.2.6. ¿Qué hacer para participar en el procedimiento para el reconocimiento y acreditación de competencias?
+
+Antes de participar en el procedimiento de reconocimiento y acreditación de competencias, se deben realizar dos tareas fundamentales:
+
+
+
+- <u>**🧭 Informarse y orientarse**</u>: Lo primero es identificar **qué sabemos hacer** y qué competencias poseemos que estén incluidas en el **Catálogo Nacional de Cualificaciones Profesionales (CNCP)**.
+
+  El CNCP recoge todas las **competencias profesionales susceptibles de ser reconocidas**, ya sea por experiencia laboral o por formación no formal.
+
+- <u>**📢 Buscar convocatorias**:</u> Las administraciones estatales y autonómicas publican **convocatorias públicas** para el procedimiento de evaluación y acreditación de competencias adquiridas mediante experiencia laboral o vías no formales.
+
+  En estas convocatorias se indican: 
+
+  - Las **unidades de competencia** que serán evaluadas.
+  - Los **títulos de FP** y/o **certificados de profesionalidad** a los que pertenecen.
+
+> [!warning]
+> **Aclaración con la normativa vigente (LO 3/2022):**  
+> Aunque este punto del temario habla de “convocatorias”, el sistema actual establece un **procedimiento abierto y permanente**, por lo que ya **no es necesario esperar** a convocatorias para iniciar la acreditación.  
+> Sin embargo, algunas comunidades autónomas siguen publicando comunicados o ampliaciones informativas, por lo que es útil revisar sus portales oficiales.
+
+#### 2.2.7. ¿Quién puede optar?
+
+Puede participar en el procedimiento cualquier persona que haya adquirido **competencias profesionales** a través de su **experiencia laboral** o mediante **vías no formales de formación**.  
+Para ello, debe inscribirse en las convocatorias públicas relacionadas con el procedimiento.
+
+Para poder inscribirse, es necesario cumplir los siguientes requisitos:
+
+- **🪪 Requisitos de nacionalidad**  
+
+  - Nacionalidad española  
+  - Nacionalidad de un país miembro de la Unión Europea  
+  - O disponer de **autorización de residencia** en España
+
+- **📋 Requisitos de participación** 
+
+  Incluyen condiciones de **edad**, **experiencia laboral** y **formación previa**, dependiendo del nivel de la Unidad de Competencia.
+
+| Unidad de competencia | Edad mínima | Experiencia laboral                                          | Formación mínima |
+| --------------------- | ----------- | ------------------------------------------------------------ | ---------------- |
+| **Nivel 1**           | 18 años     | 2 años y mínimo **1200 horas trabajadas** en los últimos 10 años | 200 horas        |
+| **Nivel 2**           | 20 años     | 3 años y mínimo **2000 horas trabajadas** en los últimos 10 años | 300 horas        |
+
+
+
+> [!warning]
+> Aunque el temario indica la inscripción mediante **convocatorias**, recuerda que con la normativa de 2022 el procedimiento de acreditación es **abierto y permanente**, aunque las comunidades autónomas pueden seguir publicando avisos o actualizaciones informativas.
+
+---
+
+#### 2.2.8. Fases del procedimiento para el reconocimiento y acreditación de competencias
+
+El procedimiento de acreditación de competencias consta de **tres fases**, que se desarrollan de forma secuencial:
+
+<img src="img/MF1445 - UF01 - Evaluación en formación para el empleo aplicada a las distintas modalidades de impartición/image-20251117121043652.png" alt="Imagen que representa con ironía, la acreditación de competencias. En la primera fase la persona es joven, y en la última es un anciano." style="zoom:40%;" class="rounded-4 my-5" />
+
+
+
+1. **🧭 Fase de asesoramiento**  
+   En esta fase se orienta a la persona candidata sobre **qué unidades de competencia puede acreditar**, teniendo en cuenta su historial profesional y formativo, contrastado con el **Catálogo Nacional de Cualificaciones Profesionales**.  
+   Se emite un **informe orientativo** que indica si es recomendable pasar a la fase de evaluación. La persona decide si continúa o no en el procedimiento.
+2. **📝 Fase de evaluación**  
+   La persona candidata debe **demostrar sus competencias profesionales** en las Unidades de Competencia que ha solicitado acreditar.  
+   La **comisión de evaluación** analiza la información aportada (dossier de competencias, informe de asesoramiento, etc.) y organiza el proceso evaluador.  
+   Puede utilizar distintos métodos, como:
+   - Entrevistas  
+   - Pruebas profesionales  
+   - Simulaciones  
+   - Observación en el puesto de trabajo  
+   - Otras actividades que se consideren adecuadas  
+3. **🏅 Fase de acreditación y registro**  
+   Si se supera la fase de evaluación, la persona puede obtener:  
+   - Una **acreditación parcial** por cada Unidad de Competencia demostrada.  
+   - Un **certificado de profesionalidad completo** si acredita todas las UC de la cualificación.  
+
+> [!important]
+>
+> - Los datos se inscriben en un **registro nominal por UC**.  
+> - La **administración educativa** convalida los módulos profesionales asociados a cada UC acreditada.  
+> - La **administración laboral** exime los módulos formativos asociados a cada UC acreditada.
+
+---
+
+#### 2.2.9. ¿Quién expide la acreditación?
+
+La acreditación puede ser expedida por dos tipos de entidades, según el ámbito en el que se haya realizado la formación o el procedimiento:
+
+1. **🏛️ Servicio Público de Empleo Estatal (SEPE)**  
+   Cuando la formación o el procedimiento de acreditación de la experiencia profesional tiene **ámbito estatal**, la acreditación es emitida directamente por el **SEPE**.
+
+2. **🏫 Consejería de Educación, Formación y Empleo de la comunidad autónoma**  
+   Cuando la formación o el procedimiento de acreditación tiene **ámbito autonómico**, la acreditación es expedida por la **Consejería** responsable en esa comunidad.
+
+---
+
+#### 2.2.10. ¿Qué ventajas aporta la acreditación?
+
+Las principales ventajas de poseer una acreditación son las siguientes:
+
+- 🏅 **Obtener una acreditación oficial** con validez en todo el territorio nacional.  
+- 🎓 **Conseguir acreditaciones** que conducen a un certificado de profesionalidad o un título de formación profesional, así como su **correspondencia** entre ambos sistemas.  
+- 👀 **Hacer visibles las competencias** y poner en valor la experiencia profesional acumulada.  
+- 🧭 **Establecer un plan de formación individualizado** para completar o ampliar las competencias profesionales.  
+- 💼 **Incrementar las posibilidades de empleabilidad** y mejorar la cualificación profesional.  
+- 🌍 **Favorecer la movilidad laboral**, tanto a nivel nacional como europeo.
+
+---
+
+#### 2.2.11. ¿Por qué se deben registrar las competencias profesionales?
+
+La normativa establece que las Administraciones competentes deben llevar un **registro nominal y por especialidades** de los certificados de profesionalidad y de las acreditaciones parciales acumulables que se expidan.
+
+Este registro permite:
+
+- 🔎 **Reconocer fácilmente las competencias profesionales** obtenidas por cualquier vía (formal o no formal).  
+- 🗂️ Garantizar que estas competencias puedan utilizarse en futuros procedimientos de **reconocimiento, evaluación y acreditación**.  
+- 🔄 Facilitar la **continuidad formativa**, permitiendo acumular acreditaciones parciales hasta completar una cualificación.
+
+Además, las inscripciones realizadas en los registros de las Comunidades Autónomas se **comunican al Registro General** del Sistema Nacional de Empleo, coordinado por el **Servicio Público de Empleo Estatal (SEPE)**, garantizando así la trazabilidad y validez en todo el territorio nacional.
+
+---
+
+
 
 ## Ejercicios
 
@@ -875,4 +1104,89 @@ Conferencia Inaugural. Dr. José Tejada Fernández, Universidad Autónoma de Bar
 - **Los instrumentos de evaluación puede ser los mismos en presencial y en línea**, aunque hay que tener en cuenta que no podremos observar directamente al alumnado como en la presencial.
 
 ---
+
+### Ejercicio 5: Relaciona cada término con su definición
+
+![image-20251117114718120](img/MF1445 - UF01 - Evaluación en formación para el empleo aplicada a las distintas modalidades de impartición/image-20251117114718120.png)
+
+---
+
+### Ejercicio 6: Indica V ó F
+
+![image-20251117140547305](img/MF1445 - UF01 - Evaluación en formación para el empleo aplicada a las distintas modalidades de impartición/image-20251117140547305.png)
+
+---
+
+### Ejercicio Ponte a prueba
+
+#### Caso 1 – Planificación de la evaluación
+
+Cuando la entidad que realiza este curso se puso en contacto con Carlos para impartir el certificado de Docencia, además de la programación didáctica, también solicitó a Carlos la planificación de la evaluación del aprendizaje del curso.
+
+Así que Carlos se dispuso a cumplimentar el modelo oficial detallando, por cada Módulo Formativo o Unidad Formativa, la siguiente información: actividades e instrumentos de evaluación, espacios, duración y fechas de la evaluación.
+
+¿Qué pasos ha de seguir Carlos para cumplimentar el modelo de planificación?
+
+1️⃣**OPCIÓN 1**  
+Para establecer las actividades e instrumentos de evaluación, según indica el modelo oficial, basta con identificarlas e indicar una denominación sintética, así como el espacio, duración y fecha. Como no es mucha la información que hay que aportar, Carlos la realiza sobre la marcha. Al fin y al cabo, ya ha impartido con anterioridad el curso de Formador Ocupacional y aunque es la primera vez que cumplimenta este modelo, más o menos lo puede hacer con lo que recuerda.  
+❌ Incorrecta. No se puede planificar la evaluación “sobre la marcha” ni basarse en recuerdos; además no parte de los resultados de aprendizaje.
+
+2️⃣**OPCIÓN 2**  
+Para establecer las actividades e instrumentos de evaluación, según indica el modelo oficial, basta con identificarlas e indicar una denominación sintética, así como el espacio, duración y fecha. Aunque no es mucha la información que hay que aportar, Carlos la realiza planificando sobre un cronograma cuáles serán las actividades. Aunque ya ha impartido con anterioridad el curso de Formador Ocupacional, es la primera vez que cumplimenta este modelo y no se puede hacer sobre la marcha.  
+❌ Incorrecta. Aunque usa un cronograma, sigue empezando por las actividades en lugar de por los resultados de aprendizaje.
+
+3️⃣**OPCIÓN 3**  
+Carlos sabe que para empezar a planificar la evaluación el primer paso es determinar los resultados de aprendizaje a evaluar y aunque esta información no hay que volcarla en el modelo oficial es imprescindible para poder, posteriormente, establecer las actividades e instrumentos de evaluación.  
+✅ Correcta. La planificación debe comenzar por definir qué se va a evaluar; después se seleccionan técnicas e instrumentos.
+
+---
+
+#### Caso 2 – Instrumentos de evaluación
+
+Para la evaluación del segundo módulo del certificado de profesionalidad, “Selección, elaboración, adaptación y utilización de materiales, medios y recursos didácticos en formación profesional para el empleo”, Carlos ha diseñado el siguiente instrumento de evaluación:
+
+Objetivo de evaluación: elaborar material audiovisual y multimedia de calidad, utilizando dispositivos audiovisuales y sistemas informáticos más frecuentes.  
+Instrumento: realización de un videotutorial sobre las aplicaciones de un programa informático.  
+Criterios de evaluación:  
+- El material debe de ser audiovisual.  
+- Calidad de la imagen y del sonido se valorará según referentes del 0-4.  
+- Calidad del contenido en términos de claridad y utilidad según referentes del 0-4.
+
+¿Es válido dicho instrumento?
+
+**1️⃣OPCIÓN 1**  
+Sí, es válido porque está diseñado para evaluar el objetivo que se pretende.  
+✅ Correcta. El instrumento (videotutorial) coincide exactamente con el objetivo de elaborar material audiovisual.
+
+**2️⃣OPCIÓN 2**  
+Sí, es válido porque la calidad de la imagen y el sonido se pueden valorar.  
+❌ Incorrecta. Que algo se pueda valorar no garantiza la validez del instrumento.
+
+**3️⃣OPCIÓN 3**  
+Sí, es válido porque ha indicado varios criterios de evaluación.  
+❌ Incorrecta. La validez no depende del número de criterios sino de que el instrumento evalúe el objetivo planteado.
+
+---
+
+#### Caso 3 – Evaluación
+
+Para asegurarse de realizar una buena evaluación, Carlos ha decidido que seguramente en el grupo se encuentre con participantes con distintos niveles de competencia informática. Entiende que no sería justo evaluar de la misma manera a los que lleguen al curso sabiendo manejar determinados programas informáticos que a aquellos que no los dominen. Así que realizará dos evaluaciones diferentes, una más exigente para los que tengan una alta capacidad informática y otra más simple para los que no.
+
+De acuerdo a las condiciones de objetividad, fiabilidad y validez ¿es pertinente la doble evaluación que pretende Carlos?
+
+**1️⃣ Opción 1**  
+No, no lo es porque la evaluación carece de objetividad.  
+✅ Correcta. No se aplican los mismos criterios ni las mismas exigencias a todo el grupo, por lo que la evaluación deja de ser objetiva.
+
+**2️⃣ Opción 2**  
+No, no lo es porque la evaluación carece de fiabilidad.  
+❌ Incorrecta. La situación no está relacionada con repetir la prueba y obtener resultados estables, que es a lo que hace referencia la fiabilidad.
+
+**3️⃣ Opción 3**  
+No, no lo es porque la evaluación carece de validez.  
+❌ Incorrecta. El problema principal no es que el instrumento no mida lo que pretende, sino que se está tratando de forma diferente al alumnado y se pierde la objetividad.
+
+### Tests
+
+Los test de esta unidad (diagnóstico y final) están en el documento que recoge los test del MF1445. Veía una tontería tenerlos por duplicado. Lo hacemos solo en el recopilatorio mejor.
 
