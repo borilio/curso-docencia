@@ -934,13 +934,202 @@ Se basa en tres variables:
 
 ---
 
-{{ Ahora toca el ejercicio E9, que está en el 2.6 (foro)}}
+## 3. Evaluación de aprendizajes complejos
+
+<img src="img/MF1445 - UF02 - Elaboración de pruebas para la evaluación de contenidos teóricos/image-20251121100256492.png" alt="Representación de tutora haciendo evaluaciones" style="zoom:67%;" class="rounded-4" />
+
+### 3.1. Introducción
+
+Este tipo de pruebas permiten evaluar **aprendizajes complejos**, especialmente aquellos que requieren que el alumnado demuestre capacidades de:
+
+- 🔍 **Análisis**
+- 🧩 **Síntesis**
+- 📝 **Evaluación**
+
+> [!tip] Recuerda
+>
+> Estos son los últimos escalones de la pirámide de Bloom
+
+En estas pruebas **no se presentan las respuestas**, sino que es el propio alumnado quien debe **elaborar**, **organizar** y **estructurar** su respuesta utilizando sus conocimientos y seleccionando la información relevante para resolver la tarea planteada.
+
+Veremos a continuación los diferentes tipos de pruebas utilizadas para evaluar este tipo de aprendizajes.
+
+---
+
+### 3.2. Los ejercicios interpretativos
+
+Se trata de una base de información o datos presentada mediante **tablas**, **gráficos** o soportes similares, que el alumnado deberá **interpretar** para dar respuesta a una serie de preguntas.
+
+Este tipo de pruebas se utilizan para evaluar aspectos como:
+
+- 📊 Capacidad para interpretar datos y relaciones  
+- 🧠 Capacidad para elaborar hipótesis  
+- 🔧 Diagnóstico de fallos  
+- 🧪 Plantear experimentos nuevos  
+- 🧩 Solucionar planteamientos difíciles  
+- 🎯 Distinguir entre generalidades y particularidades  
+- 🔍 Realizar inferencias lógicas  
+- 📝 Formular conclusiones válidas  
+- ❓ Definir problemas  
+
+> [!tip] Ejemplo
+> Impartimos clase en dos grupos diferentes:  
+> - En el **primer grupo**, empezamos la clase exponiendo los *objetivos* y un *esquema* de los puntos a tratar.  
+> - En el **segundo grupo**, solo explicamos el esquema de los puntos a tratar.
+>
+> Responde a las siguientes preguntas:  
+> 1. ¿Qué grupo se sentirá más motivado?  
+> 2. ¿Qué grupo se sentirá más responsable de su aprendizaje?  
+> 3. Si los sometemos a una prueba, ¿cuál de los dos grupos dará mejor resultado?
+
+---
+
+### 3.3. Las pruebas de ensayo
+
+En este tipo de pruebas, el alumnado debe **desarrollar la respuesta** a la pregunta planteada, pero con **ciertas limitaciones** tanto en la forma como en el contenido.  
+La respuesta debe ser:
+
+- Breve  
+- No memorística  
+- Elaborada a partir de la propia comprensión del alumnado  
+
+> [!tip] Ejemplo  
+> ¿Qué efectos produce el impacto tecnológico y los cambios en la organización del trabajo en nuestra actividad profesional como personal docente?  
+> *Descríbelo en cinco líneas.*
+
+---
+
+### 3.4. Las pruebas orales
+
+Las pruebas orales permiten evaluar **aprendizajes complejos** y, además, valorar las **habilidades de comunicación** de la persona.  
+Suelen ser más difíciles de diseñar, aplicar y evaluar, aunque durante años fueron una de las más utilizadas.
+
+Para prepararlas, lo primero es valorar si es **viable** aplicarlas:  
+- Si hay tiempo para que todo el grupo pueda realizarlas  
+- Si se dispone de los recursos necesarios  
+
+Este tipo de prueba tiende a ser **menos fiable**, ya que la valoración es más subjetiva que en una prueba escrita.
+
+> [!note] Definición  
+> 📢Una prueba oral es aquella en la que el alumno o alumna debe hablar.
+
+Algunas situaciones en las que la persona a evaluar tiene que hablar:
+
+- **🗣️ Exposición**  
+  La persona realiza una exposición preparada previamente y puede consultar notas.  
+  Al finalizar, se le pueden plantear preguntas.
+
+- **💬 Conversación con la persona docente**  
+  Es una situación compleja porque, además de evaluar, el docente debe mantener una actitud receptiva en la comunicación.
+
+- **👥 Conversación con una persona compañera**  
+  Dos personas conversan y desarrollan una tarea mientras la persona que evalúa observa sin intervenir.
+
+- **👨‍👩‍👧‍👦 Conversación con un grupo**  
+  El grupo mantiene y dirige la discusión por sí mismo mientras la persona que evalúa observa.
 
 
 
 ---
 
+### 3.5. Normas de elaboración y corrección de pruebas de aprendizajes complejos
 
+La corrección de este tipo de pruebas es más delicada que en las pruebas objetivas.  
+Al no existir una única respuesta correcta, la persona docente puede incurrir en **subjetividad**, asignando puntuaciones diferentes a situaciones que, en esencia, son equivalentes.
+
+Para evitarlo, es fundamental elaborar **indicadores** que sirvan de guía tanto para analizar como para corregir las respuestas.
+
+Antes de aplicar la prueba se deben definir para cada pregunta, **los indicadores de evaluación**, que serían:
+
+- las **ideas clave** que el alumnado debe desarrollar  
+- los **aspectos de evaluación**  
+- las **comparaciones** o análisis previstos  
+- el **porcentaje de importancia** asignado a cada indicador  
+
+Esto permite establecer de antemano el **grado de dificultad** y el peso específico de cada parte de la respuesta.
+
+El porcentaje asignado a cada indicador puede ser:
+
+- **equivalente** (reparto uniforme), o  
+- **diferente**, en función del peso relativo de cada elemento dentro de la pregunta  
+
+> [!tip] Ejemplo  
+> | **Indicadores**                                           | **Puntuación** |
+> | --------------------------------------------------------- | -------------- |
+> | Caracterizan el contexto según nivel y estilo de lenguaje | 20%            |
+> | Aplican los principios metodológicos, concretando         | 20%            |
+> | Colocan los datos en el planteamiento                     | 10%            |
+> | Proporcionan la resolución correcta                       | 50%            |
+
+Además, deben establecerse los **criterios específicos de evaluación** para esa prueba en concreto.
+
+> [!tip] Ejemplo  
+> - Si se calificarán por igual todos los ejercicios  
+> - Si se valorarán prioritariamente los aspectos conceptuales  
+> - Si es imprescindible reflejar algún aspecto concreto en la solución  
+> - Si se dará más importancia al planteamiento que a la calidad formal  
+> - Si la limpieza y precisión se valorarán positivamente
+
+La corrección debe señalar qué está bien y qué es incorrecto según los criterios establecidos, y debe ayudar al alumnado a reflexionar sobre su aprendizaje.
+
+> [!important]  
+> - Señalar el error e indicar cómo solucionarlo  
+> - Establecer criterios cuantitativos (cuánto vale cada parte realizada)  
+> - Incorporar elementos cualitativos que expliquen aciertos y errores  
+> - Proporcionar “pistas” para mejorar: “esta respuesta es incorrecta porque…”, “esta parte es incompleta porque…”  
+> - Favorecer la participación del alumnado en el proceso, fomentando la corresponsabilidad en su evaluación
+
+A continuación, veremos las **normas específicas de elaboración y corrección** correspondientes a cada uno de los tipos de pruebas de aprendizaje complejo del apartado anterior.
+
+**🟩 Ejercicio interpretativo**
+
+- **Normas de elaboración:**  
+  - 📘 Utilizarlo solo para aprendizajes de alta complejidad que no puedan evaluarse con otros ítems.  
+  - 🎯 Seleccionar el temario en función de los objetivos perseguidos.  
+  - 🔍 Formular ítems que obliguen al análisis e interpretación del temario.  
+  - ⚖️ Mantener proporción entre la extensión del temario y la de los ítems.  
+  - 🔗 Asegurar que cada ítem esté directamente relacionado con la situación planteada.
+
+- **Normas de corrección:**  
+  - 🧮 La puntuación dependerá del tipo de ítems utilizados.  
+  - 📊 Si hay varios tipos, asignar un porcentaje específico a cada uno dentro del total del ejercicio.
+
+---
+
+**🟩 Pruebas de ensayo**
+
+- **Normas de elaboración:**  
+  - ✏️ Plantear la pregunta de forma precisa, clara y fácil de comprender.  
+  - 💡 Solicitar una situación novedosa, evitando respuestas memorísticas.  
+  - 📌 Especificar claramente la naturaleza de la tarea.  
+  - 🎯 Elaborar cada ítem en función de un objetivo explícito.  
+  - ⏱️ Indicar el tiempo aproximado para cada respuesta.  
+  - 📄 Preferir más preguntas breves que pocas preguntas largas.  
+  - 📑 Si los ítems son complejos, entregarlos en hojas separadas para facilitar la corrección.
+
+- **Normas de corrección:**  
+  - 🧩 Elaborar una **respuesta modelo** y asignar puntuaciones a cada parte según su importancia.  
+  - 🎛️ Corregir la misma pregunta a todas las personas antes de pasar a la siguiente para mantener la homogeneidad.  
+  - ✔️ Utilizar una **lista de cotejo** para registrar los criterios evaluativos y su puntuación.
+
+---
+
+**🟩 Pruebas orales**
+
+- **Normas de elaboración:**  
+  - 🎓 Elegir un tema que el alumnado conozca y que sea relevante para los objetivos.  
+  - 👥 Si se trabaja en parejas o grupos, organizar la actividad de manera equilibrada según nivel y personalidad.  
+  - ⏳ Indicar el tiempo de preparación y de exposición o conversación.  
+  - 🕒 Recordar que el tiempo indicado debe respetarse, especialmente en actividades grupales.  
+  - 📝 Revisar los guiones para asegurar que todas las personas participan.
+
+- **Normas de corrección:**  
+  - 🧭 Establecer previamente el sistema de corrección para reducir la subjetividad.  
+  - 📋 Elaborar un protocolo, lista de registro o escala combinando:  
+    - 📚 Manejo del tema: dificultad, uso adecuado de la terminología, coherencia…  
+    - 🗣️ Habilidades comunicativas: exposición, argumentación, manejo de preguntas, capacidad de síntesis, etc.
+
+---
 
 # Ejercicios
 
@@ -982,6 +1171,17 @@ Se basa en tres variables:
 
 ---
 
-## Ejercicio X: {{enunciado}}
+## Ejercicio 13: Rellena los huecos sobre aprendizajes complejos
 
-Solución
+Las pruebas para la evaluación de aprendizaje complejos, nos permiten evaluar aprendizajes `complejos`, aquellos que pretenden el `análisis`, síntesis y evaluación de los `conocimientos` adquiridos.
+
+En estas pruebas no se presentan las `respuestas`, es el alumnado quien tiene que elaborar su propia respuesta, organizando sus conocimientos y seleccionando la `información` adecuada a la `pregunta` que se plantea.
+
+---
+
+## Ejercicio 14: V ó F
+
+![image-20251121102857769](img/MF1445 - UF02 - Elaboración de pruebas para la evaluación de contenidos teóricos/image-20251121102857769.png)
+
+---
+
