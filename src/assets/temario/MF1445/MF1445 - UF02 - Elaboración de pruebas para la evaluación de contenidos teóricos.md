@@ -603,7 +603,340 @@ Lo más operativo es asignar una puntuación determinada según el número de ac
 
 ---
 
-{{Lo siguiente son los ejercicios que hay en el 2.3.5}}
+### 2.4. Instrucciones para la aplicación de las pruebas
+
+Una vez elaborada la tabla de especificaciones y redactados los ítems, debemos comprobar si la prueba es **fiable** y **válida**.
+
+- **Fiabilidad:** una prueba es fiable cuando ofrece resultados estables al aplicarla en diferentes contextos o momentos.
+- **Validez:** una prueba es válida cuando realmente mide lo que tiene que medir y cumple el objetivo para el que ha sido diseñada.
+
+Al presentar la prueba al alumnado, su éxito dependerá de varios factores:
+
+
+
+**📍 Espacio físico**  
+Debe estar acondicionado según el número de personas, con buena iluminación y sin distracciones.  
+*(Solo aplica en modalidad presencial.)*
+
+**🪑 Materiales y mobiliario**  
+Debe haber folios suficientes, mesas y sillas adecuadas y cualquier recurso que necesite el alumnado para realizar la prueba.
+
+**👤 Condiciones personales del alumnado**  
+Hay que adaptar luz, mobiliario o materiales si algún alumno/a lo requiere por motivos físicos, sensoriales o cognitivos.
+
+**📝 Precisión en el registro de las pruebas**  
+La fiabilidad depende de que el registro de respuestas sea claro y preciso.  
+Las pruebas objetivas ayudan porque reducen la subjetividad.
+
+**👩‍🏫 Preparación de la persona que evalúa**  
+El docente debe estar preparado para resolver dudas, explicar instrucciones y afrontar imprevistos.
+
+**⏱ Tiempo de realización**  
+Debe ser suficiente para que el alumnado pueda completar la prueba sin prisas innecesarias, pero sin excederse para no perder la atención.
+
+**📘 Instrucciones claras**  
+Deben estar bien redactadas para orientar al alumnado sobre cómo realizar la prueba.
+
+Algunos aspectos importantes que debemos indicar en estas instrucciones son los siguientes:
+
+- **📄 Relacionados con la prueba**
+
+  - Indicar si es una prueba objetiva o de elaboración.  
+
+  - Explicar qué materiales incluye (enunciado, hoja de respuestas…).  
+
+  - Si hay varias versiones, explicar cómo elegir la correcta.  
+
+  - Señalar si pueden usar material auxiliar (lápiz, calculadora…).  
+
+  - Indicar cuántas preguntas tiene y de qué tipo son.  
+
+  - Especificar el tiempo total y, si conviene, el tiempo sugerido por pregunta.  
+
+    > [!tip]
+    >
+    > Para ítems de pruebas objetivas se calcula **1 minuto por pregunta**.
+
+- **🧠 Relacionados con la forma de trabajar**
+  - Indicar si se responde sobre la propia prueba o en una hoja aparte.  
+  - Explicar cómo registrar cada respuesta.  
+  - Indicar cómo corregir una respuesta en caso de equivocación.  
+  - Explicar qué hacer si necesitan una aclaración o resolver una duda.
+- **🧮 Relacionados con corrección y puntuación**
+  - Indicar si todas las preguntas valen lo mismo.  
+  - Especificar si deben contestarlas todas o pueden dejar alguna en blanco.  
+  - Explicar si las respuestas incorrectas restan puntuación.  
+  - En preguntas de alternativas, aclarar si hay una única respuesta correcta o varias.  
+  - Especificar la calificación mínima para superar la prueba.
+- **📦 Relacionados con la entrega**
+  - Indicar si deben escribir sus datos y los de la prueba.  
+  - Aclarar si pueden entregar y marcharse cuando terminen.  
+  - O si deben permanecer en su sitio hasta que finalice el tiempo asignado.
+
+---
+
+### 2.5. Estructura de la prueba objetiva: encabezado, instrucciones generales e instrucciones específicas
+
+#### 2.5.1. ¿Qué son las pruebas objetivas?
+
+Las pruebas objetivas constan de un conjunto de preguntas breves que el alumnado debe contestar **de forma rápida, sencilla y siempre con una única respuesta posible**.  
+Las respuestas aceptables están **predeterminadas** y el procedimiento de corrección también, lo que reduce la subjetividad.
+
+Este tipo de prueba permite evaluar **aprendizajes sencillos**, que corresponden a los tres primeros escalones de la pirámide de Bloom:
+
+- 🧠 **Conocimiento**  
+- 🔍 **Comprensión**  
+- 🛠️ **Aplicación**
+
+> [!warning] 
+> Para evaluar aprendizajes más complejos (análisis, síntesis y evaluación) utilizaremos **pruebas de elaboración**, ya que requieren respuestas desarrolladas y razonamientos más profundos.
+
+Los tipos de ítems más utilizados en las pruebas objetivas son:
+
+- ✏️ Ítems de evocación (respuesta breve, texto incompleto)  
+- ⚖️ Ítems de dos alternativas (Verdadero/Falso, Sí/No)  
+- 🔡 Ítems de selección múltiple  
+- 🔗 Ítems de correspondencia
+
+---
+
+#### 2.5.2. Encabezado
+
+El encabezado recoge la información necesaria para identificar la prueba, a la persona que la realiza y al personal docente. Incluye:
+
+- **📝 Datos de la prueba:**  
+  - Nombre y número de la unidad o tema  
+  - Ubicación dentro del módulo o curso  
+  - Código identificativo (si procede)  
+  - Tipo de prueba (modular, final, recuperación…)
+
+- **👤 Datos de la persona participante:**  
+  - Nombre y apellidos  
+  - Firma  
+  - DNI
+  - Teléfono  
+
+- **👩‍🏫 Datos del personal docente:**  
+  - Nombre y apellidos
+
+---
+
+#### 2.5.3. Instrucciones generales
+
+Las instrucciones generales explican al alumnado **cómo son las preguntas** y **cómo deben responderlas**.  
+Incluyen orientaciones **antes**, **durante** y **después** de realizar la prueba, para que sepan exactamente qué se espera de ellos.
+
+- **🟦 Antes de empezar:**  
+  - Qué tipos de preguntas se van a encontrar (alternativas, V/F, respuesta breve…).  
+  - Si deben elegir opciones, completar huecos o escribir respuestas breves.  
+
+- **🟨 Durante la prueba:**  
+  - Cómo se deben registrar las respuestas.  
+  - Recomendación de leer bien cada ítem y contestar con claridad.  
+  - Recordatorio del tiempo disponible para evitar prisas al final.  
+
+- **🟩 Al finalizar:**  
+  - Qué hacer cuando terminen (entregar la prueba, revisar, esperar instrucciones…).  
+
+
+
+> [!tip] Ejemplo
+>
+> A continuación encontrarás una serie de preguntas de diferente tipo.  
+> En algunas deberás elegir una opción y en otras completar un hueco con una palabra.  
+>
+> Asegúrate de que entiendes cada pregunta antes de responder y escribe tus respuestas de forma clara.  
+>
+> El tiempo máximo para realizar la prueba es de **30 minutos**.  
+>
+> ¡Adelante!
+
+---
+
+#### 2.5.4. Instrucciones específicas
+
+Las instrucciones específicas indican **cómo responder cada tipo de ítem**, cómo **registrar** o **corregir** una respuesta y cómo funciona el **sistema de puntuación** de la prueba.  
+Son más detalladas que las instrucciones generales y se adaptan al formato concreto de cada pregunta.
+
+Incluyen aspectos como:
+
+- **✏️ Cómo contestar:**  
+  - Si deben escribir una palabra, completar un hueco, seleccionar una opción, relacionar columnas, etc.
+
+- **🖊️ Cómo registrar la respuesta:**  
+  - Marcar con un círculo, subrayar, escribir en un recuadro, señalar una letra…
+
+- **❌ Cómo anular una respuesta:**  
+  - Tachar con una línea, marcar “X”, corregir en otra casilla, según lo que permita la prueba.
+
+- **🧮 Cómo funciona la puntuación:**  
+  - Si las respuestas incorrectas restan  
+  - Si todas las preguntas puntúan igual  
+  - Si pueden dejar alguna sin contestar  
+  - Si hay una o varias respuestas válidas en preguntas de alternativas
+
+> [!tip] Ejemplos
+>
+> - “Completa con la palabra correcta…”  
+> - “Señala con un círculo la respuesta correcta…”  
+> - “Relaciona cada término con su definición…”  
+> - “Marca V si es verdadero o F si es falso…”  
+> - “Escribe tu respuesta en el cuadro indicado…”
+
+---
+
+#### 2.5.5. Elementos de pruebas objetivas a lo largo de un manual
+
+Cuando una prueba objetiva está distribuida en varias hojas dentro de un manual, suele organizarse en tres partes fundamentales:
+
+- **📘 Protocolo / Reactivos**  
+  - Contiene las preguntas o ítems de la prueba.  
+  
+  - Se presentan normalmente en **dificultad progresiva**:  
+    primero las más sencillas, después las de dificultad media y finalmente las más complejas.  
+    
+    > [!tip]
+    > Es habitual cerrar la prueba con alguna pregunta más sencilla para reducir la tensión final del alumnado.
+  
+- **📝 Hoja de respuesta**  
+  - Es el documento donde el alumnado registra sus respuestas.  
+  - No siempre es necesario usar una hoja aparte; en algunas pruebas se responde directamente sobre el protocolo si resulta más cómodo.
+
+- **🔑 Clave de respuesta**  
+  - Recoge la **respuesta correcta** de cada ítem.  
+  - Se utiliza para corregir la prueba de manera rápida, clara y objetiva.
+
+---
+
+### 2.6. Instrucciones para la aplicación, corrección y calificación de las pruebas
+
+A la hora de aplicar una prueba, lo primero es **entregar el material al alumnado** y explicar las normas de aplicación, tanto generales como específicas.
+
+> [!caution]  
+> Es fundamental recordarles que **rellenen los datos del encabezado** para evitar confusiones y tener todas las pruebas correctamente identificadas.
+
+La corrección y la calificación forman parte de la evaluación, pero **evaluar es mucho más que calificar**.  
+Antes de corregir, es necesario definir:
+
+- los **criterios específicos de corrección**  
+- las **normas de puntuación**  
+- cómo se va a **interpretar** cada resultado  
+
+La corrección consiste en comparar el trabajo del alumnado con los criterios establecidos, y la calificación es la traducción de ese rendimiento a una nota.
+
+
+
+🟦 **<u>¿Cómo corregimos la prueba?</u>**
+
+🔹**Corrección con fórmula para evitar el efecto del azar:**
+
+Cuando se quiere evitar que responder al azar dé ventaja, se utiliza la fórmula:
+$$
+Nota = Aciertos - Errores / (NumeroAlternativasDeLaPregunta - 1)
+$$
+
+> [!tip] Ejemplo
+>
+> - Si hay **3 respuestas**, cada error resta **0.5**  
+> - Si hay **4 respuestas**, cada error resta **0.33**  
+> - Si hay **5 respuestas**, cada error resta **0.25**  
+> - Y así sucesivamente.
+
+🔹**Cálculo directo de cuánto debe penalizar cada pregunta**
+
+Si no quieres usar la fórmula completa, puedes calcular cuánto debe restar cada error así:
+
+$$
+PenalizacionPorError = 1 / (NumeroAlternativasDeLaPregunta - 1)
+$$
+
+  > [!tip] Ejemplos
+  > 
+  > | Número de respuestas | Cuánto descuenta cada error |
+  > | -------------------- | --------------------------- |
+  > | 2                    | 1                           |
+  > | 3                    | 1/2 = 0,5                   |
+  > | 4                    | 1/3 = 0,33                  |
+  > | 5                    | 1/4 = 0,25                  |
+  > | …                    | …                           |
+  > | N                    | 1 / (N - 1)                 |
+
+
+
+🟦 <u>**¿Cómo puntuamos la prueba?**</u>
+
+Existen dos formas principales:
+
+- **1. Suma de aciertos**  
+  Se usa cuando hay **muchas alternativas** (5 o más) o en **preguntas de desarrollo**.
+
+- **2. Suma de aciertos con corrección por adivinación**  
+  Se usa cuando hay **4 o menos alternativas** y queremos compensar el azar.
+
+> [!important]  
+> Muñiz (1994) propone la fórmula:  
+> $$
+> Puntuacion = Aciertos - [Errores / (NumeroAlternativas-1)]
+> $$
+
+Para usar esta fórmula deben cumplirse estas condiciones:
+
+1. Los aciertos se deben a conocimiento o azar.  
+2. Los errores se deben a desconocimiento o azar.  
+3. Si alguien responde todo al azar, tiene la misma probabilidad de acertar.
+
+> [!note]
+>
+> Fórmula alternativa si se quiere **premiar las omisiones**
+> $$
+> \text{Puntuacion} \;=\; \left( \frac{Errores}{NumeroAlternativas - 1} \right) + \left( \frac{Omisiones}{NumeroAlternativas} \right)
+> $$
+> 
+
+
+
+🟦 <u>**¿Cómo interpretar las puntuaciones?**</u>
+
+Una vez corregida la prueba, hay que convertir la puntuación en una calificación. Se puede hacer mediante:
+
+- **Sistema criterial:**  
+  La persona que evalúa fija un mínimo aceptable **antes** de aplicar la prueba.
+
+- **Sistema normativo:**  
+  Se decide la conversión **comparando los resultados del grupo**.
+
+> [!tip] Ejemplos
+>
+> - **Sistema criterial:** aprobar a partir de **6 puntos sobre 10**, independientemente del resto del grupo.  
+> - **Sistema normativo:** aprobar a partir de la **media del grupo** o del **percentil 50**, según los resultados obtenidos.
+
+
+
+🟦**<u>¿Cómo asignar la nota?</u>**
+
+Lo más práctico es usar la **puntuación proporcional**, fácilmente convertible a:
+
+- escala de **0 a 10**  
+- escala de **0 a 100**
+
+---
+
+🟦<u>**¿Cómo determinar el nivel de aptitud?**</u>
+
+El nivel de aptitud refleja el **grado de aprovechamiento** del curso.  
+Se basa en tres variables:
+
+- **Capacidad:** Conocimientos y habilidades adquiridos por la persona.
+  
+- **Aptitud:** Condiciones individuales que favorecen el éxito formativo y profesional.
+  
+- **Actitud:** Disposición para comportarse de forma adecuada ante las situaciones de aprendizaje.
+
+---
+
+{{ Ahora toca el ejercicio E9, que está en el 2.6 (foro)}}
+
+
 
 ---
 
@@ -637,9 +970,18 @@ Lo más operativo es asignar una puntuación determinada según el número de ac
 
 ---
 
-## Ejercicio X: {{enunciado}}
+## Ejercicio 11: Pinta y colorea
 
-Solución
+![image-20251120140553033](img/MF1445 - UF02 - Elaboración de pruebas para la evaluación de contenidos teóricos/image-20251120140553033.png)
 
 ---
 
+## Ejercicio 12: V ó F
+
+![image-20251121091830891](img/MF1445 - UF02 - Elaboración de pruebas para la evaluación de contenidos teóricos/image-20251121091830891.png)
+
+---
+
+## Ejercicio X: {{enunciado}}
+
+Solución
