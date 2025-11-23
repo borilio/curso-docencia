@@ -289,7 +289,7 @@
       "icon": "pi pi-graduation-cap",
       "color": "#1c4c75",
       "expandible": true,
-      "contraido": false,
+      "contraido": true,
       "habilitado": true,
       "temas": [
         {
@@ -357,9 +357,49 @@
       "icon": "pi pi-graduation-cap",
       "color": "#1c4c75",
       "expandible": true,
-      "contraido": true,
+      "contraido": false,
       "habilitado": true,
-      "temas": []
+      "temas": [
+        {
+          "id": "MF1446-UF1",
+          "orden": 1,
+          "titulo": "Unidad 1 - Análisis del perfil profesional",
+          "descripcion": "Análisis del perfil profesional",
+          "archivoMd": "MF1446/MF1446 - UF01 - Análisis del perfil profesional.md",
+          "img": "",
+          "emoji": "",
+          "icon": "pi pi-book",
+          "severity": "primary",
+          "outlined": false,
+          "habilitado": true
+        },
+        {
+          "id": "MF1446-UF2",
+          "orden": 2,
+          "titulo": "Unidad 2 - La formación profesional. Estrategias y herramientas para la búsqueda de empleo",
+          "descripcion": "La formación profesional. Estrategias y herramientas para la búsqueda de empleo",
+          "archivoMd": "MF1446/MF1446 - UF02 - La formación profesional. Estrategias y herramientas para la búsqueda de empleo.md",
+          "img": "",
+          "emoji": "",
+          "icon": "pi pi-book",
+          "severity": "primary",
+          "outlined": false,
+          "habilitado": true
+        },
+        {
+          "id": "MF1446-UF3",
+          "orden": 3,
+          "titulo": "Unidad 3 - Calidad de las acciones formativas. Innovación y actualización docente",
+          "descripcion": "Calidad de las acciones formativas. Innovación y actualización docente",
+          "archivoMd": "MF1446/MF1446 - UF03 - Calidad de las acciones formativas. Innovación y actualización docente.md",
+          "img": "",
+          "emoji": "",
+          "icon": "pi pi-book",
+          "severity": "primary",
+          "outlined": false,
+          "habilitado": true
+        }
+      ]
     },
     {
       "id": "tests",
