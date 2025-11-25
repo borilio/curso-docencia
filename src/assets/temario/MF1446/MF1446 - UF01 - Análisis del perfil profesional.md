@@ -1386,44 +1386,30 @@ Una de las `ventajas` del trabajo asociado es que no se responde con bienes `per
 | j      | Las entrevistas personales son un paso previo en el diagnóstico | ✔️        | Coincide con lo explicado en la unidad                       |
 
 ---
-## Ejercicio X: {{enunciado}}
+## Ejercicio Ponte a prueba: 
 
-Solución
+**Caso:**
 
----
-## Ejercicio X: {{enunciado}}
+En la elaboración de un perfil profesional se debe tener en cuenta el contexto laboral, sus características, exigencias y requisitos.  
+Imagina que Carlos tiene que orientar a un alumno en la definición de su perfil profesional, el que mejor se adapte al contexto laboral actual.
 
-Solución
+**¿Qué elemento de los siguientes se puede considerar una tendencia al alza del mercado laboral?**
 
----
-## Ejercicio X: {{enunciado}}
+**OPCIÓN 1**  
+Aptitud frente a actitud. Un reconocimiento de cómo eres como profesional no va a ser determinante a la hora de conseguir un empleo y el listado de títulos en el CV pasa a un segundo plano.
 
-Solución
+**OPCIÓN 2**  
+Empleo mono-disciplinar. Encasillarnos nos ayudará a mantener nuestro puesto de trabajo y a crecer profesionalmente. La constante transformación digital hace que las personas no tengan que adaptarse a nuevas situaciones en el entorno laboral.
 
----
-## Ejercicio X: {{enunciado}}
-
-Solución
-
----
-## Ejercicio X: {{enunciado}}
-
-Solución
-
----
-## Ejercicio X: {{enunciado}}
-
-Solución
-
----
-## Ejercicio X: {{enunciado}}
-
-Solución
-
----
-## Ejercicio X: {{enunciado}}
-
-Solución
+**OPCIÓN 3**  
+Tecnología en alza. La demanda de profesionales en esta área aumentará, pues es y será de vital importancia para el crecimiento y la expansión de un negocio. A diferencia de otros sectores, los tiempos de contratación se han acelerado y los salarios están aumentando en muchas posiciones e industrias, principalmente en aquellas con mayor implementación tecnológica.
 
 ---
 
+✅ Respuesta correcta: **OPCIÓN 3 – Tecnología en alza**
+
+**Motivo:**  
+Tal y como se indica en el temario, la tecnología y las nuevas formas de trabajo digital son áreas en expansión continua. Generan nuevas ocupaciones, impulsan la demanda de perfiles cualificados y muestran mejores condiciones laborales que otros sectores, con un crecimiento sostenido tanto en contratación como en salarios.  
+Este sector es una tendencia clara del mercado laboral actual y futuro.
+
+---
