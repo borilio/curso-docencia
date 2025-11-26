@@ -24,15 +24,16 @@ Facilitar **información y orientación laboral** y promover la **calidad de la 
 > [!tip] Consejo  
 > Para comenzar esta unidad te recomendamos este vídeo que repasa el concepto de perfil profesional y lo que buscan actualmente las empresas en un candidato:
 >
-> <div style="text-align: center;">
-> <iframe width="560" height="315"
->  src="https://www.youtube.com/embed/v2eWtkUC-MY"
->  title="Perfil profesional y empleabilidad"
->  frameborder="0"
->  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share"
->  referrerpolicy="strict-origin-when-cross-origin"
->  allowfullscreen>
-> </iframe>
+> <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; text-align: center;">
+>   <iframe 
+>     src="https://www.youtube.com/embed/v2eWtkUC-MY"
+>     title="Perfil profesional y empleabilidad"
+>     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+>     frameborder="0"
+>     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share"
+>     referrerpolicy="strict-origin-when-cross-origin"
+>     allowfullscreen>
+>   </iframe>
 > </div>
 
 
@@ -723,25 +724,25 @@ En 1993, Jacques Delors —entonces Presidente de la Comisión Europea— lanzó
 Destacó **seis prioridades de acción al servicio del empleo**, que siguen siendo vigentes hoy en día:
 
 1. 🔄 **Aumento de la flexibilidad externa e interna**  
-  Promueve la movilidad geográfica y una relación más estrecha entre escuela, instituto, universidad y empresa.
+    Promueve la movilidad geográfica y una relación más estrecha entre escuela, instituto, universidad y empresa.
 
 2. 🏘️ **Confianza en la descentralización y en la iniciativa privada, local y regional**  
-  Facilita la participación de empresas y administraciones locales/autonómicas en la gestión del tiempo de trabajo y en el impulso de nuevas profesiones y puestos.
+    Facilita la participación de empresas y administraciones locales/autonómicas en la gestión del tiempo de trabajo y en el impulso de nuevas profesiones y puestos.
 
 3. 📉 **Reducción del coste relativo del trabajo poco cualificado**  
-  Persigue que las cargas fiscales afecten menos a las rentas bajas para evitar la economía sumergida y el paro estructural en determinadas regiones.
+    Persigue que las cargas fiscales afecten menos a las rentas bajas para evitar la economía sumergida y el paro estructural en determinadas regiones.
 
 4. 🔧 **Renovación profunda de las políticas de empleo**  
-  Prioriza las **políticas activas** (formación, información, orientación, acompañamiento al desempleado) frente a las políticas pasivas basadas en subsidios.  
-  También favorece la ocupación en los **Nuevos Yacimientos de Empleo**.
+    Prioriza las **políticas activas** (formación, información, orientación, acompañamiento al desempleado) frente a las políticas pasivas basadas en subsidios.  
+    También favorece la ocupación en los **Nuevos Yacimientos de Empleo**.
 
 5. 🔍 **Detección y encuentro de las nuevas necesidades**  
-  Impulsa la creación de una economía social que responda a necesidades emergentes de los sectores más vulnerables.  
-  Incluye fomentar desde los gobiernos la demanda ligada a una economía sostenible.
+    Impulsa la creación de una economía social que responda a necesidades emergentes de los sectores más vulnerables.  
+    Incluye fomentar desde los gobiernos la demanda ligada a una economía sostenible.
 
 6. 🎓 **Apuesta por la educación y la formación a lo largo de la vida**  
-  Requiere promover la formación permanente y actitudes favorables al aprendizaje continuo.  
-  Supone equilibrar universidad y calidad educativa, formación profesional y universitaria, educación presencial y formación online.
+    Requiere promover la formación permanente y actitudes favorables al aprendizaje continuo.  
+    Supone equilibrar universidad y calidad educativa, formación profesional y universitaria, educación presencial y formación online.
 
 En diciembre de 1993, la Comisión de las Comunidades Europeas presentó —a petición del Consejo Europeo de Bruselas— el documento **«Crecimiento, competitividad y empleo. Retos y pistas para entrar en el siglo XXI»**, conocido como el **Libro Blanco de Delors**.  
 Este documento analizaba los problemas de competitividad y crecimiento de la economía europea, haciendo especial hincapié en el **problema del desempleo**.
@@ -1280,20 +1281,37 @@ También existe la posibilidad de solicitar **convalidaciones** totales o parcia
 
 La piedra angular que posibilita las convalidaciones en la formación adquirida a través de los diferentes subsistemas de la Formación Profesional y la validez académica de la experiencia laboral, es la Ley Orgánica 5/2002 de 19 de junio, de las Cualificaciones y de la Formación Profesional. Esta Ley creó el Sistema Nacional de las Cualificaciones Profesionales que ha sido dotado de un elemento fundamental: el **Catálogo Nacional de Cualificaciones Profesionales**.
 
-📢 **Definición**  
-El *Catálogo Nacional de Cualificaciones Profesionales (CNCP)* es un instrumento que recoge y ordena en **familias profesionales** y **niveles** (26 familias y 5 niveles formativos) las cualificaciones profesionales susceptibles de reconocimiento y acreditación en nuestro sistema productivo.
+> [!note] Definición
+>
+> 📢 El ***Catálogo Nacional de Cualificaciones Profesionales (CNCP)*** es un instrumento que recoge y ordena en **familias profesionales** y **niveles** (26 familias y 5 niveles formativos) las cualificaciones profesionales susceptibles de reconocimiento y acreditación en nuestro sistema productivo.
 
 Constituye la base con la que se elabora la oferta formativa de los Títulos y los Certificados de Profesionalidad, e incluye no solo el contenido de la formación profesional asociada a cada cualificación, sino que además la dota de una estructura formativa modular.
 
-> [!note]
+> [!tip]
 > En los siguientes vídeos se explica qué es el CNCP:
 >
-> <div style="text-align:center">
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/JXa6WF-mihU" frameborder="0" allowfullscreen></iframe>
+> <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; text-align: center;">
+>   <iframe 
+>     src="https://www.youtube.com/embed/JXa6WF-mihU"
+>     title="¿Qué es el CNCP?"
+>     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+>     frameborder="0"
+>     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share"
+>     referrerpolicy="strict-origin-when-cross-origin"
+>     allowfullscreen>
+>   </iframe>
 > </div>
 >
-> <div style="text-align:center">
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/E_B5ZAUujpM" frameborder="0" allowfullscreen></iframe>
+> <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; text-align: center;" class="mt-3">
+>   <iframe 
+>     src="https://www.youtube.com/embed/E_B5ZAUujpM"
+>     title="Estructura de cada familia del CNCP"
+>     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+>     frameborder="0"
+>     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share"
+>     referrerpolicy="strict-origin-when-cross-origin"
+>     allowfullscreen>
+>   </iframe>
 > </div>
 >
 > Las convalidaciones y exenciones proceden cuando las normas lo permiten.  
@@ -1311,8 +1329,16 @@ En el siguiente mapa conceptual realizado por la Subdirección General de Polít
 > Más información:  
 > En el siguiente vídeo se resumen los pasos que acabamos de ver.
 >
-> <div style="text-align:center">
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/S-ha-H7UrXk" frameborder="0" allowfullscreen></iframe>
+> <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; text-align: center;">
+>   <iframe 
+>     src="https://www.youtube.com/embed/S-ha-H7UrXk"
+>     title="Entrevista a un experto en formación sobre la acreditación de las competencias profesionales"
+>     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+>     frameborder="0"
+>     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share"
+>     referrerpolicy="strict-origin-when-cross-origin"
+>     allowfullscreen>
+>   </iframe>
 > </div>
 
 
