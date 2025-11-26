@@ -415,15 +415,16 @@ Podemos identificar tres tipos de carta de presentación:
 >
 > En el siguiente vídeo, “Cómo hacer una carta de presentación”, se explica paso a paso cómo realizarla de forma adecuada.
 >
-> <div style="text-align: center;">
-> <iframe width="560" height="315"
->  src="https://www.youtube.com/embed/VAmyIApuZoM"
->  title="Cómo hacer una carta de presentación"
->  frameborder="0"
->  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share"
->  referrerpolicy="strict-origin-when-cross-origin"
->  allowfullscreen>
-> </iframe>
+> <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; text-align: center;">
+>   <iframe 
+>     src="https://www.youtube.com/embed/VAmyIApuZoM"
+>     title="Cómo hacer una carta de presentación"
+>     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+>     frameborder="0"
+>     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share"
+>     referrerpolicy="strict-origin-when-cross-origin"
+>     allowfullscreen>
+>   </iframe>
 > </div>
 
 ---
@@ -572,10 +573,471 @@ El primero permite ver con claridad la evolución profesional del candidato y, e
 >
 > En el siguiente vídeo se explica cómo estructurar un currículum y qué aspectos valoran más las empresas:
 >
-> <div style="text-align: center;">
-> <iframe width="560" height="315"
->  src="https://www.youtube.com/embed/aIYC8TMIUmo"
->  title="Como hacer un buen curriculum"
+> <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; text-align: center;">
+>   <iframe 
+>     src="https://www.youtube.com/embed/aIYC8TMIUmo"
+>     title="Como hacer un buen curriculum"
+>     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+>     frameborder="0"
+>     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share"
+>     referrerpolicy="strict-origin-when-cross-origin"
+>     allowfullscreen>
+>   </iframe>
+> </div>
+
+---
+
+#### 4.3.6. Modelos de curriculum especiales
+
+> [!note] Definición
+>
+> 📢Son *curriculums* centrados en proporcionar mayor información sobre un aspecto concreto porque así lo solicita la organización a la que se envían.
+
+En algunos casos, la organización pide que el currículum ponga el énfasis en un aspecto determinado. Es lo que ocurre, por ejemplo, con los modelos que solicitan las universidades y centros de formación para acceder a becas, puestos de investigación o plazas de profesorado, donde el foco se sitúa en la **formación académica**.
+
+También existen modelos de currículum que se apartan de los formatos habituales para resaltar habilidades o recursos muy específicos:
+
+- 🧾 **Currículum tipo carta personal**  
+  Se presenta a modo de carta en la que se transmite un mensaje muy claro sobre lo que la persona candidata puede aportar a la empresa, en términos muy concretos.
+
+- 🎨 **Currículum creativo**  
+  Es un tipo de currículum que se aleja de los modelos tradicionales y donde la **creatividad** es especialmente relevante. Resulta adecuado para escritores, artistas, personas de relaciones públicas o del ámbito de la comunicación.
+
+  > [!tip] Ejemplo
+  >
+  >  Aquí puedes encontrar un ejemplo de curriculum creativo de un desarrollador de videojuegos. 
+  > https://retrojourney.dev/
+  
+- 🌐 **Currículum online y plantillas**  
+  En la actualidad, también podemos enviar nuestros datos profesionales y académicos a través de internet.  
+  En muchos casos, se utilizan las bases de datos de los portales de empleo, de forma que la persona que busca trabajo puede recibir en su correo electrónico ofertas relacionadas con su perfil. En otros casos, se usan las direcciones de correo que las empresas proporcionan en sus páginas corporativas.
+
+  > [!tip] Ejemplo
+  > Plantillas gratuitas de currículum: https://www.cvmaker.es/plantillas-de-curriculum
+
+- 💻 **Currículum alojado en la web**  
+  Actualmente los usuarios pueden alojar su currículum en un sitio web, de manera que los datos estén siempre disponibles para las empresas ofertantes de empleo y se puedan modificar o enviar desde cualquier lugar.
+
+  > [!tip] Ejemplo
+  >
+  > Currículums online:  https://www.visualcv.com/examples/
+
+---
+
+En internet nos vamos a encontrar distintos tipos de recursos relacionados con el currículum y la búsqueda de empleo:
+
+- 🌍 **Portales generalistas**  
+  Páginas web especializadas en el mercado laboral en general, sin distinción de sectores. Funcionan como intermediarios entre las personas que buscan empleo y las empresas que necesitan personal.
+
+  > [!tip] Ejemplo
+  >
+  > Algunos portales generalistas de empleo son **InfoJobs**, **Indeed** y **Empléate**:
+  > - https://www.infojobs.net/  
+  > - https://es.indeed.com/  
+  > - https://www.empleate.gob.es
+  
+- 🎯 **Portales especializados**  
+  Son páginas web centradas en un sector de actividad concreto, dirigidas a un perfil profesional o colectivo determinado.  
+  
+  > [!tip] Ejemplo
+  >
+  > A continuación se muestran algunos portales de empleo especializados en sectores o colectivos concretos:
+  >
+  > - Tecnoempleo (sector IT): https://www.tecnoempleo.com/  
+  > - Domestika (diseño, creatividad y comunicación): https://www.domestika.org/es/jobs  
+  > - Turijobs (sector turismo y hostelería): https://www.turijobs.com/  
+  > - Farmacias (sector farmacéutico y sanitario): https://www.farmaempleo.es/  
+  > - Infojobs Freelance (trabajo autónomo y proyectos): https://freelance.infojobs.net/  
+  > - Jooble Educación (empleo en enseñanza y docencia): https://es.jooble.org/trabajo-docente  
+  
+- 🔗 **Redes sociales**  
+  Constituyen una forma de comunicación y de intercambio entre personas que se organizan para potenciar sus recursos. Su utilidad depende de que el usuario mantenga su perfil actualizado y activo.  
+  
+  > [!tip] Ejemplo
+  >
+  > La red social profesional más utilizada en el ámbito laboral es **LinkedIn**: https://www.linkedin.es/
+  
+- ✍️ **Blogs**  
+  La edición de un blog es una forma de ser proactivo en la búsqueda de empleo. Permite expresar opiniones, compartir conocimientos y construir una imagen profesional diferenciada que puede marcar la diferencia en un proceso de selección.
+
+- 🎥 **Videocurrículum**  
+  Es una presentación en vídeo en la que la persona describe sus aptitudes, habilidades, logros y objetivos, con la finalidad de mejorar sus posibilidades de contratación.
+
+---
+
+
+
+#### 4.3.7. Modelo de currículo Europeo o modelo de Curriculum Europass
+
+> [!note] Definición
+>
+> 📢Se trata de un modelo común de currículum para presentar, de manera sistemática, cronológica y flexible, las capacidades, titulaciones, formación y experiencia laboral en toda la Unión Europea. Su objetivo principal es **facilitar la movilidad profesional** dentro de Europa.
+
+La diferencia fundamental respecto a modelos tradicionales es la **importancia que concede a las competencias profesionales**, como la comunicación, la gestión de recursos, el liderazgo o la capacidad para trabajar en equipo.
+
+Este modelo no permite modificar el diseño gráfico ni el tipo de letra.  
+La fotografía es opcional, salvo que la empresa la exija expresamente.
+
+**¿Cómo se completa?**
+
+1. 🧑‍💼 Respecto a los datos personales, se indica primero el apellido y después el nombre. Debe aparecer la dirección completa, incluyendo el código del país si se solicita empleo en el extranjero. Ejemplo: **E-12345 Madrid**.
+
+2. 📞 Los números de teléfono deben incluir el prefijo del país con el signo “+”, sin espacio detrás. Después del prefijo se deja un espacio y se escribe el número completo sin separaciones. Ejemplo: **+34 612345678**.
+
+3. 🎯 En “empleo deseado/campo profesional” se expone el **perfil laboral**, destacando las principales competencias.
+
+4. 💼 En la experiencia laboral se describe cada empleo relevante por separado, comenzando por el más reciente.
+
+5. 🎓 En la educación o formación recibida también se comienza por el aprendizaje más reciente.
+
+6. 🧠 En “aptitudes personales” se describen las habilidades adquiridas a lo largo de la trayectoria formativa y laboral, incluso si no están acreditadas con diplomas. Para indicar el nivel de idioma se puede usar la autoevaluación europea disponible en la plataforma Europass.
+
+7. 🤝 Las aptitudes sociales se refieren a aquellas que permiten trabajar y convivir con otras personas, especialmente en situaciones que requieren comunicación, trabajo en equipo o entornos multiculturales. Ejemplos: **capacidad para el trabajo en equipo**, **dotes de comunicación**.
+
+8. 📋 Las aptitudes organizativas son las relacionadas con coordinar personas, proyectos o recursos, tanto en el trabajo como en voluntariados o actividades culturales o deportivas. Ejemplos: **dotes de liderazgo**, **experiencia en gestión de grupos**.
+
+9. 🛠️ Las aptitudes técnicas son aquellas (no informáticas) que permiten manejar equipos, instalaciones o maquinaria específica, o conocimientos técnicos aplicados a un campo concreto. Ejemplo: **control de calidad**.
+
+10. 🗑️ Finalmente, cualquier apartado que no se utilice debe eliminarse del CV.
+
+
+
+> [!tip] Ejemplo
+>
+> ![image-20251126111355629](img/MF1446 - UF02 - La formación profesional. Estrategias y herramientas para la búsqueda de empleo/image-20251126111355629.png){.img-preview}
+>
+> ![image-20251126111421055](img/MF1446 - UF02 - La formación profesional. Estrategias y herramientas para la búsqueda de empleo/image-20251126111421055.png){.img-preview}
+
+
+
+---
+
+#### 4.4. Agenda de búsqueda de empleo
+
+> [!note] Definición
+>
+> 📢La **agenda de búsqueda de empleo** es una herramienta donde se registran, de manera sistemática, todas las actividades realizadas durante el proceso de búsqueda: empresas contactadas, currículums enviados, fuentes de información consultadas, acciones de autocandidatura, etc.
+
+Su utilidad principal es llevar un control claro y ordenado del proceso, evitando duplicidades u olvidos y permitiendo evaluar si el método de búsqueda está funcionando.
+
+📅 **Objetivos de la agenda**
+- Organizar el tiempo de búsqueda siguiendo una metodología establecida.  
+- Planificar y programar las actividades para evitar omisiones.  
+- Realizar un seguimiento de resultados para comprobar si el método está siendo eficaz.  
+- Crear un archivo con las cartas enviadas y los datos completos de las empresas contactadas.
+
+> [!tip] Ejemplo
+>
+> **Registro semanal**
+>
+> |                           | Lunes | Martes | Miércoles | Jueves | Viernes |
+> | ------------------------- | ----- | ------ | --------- | ------ | ------- |
+> | **Fecha**                 |       |        |           |        |         |
+> | **Empresa**               |       |        |           |        |         |
+> | **Fuente de información** |       |        |           |        |         |
+> | **Vía de contacto**       |       |        |           |        |         |
+> | **Puesto de trabajo**     |       |        |           |        |         |
+> | **Resultado**             |       |        |           |        |         |
+
+---
+
+## 5. Canales de acceso a la información
+
+> [!caution]
+>
+> Algunos de los enlaces y portales mencionados en este epígrafe pueden estar desactualizados o haber cambiado de nombre con el paso del tiempo. Conviene verificar siempre su disponibilidad y buscar alternativas actuales en caso necesario.
+
+### 5.1. Introducción
+
+El tratamiento de la información, su actualización y selección, son tareas fundamentales en la búsqueda de empleo. Las/os Técnicos en Orientación Laboral deben conocer bien las fuentes y facilitar datos y estrategias de manejo de la información eficaces. En este sentido, cobra cada vez más relevancia el uso de internet y de las nuevas tecnologías.
+
+**Canales de acceso a la información**
+
+- 🌐 El uso de internet se ha convertido en un recurso esencial para identificar ofertas, contactar con empresas, consultar portales de empleo, recibir alertas, acceder a servicios públicos y utilizar herramientas de autocandidatura.
+- 📱 Las nuevas tecnologías permiten un acceso más rápido, variado y actualizado a la información laboral.
+- 🗂️ El profesional de la orientación debe dominar estas fuentes para ofrecer una búsqueda estructurada y eficaz.
+
+Veamos un interesantísimo vídeo que nos dice **donde tenemos que estar** cuando buscamos empleo:
+
+<div style="width:100%;padding-top:64%;position:relative;border-bottom:1px solid #aaa;display:inline-block;background:#eee;background:rgba(255,255,255,0.9);"><iframe src="https://secure-embed.rtve.es/drmn/embed/video/2466913" name="La entrevista de trabajo en grupo" style="width:100%;height:90%;position:absolute;left:0;top:0;overflow:hidden;border:none;background-color:transparent;" scrolling="no" allowfullscreen="allowfullscreen"></iframe><div style="position:absolute;bottom:0;left:0;font-family:arial,helvetica,sans-serif;font-size:12px;line-height:1.833;display:inline-block;padding:5px 0 5px 10px;"><span style="float:left;margin-right:10px;"><img style="height:20px;width:auto;background: transparent;padding:0;margin:0;" src="https://img2.rtve.es/css/rtve.commons/rtve.header.footer/i/logoRTVEes.png"></span><a style="color:#333;font-weight:bold;" title="La entrevista de trabajo en grupo" href="https://www.rtve.es/play/videos/aqui-hay-trabajo/entrevista-trabajo-grupo/2466913/"><strong>La entrevista de trabajo en grupo</strong></a></div></div>
+
+---
+
+### 5.2. La Web: portales
+
+> [!note] Definición
+>
+> 📢Los portales son sitios web dedicados a servir de intermediarios entre las personas que buscan un trabajo y las empresas en proceso de selección. 
+
+Reúnen vacantes de distintas empresas e instituciones y requieren que las personas en búsqueda de empleo se inscriban para acceder a todos los servicios o a la información completa de las ofertas.
+
+Algunos ejemplos de portales son **Infojobs**, **Monster**, **Laboris**, **Infoempleo**, etc.
+
+🟥 **Ventajas de los servicios a través de un portal de empleo**
+
+- 🌐 Amplia oferta de trabajo.  
+- 🔍 Facilidad de búsqueda mediante buscadores por categorías.  
+- ⚡ Agiliza la comunicación entre empresas y demandantes.  
+- 📤 Envío del currículum a través del canal indicado en el portal.  
+- 🔔 Seguimiento de ofertas y recepción de notificaciones por correo o móvil.  
+
+En un portal de empleo se puede encontrar información relativa a:
+
+1. Ofertas de empleo más recientes y un buscador general.  
+2. Inscripción y envío de candidaturas directamente.  
+3. Registro del CV en formato electrónico.  
+4. Suscripción a boletines para recibir ofertas por e-mail o SMS.  
+5. Información laboral para personas trabajadoras y para creación de empresas.  
+
+---
+
+🟥 **Tipos de portales**
+
+- 🌐 **Portales generalistas**  
+  Son portales de empleo genéricos que abarcan todo el mercado laboral.
+
+  > [!tip] Ejemplos  
+  > Infoempleo.com  
+  > Laboris.net  
+  > Monster.com  
+  > Infojobs.net  
+
+- 🧭 **Portales especializados**  
+  Centran su actividad en uno o varios sectores profesionales.
+
+  > [!tip] Ejemplos  
+  > Primerempleo.com  
+  > Tecnoempleo.com  
+  > Educajob.com  
+  > Secretarias.com  
+  > Turijobs.com  
+
+- 🏢 **Páginas de empresas**  
+  Las webs corporativas aportan información sobre ofertas de empleo y vías de contacto.
+
+  > [!tip] Ejemplos  
+  > Randstad.es  
+  > Addeco.es  
+  > Servicio Público de Empleo (sepe.es)  
+  > Ayuntamientos  
+  > Camarasdecomercio.es  
+  > Telefonica.net  
+
+---
+
+### 5.3. Redes de contactos
+
+Dado que muchas ofertas no llegan a ser publicadas, resulta de gran utilidad activar nuestra red de conocidos para informarles de que nos encontramos buscando trabajo activamente y de qué es lo que buscamos. Con las personas que vemos a diario cara a cara, conviene especificar brevemente nuestra trayectoria formativa y experiencia, así como el puesto o puestos que nos interesan.
+
+En Internet nos movemos dentro de lo que se denomina **“Redes Sociales y de Networking”**.
+
+**Tipos de redes**
+
+- 🌐 **Redes sociales generalistas**  
+  Las redes sociales generalistas tienen un origen principalmente lúdico. Son un lugar de encuentro para amigos, conocer gente nueva y mantener contactos.
+
+- 💼 **Redes profesionales**  
+  Surgen con la necesidad de gestionar la confianza y las referencias personales a la hora de buscar empleo. Los perfiles profesionales de estas plataformas mantienen similitudes con un CV y, en la actualidad, se han convertido en un escaparate internacional que facilita el trabajo de las consultoras de RRHH.
+  
+  > [!tip] Principales redes de networking  
+  > LinkedIn  
+  > XING  
+  > Viadeo
+
+---
+
+### 5.4. Otros
+
+- 💼 **Las web corporativas**  
+  Desde sus páginas han evolucionado hasta incorporar aplicaciones que permiten canalizar todas sus ofertas de empleo y los currículos que reciben. Esto facilita la clasificación de perfiles, el archivo y la notificación a los candidatos. Además, permite a la empresa presentar sus valores y atraer a profesionales afines.
+
+- 🧩 **Las empresas de selección**  
+  Realizan la selección de personal para otras empresas, proponiendo varios candidatos por proceso, pero sin contratar directamente. Están especializadas en describir el perfil profesional de las ofertas e identificar al candidato idóneo. Suelen seleccionar perfiles medios y altos. Sus webs han evolucionado de un formato más orientado a imagen corporativa a uno más operativo, aunque no siempre publican todas sus ofertas.
+
+- 🏫 **Bolsas de trabajo de centros de formación**  
+  Institutos, universidades (a través de los COIEs), colegios profesionales, asociaciones y centros de formación profesional suelen contar con bolsas de empleo. Intermedian entre las ofertas de empresas colaboradoras y el alumnado formado en esa institución.
+
+- 🌍 **Red EURES**  
+  Portal con información sobre condiciones de vida y trabajo en países de la Unión Europea, además de ofertar vacantes. Organiza sesiones informativas con consejeros de distintos países.  
+  El portal ofrece:  
+  - Información sobre ofertas de empleo en el Espacio Económico Europeo y Suiza.  
+  - Tendencias del mercado laboral en todos los países y regiones.  
+  - Base de datos en línea con currículos de solicitantes.  
+
+  Cualquier usuario puede buscar empleo sin registrarse en “Mi EURES”, pero registrarse ofrece más servicios:  
+  - Introducir el CV y ser contactado por empresas.  
+  - Crear el CV en una lengua comunitaria, con opción de traducción.  
+  - Definir el perfil y recibir avisos por correo electrónico con nuevas ofertas adecuadas.
+
+- 🎒 **PLOTEUS**  
+  Es el portal europeo de oportunidades de aprendizaje. Su objetivo es ayudar a estudiantes, personas buscadoras de empleo, trabajadores, familias y orientadores a encontrar información sobre cómo estudiar en Europa.  
+  En **ec.europa.eu/ploteus** se puede encontrar información sobre:  
+  
+  - Oportunidades de aprendizaje y posibilidades de formación.  
+  - Sistemas de educación y formación.  
+  - Programas de intercambio y becas.  
+  - Información para vivir en el extranjero.
+
+---
+
+## 6. Procesos de selección
+
+### 6.1. Fases del proceso de selección
+
+> [!note] Definición
+>
+> 📢El **proceso de selección** es el que siguen las empresas para contar con los trabajadores más adecuados a los puestos que necesitan cubrir. 
+
+Comienza cuando la empresa detecta una vacante y analiza las características del puesto, definiendo el perfil personal y profesional requerido. A partir de ahí se determinan las pruebas necesarias: entrevistas, exámenes, pruebas psicotécnicas, etc.
+
+**Fases del proceso de selección**
+
+1. 📝 **Detección de la necesidad de contratación**  
+    Origen: sustitución de un trabajador, expansión o acumulación de trabajo.  
+    Se define el perfil profesional y personal del candidato.
+
+2. 🔍 **Reclutamiento de candidatos**  
+    La empresa puede optar por cubrir el puesto con personal interno o externo.
+
+3. 📄 **Preselección de candidatos**  
+    Revisión y preselección de currículos que pasarán a la siguiente fase.
+
+4. 👥 **Entrevista de selección**  
+    La empresa puede añadir pruebas adicionales, como pruebas psicotécnicas.
+
+5. 🤝 **Contratación e incorporación**  
+    Incorporación del candidato seleccionado al puesto de trabajo.
+
+---
+
+### 6.2. Entrevistas
+
+#### 6.2.1. Definición
+
+> [!note] Definición
+>
+> 📢La **entrevista de trabajo** es un diálogo entre dos personas (entrevistador y entrevistado) en el que la comunicación verbal y no verbal (gestos, posturas, tono, etc.) forman parte del intercambio de información.
+
+El entrevistador se plantea dos preguntas fundamentales:
+
+1. ¿Puede el candidato desempeñar el puesto?  
+2. ¿Cómo se compara con respecto a otras personas que han solicitado el puesto?
+
+> [!tip] 
+>
+> En el siguiente vídeo de *Hablemos en Positivo* se explica cómo hacer una buena entrevista de trabajo:
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; text-align: center;">
+  <iframe 
+    src="https://www.youtube.com/embed/vI-bIwN3AY0"
+    title="Cómo hacer una buena entrevista de trabajo"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
+---
+
+#### 6.2.2. Tipos de entrevistas
+
+🟪 **Tipos de entrevista**
+
+- 🎯 **Individual**
+- 👥 **Grupal**
+- 📋 **Directa o dirigida**
+- 🗣️ **Abierta no dirigida**
+
+Actualmente, las empresas realizan la **entrevista por competencias**.  
+Las competencias se definen como el conjunto de comportamientos observables relacionados con un desempeño excelente en el trabajo.
+
+La entrevista por competencias se centra en obtener **ejemplos conductuales** de la vida laboral o personal.  
+Para ello, el entrevistador formula preguntas sobre hechos concretos (por ejemplo: *“cuéntame una situación en la que hayas tenido que tratar con un cliente difícil”*).
+
+> [!note]
+>
+> Cuando se pretende recoger información objetiva, la entrevista tenderá a ser cerrada (dirigida).  
+> Si se pretende conocer el carácter y la personalidad, se usará más la entrevista abierta.
+
+---
+
+- 🌀 **La entrevista mixta**  
+  Combinación entre entrevista dirigida y entrevista abierta.  
+  El entrevistador puede comenzar con un guion y continuar con preguntas generales, dejando que la persona candidata amplíe libremente.
+
+- ⚡ **La entrevista de tensión**  
+  No es muy frecuente. Su objetivo es evaluar la reacción del candidato ante situaciones de presión, estrés o tensión (críticas, interrupciones o actitud hostil), especialmente cuando el puesto exige alta resistencia al estrés.
+
+- 🔄 **Las dinámicas de grupo**  
+  Se reúne a varios candidatos (entre 6 y 15) para que resuelvan una situación y alcancen un objetivo común dentro de un tiempo límite.  
+  No se dan normas, por lo que el grupo debe autorregularse.  
+  Los seleccionadores observan comportamientos como:
+
+  - Capacidad de comunicación  
+  - Trabajo en equipo  
+  - Resolución de problemas  
+  - Capacidad de persuasión  
+  - Iniciativa  
+  - Control emocional  
+  - Actitudes  
+  - Habilidades sociales  
+
+🟪 **Tipos de dinámicas**
+
+- Ejercicios de presentación (presentar el currículo mediante un juego)  
+- Debate  
+- Juegos de cooperación: resolución de una situación  
+
+
+
+---
+
+#### 6.2.3. Fases de la entrevista
+
+![Esquema sobre las fases de la entrevista](img/MF1446 - UF02 - La formación profesional. Estrategias y herramientas para la búsqueda de empleo/image-20251126141441717.png)
+
+1. 🤝 **Fase de acogida**  
+   Consiste en un saludo cordial y una charla introductoria en la que se suelen tratar temas superficiales.
+
+2. 🏢 **Fase informativa**  
+   El entrevistador presenta la empresa y el puesto de trabajo, aunque en algunos casos esta información se facilita al final para no influir en las respuestas del candidato.
+
+3. 📄 **Fase de recogida de datos**  
+   Se plantean cuestiones específicas como formación, experiencia profesional o se invita al candidato a hablar de ciertos temas de manera abierta.
+
+4. 🔚 **Fase final o de cierre**  
+   El entrevistador explica los pasos siguientes del proceso: pruebas adicionales, otra entrevista, plazos de decisión, etc.  
+   El candidato también puede hacer preguntas o pedir aclaraciones.
+
+---
+
+#### 6.2.4. Enfrentarse con éxito a una entrevista de trabajo
+
+1. 🎯 **Demostrar interés por el puesto**  
+   El/la candidato/a debe conocer los motivos por los que está interesado en el puesto y así podrá demostrar sus habilidades o conocimientos profesionales y lo que puede aportar a la empresa.
+
+2. 🏢 **Conocer la empresa a la que se dirige**  
+   Demostrar este conocimiento al entrevistador genera una buena impresión.
+
+3. ❓ **Estar preparado para las preguntas**  
+   Debe saber defenderse poniendo en valor su interés y sus opciones.
+
+4. 🌟 **Demostración de cualidades personales**  
+   Algunas de ellas son: energía, motivación, seguridad en uno mismo, responsabilidad, organización, etc.
+
+5. 🔚 **Finalizar la entrevista**  
+   El candidato puede preguntar si debe ampliar algún punto tratado, si habrá otra entrevista o cómo será informado sobre los resultados.
+
+> [!tip]
+> En este vídeo se ofrecen consejos prácticos para preparar la entrevista de trabajo:
+>
+> <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; text-align: center;">
+> <iframe 
+>  src="https://www.youtube.com/embed/vmJvWtyeQG0"
+>  title="Consejos para preparar una entrevista de trabajo"
+>  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
 >  frameborder="0"
 >  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share"
 >  referrerpolicy="strict-origin-when-cross-origin"
@@ -585,31 +1047,75 @@ El primero permite ver con claridad la evolución profesional del candidato y, e
 
 ---
 
-{{seguimos por el punto 4.3.6.}}
+### 6.3. Pruebas profesionales
 
+Otros tipos de ejercicios que pueden plantearse son las llamadas **pruebas profesionales, psicotécnicas o de personalidad**.
 
+Estas pruebas están relacionadas con los requisitos del puesto de trabajo. Evalúan factores psicológicos (inteligencia, aptitudes, capacidades, personalidad, valores personales, etc.) y competencias profesionales.
 
+- 🧪 **Pruebas profesionales**  
+  Valoran los conocimientos específicos de una profesión.  
+  
+  > [!tip] Ejemplo
+  >
+  > Pruebas de Word y Excel, cuestionarios, idiomas, programas informáticos, etc.  
+  > Se utilizan para discriminar entre candidatos con experiencia o para medir conocimientos imprescindibles para el puesto.
+  
+- 🧠 **Pruebas psicotécnicas**  
+  Evalúan aptitudes, intereses o valores del candidato.  
+  Pueden medir razonamiento espacial, razonamiento numérico, memoria, resolución de problemas, inteligencia, etc.  
+  Son útiles cuando participan muchos aspirantes, ya que permiten evaluar a varias personas en poco tiempo.
 
+---
 
+🟧 **Dentro de las pruebas psicotécnicas encontramos:**
 
+- 🎯 **Test de intereses y motivación**  
+  Buscan conocer preferencias y aptitudes generales del candidato.
 
+- 🌟 **Test de personalidad**  
+  Evalúan rasgos como autocontrol, liderazgo, responsabilidad, introversión/extroversión, etc.  
+  Útiles para perfiles donde la personalidad es clave (policía, guardia civil…).
 
+> [!important]
+>
+> - 🛠️ Las pruebas profesionales evalúan conocimientos y aptitudes directamente relacionados con el puesto.  
+> - ✔️ Suelen calificarse como *apto* o *no apto*.
 
+---
 
+🟧 **Existe una gran diversidad de pruebas profesionales, como:**
 
+1. 🌍 Pruebas de idiomas.  
+2. 💻 Pruebas de programas informáticos (procesadores de texto, diseño gráfico…).  
+3. 🔧 Reparación de componentes eléctricos.  
+4. 🧩 Ensamblaje de piezas.  
+5. 📝 Exámenes orales o escritos de conocimientos relacionados con el empleo.  
+6. 📊 Ejercicios de contabilidad.
 
+> [!note] Diferencias con los test de aptitudes  
+>
+> - 🔮 **Test de aptitudes**: miden la capacidad futura de desempeño.  
+> - 🎓 **Pruebas profesionales**: predicen el desempeño inmediato basado en conocimientos y habilidades demostradas.
 
+---
 
+🟧 **Recomendaciones para enfrentarse a las pruebas**
 
+- 📌 Asegúrate de entender correctamente las instrucciones. Si dudas, pregunta.  
+- ⏱️ Organiza el tiempo según el plazo asignado.  
+- 🧠 Cuida toda la ejecución: también se evalúa el proceso, no solo el resultado.
 
+---
 
+🟧 **Más información**
 
+> [!tip] Recursos  
+>
+> - 🧪 Ejemplos de test psicotécnicos: https://www.psicoactiva.com/tests  
+> - 📚 Resumen de pruebas de selección: https://www.educaweb.com
 
-
-
-
-
-
+---
 
 
 
@@ -627,68 +1133,89 @@ El primero permite ver con claridad la evolución profesional del candidato y, e
 ![image-20251125193511075](img/MF1446 - UF02 - La formación profesional. Estrategias y herramientas para la búsqueda de empleo/image-20251125193511075.png)
 
 ---
-## Ejercicio X: {{enunciado}}
+## Ejercicio 10: Relaciona tipos de curriculums y cartas
 
-Solución
-
----
-## Ejercicio X: {{enunciado}}
-
-Solución
+![image-20251126112439029](img/MF1446 - UF02 - La formación profesional. Estrategias y herramientas para la búsqueda de empleo/image-20251126112439029.png)
 
 ---
-## Ejercicio X: {{enunciado}}
+## Ejercicio 11: Selecciona las correctas (estrategias y búsqueda de empleo)
 
-Solución
-
----
-## Ejercicio X: {{enunciado}}
-
-Solución
+![image-20251126134702721](img/MF1446 - UF02 - La formación profesional. Estrategias y herramientas para la búsqueda de empleo/image-20251126134702721.png)
 
 ---
-## Ejercicio X: {{enunciado}}
+## Ejercicio 12: Las entrevistas se pueden clasificar en:
 
-Solución
-
----
-## Ejercicio X: {{enunciado}}
-
-Solución
+![image-20251126143117604](img/MF1446 - UF02 - La formación profesional. Estrategias y herramientas para la búsqueda de empleo/image-20251126143117604.png)
 
 ---
-## Ejercicio X: {{enunciado}}
+## Ejercicio 13: Selecciona afirmaciones correctas (proceso de selección)
 
-Solución
+![image-20251126144420763](img/MF1446 - UF02 - La formación profesional. Estrategias y herramientas para la búsqueda de empleo/image-20251126144420763.png)
 
----
-## Ejercicio X: {{enunciado}}
-
-Solución
-
----
-## Ejercicio X: {{enunciado}}
-
-Solución
-
----
-## Ejercicio X: {{enunciado}}
-
-Solución
+| Opción | V/F         | Justificación                                                |
+| ------ | ----------- | ------------------------------------------------------------ |
+| a      | ✔️ Verdadera | El proceso de selección busca cubrir un puesto con el perfil profesional más adecuado. |
+| b      | ❌ Falsa     | La comunicación no verbal es importante, pero no es “el elemento fundamental” ni excluye la verbal. |
+| c      | ✔️ Verdadera | El temario define las competencias como comportamientos observables vinculados al desempeño excelente. |
+| d      | ❌ Falsa     | La entrevista por competencias recoge ejemplos tanto laborales como formativos o personales, no solo personales. |
+| e      | ✔️ Verdadera | El temario indica que la entrevista dirigida se usa para obtener información objetiva y la abierta para conocer la personalidad. |
+| f      | ❌ Falsa     | La entrevista mixta combina entrevista dirigida y abierta, no incluye test psicotécnicos. |
+| g      | ✔️ Verdadera | La entrevista de tensión evalúa la reacción ante presión, críticas o estrés. |
+| h      | ❌ Falsa     | Las pruebas profesionales no “valoran Word y Excel” como única cosa; valoran conocimientos específicos del puesto (idiomas, programas, tareas técnicas, etc.). |
+| i      | ✔️ Verdadera | Los test de personalidad evalúan rasgos como autocontrol, liderazgo o responsabilidad, útil en puestos donde la personalidad es clave. |
+| j      | ✔️ Verdadera | Una de las recomendaciones es entender bien las instrucciones antes de comenzar la prueba. |
 
 ---
-## Ejercicio X: {{enunciado}}
+## Ejercicio 14: Relaciona cada tipo prueba con su explicación
 
-Solución
-
----
-## Ejercicio X: {{enunciado}}
-
-Solución
+![image-20251126144541114](img/MF1446 - UF02 - La formación profesional. Estrategias y herramientas para la búsqueda de empleo/image-20251126144541114.png)
 
 ---
-## Ejercicio X: {{enunciado}}
+## Ejercicio Ponte a prueba
 
-Solución
+![image-20251126194524735](img/MF1446 - UF02 - La formación profesional. Estrategias y herramientas para la búsqueda de empleo/image-20251126194524735.png)
+
+### Caso 1 – Guías de recursos de empleo y formación
+
+Carlos quiere que su alumnado realice una Guía de Recursos de Empleo y Formación. ¿Cómo debe enfocarlo?
+
+1️⃣ **OPCIÓN 1 – Correcta**  
+Carlos pide que elaboren una guía enfocada en **recursos para trabajar como docentes**, porque el objetivo del módulo es insertarse laboralmente en la **docencia**. Cada persona puede adaptarla a su área profesional.
+
+2️⃣ **OPCIÓN 2 – Incorrecta**  
+Enfocar la guía a la profesión de origen (cocina, enfermería…) desvía el propósito. El objetivo es buscar empleo **como docente**, no en el sector previo.
+
+3️⃣ **OPCIÓN 3 – Incorrecta**  
+Dejar elegir libremente rompe la coherencia formativa. La guía debe centrarse en **recursos del ámbito docente**.
+
+---
+
+### Caso 2 – Nivel de concreción en la guía
+
+El alumnado está siendo muy generalista y no concreta empresas ni entidades. ¿Qué debe hacer Carlos?
+
+1️⃣ **OPCIÓN 1 – Incorrecta**  
+Aceptar que la guía sea generalista no cumple la finalidad. Una guía debe incluir **recursos reales y concretos**, no solo descripciones teóricas.
+
+2️⃣ **OPCIÓN 2 – Correcta**  
+Carlos debe orientarles a concretar **empresas, centros y entidades específicas**, además de acciones formativas o eventos reales. La guía debe ser **práctica y aplicable**.
+
+3️⃣ **OPCIÓN 3 – Incorrecta**  
+Dar una guía ya hecha impide que aprendan a **investigar y elaborar sus propios recursos**.
+
+---
+
+### Caso 3 – Cómo fomentar que consulten la guía
+
+Una vez recopilada la información, ¿qué puede hacer Carlos para que las guías sean consultadas?
+
+1️⃣ **OPCIÓN 1 – Incorrecta**  
+Dejarla como está no resuelve nada. La guía debe facilitar la consulta y ser **fácil de usar**.
+
+2️⃣ **OPCIÓN 2 – Correcta**  
+Mejorar la guía con **esquemas, cuadros y estructura visual clara** facilita su consulta. La funcionalidad aumenta su utilidad real.
+
+3️⃣ **OPCIÓN 3 – Incorrecta**  
+Hacerla más llamativa no necesariamente mejora su uso. La estética no sustituye a la **claridad y practicidad**.
 
 ---
