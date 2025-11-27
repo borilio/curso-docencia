@@ -357,7 +357,7 @@
       "icon": "pi pi-graduation-cap",
       "color": "#1c4c75",
       "expandible": true,
-      "contraido": false,
+      "contraido": true,
       "habilitado": true,
       "temas": [
         {
