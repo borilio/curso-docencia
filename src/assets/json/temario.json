@@ -456,7 +456,7 @@
         },
         {
           "id": "MF1444-UF1646-tests",
-          "orden": 3,
+          "orden": 4,
           "titulo": "MF1444_3 - UF1646 - Tests",
           "descripcion": "Todos los test de la unidad",
           "archivoMd": "tests/MF1444-UF1646-tests.md",
@@ -469,7 +469,7 @@
         },
         {
           "id": "MF1445_3-test",
-          "orden": 4,
+          "orden": 5,
           "titulo": "MF1445_3 - Tests",
           "descripcion": "Todos los test de la unidad",
           "archivoMd": "tests/MF1445-test-final.md",
@@ -478,10 +478,10 @@
           "img": "",
           "severity": "success",
           "outlined": false,
-          "habilitado": false
+          "habilitado": true
         },{
           "id": "MF1446_3-test",
-          "orden": 5,
+          "orden": 6,
           "titulo": "MF1446_3 - Tests",
           "descripcion": "Todos los test de la unidad",
           "archivoMd": "tests/MF1446-test-final.md",
@@ -490,7 +490,7 @@
           "img": "",
           "severity": "success",
           "outlined": false,
-          "habilitado": false
+          "habilitado": true
         }
         
       ]
