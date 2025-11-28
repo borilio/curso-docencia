@@ -44,7 +44,7 @@ b) La competencia.
 c) Las cualificaciones.  
 d) El Curriculum.
 
-**0.7) Con la Ley Orgánica 5/2002... acreditar a un trabajador en una cualificación profesional oficial mediante:**  
+**0.7) Con la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, se aprueba el reconocimiento y la acreditación de las competencias profesionales adquiridas tanto a través de procesos formativos como de la experiencia laboral, con el fin de acreditar a un trabajador en una cualificación profesional oficial mediante:**   
 a) Los Certificados de Profesionalidad.  
 b) La formación ocupación.  
 c) La formación continua.  
